@@ -48,14 +48,14 @@ footer{
 	height:30px;
 }
 .guess{
-	flex:0.35;
+	flex:0.35 1 0;
 	border:1px solid black;
 	padding-top:3px;
 	text-align:center;
 }
 .quote{
 	border:1px solid black;
-	flex:0.65;
+	flex:0.65 1 0;
 	text-align:center;
 	padding-top:3px;
 }

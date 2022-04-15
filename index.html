@@ -11,11 +11,15 @@
 	</head>
 	<body>
 		<div id="main">
-			<div>
-				<h4 style="font-family: 'Comic Sans MS', 'Comic Sans';font-size:20px;float:left;">Poetle</h4>
+			<div style="text-align:center; width:100%;max-width:40em;">
+				<img src="qmark.png" onclick="showFaqs();" style="width:30px;height:30px;float:left;cursor:grab;"/>
+				<h4 style="font-family: 'Comic Sans MS', 'Comic Sans';font-size:20px;display:inline-block;margin:0px;">Poetle</h4>
 				<img src="cover8.jpg" style="width:60px;height:60px;float:right;"/>
+				
 			</div>
 			<div id="dialog" title="FAQS">
+				Guess the poet given some quotes from them. 
+				The quotes (are supposed to) get more popular every time you guess wrong.
 				<ul>
 					<li>
 						Some of the data might be broken; let me know if you see an answerline that's not actually a poet or a quote that doesn't belong to the poet in answer etc.
@@ -25,12 +29,7 @@
 					</li>
 				</ul>
 			</div>
-			<div style="text-align:left;width:100%;max-width:40em;">
-				We give you some quotes from a poet (N.B. not necessarily from their poems), you give us which poet it is from. 
-				The quotes (are supposed to) get more popular every time you guess wrong. Click <a id="myLink" href="#" onclick="showFaqs();return false;">here</a> for FAQS.
-
-			</div>
-			<div style="width:100%;max-width:40em;">
+			<div style="width:100%;max-width:40em;margin-top:10px;">
 				<div class="quote_guess">
 					<div id="q1" class="quote">
 					</div>
@@ -39,7 +38,6 @@
 				</div>
 				<div class="quote_guess">
 					<div id="q2"class="quote">
-					aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 					</div>
 					<div id="g2" class="guess"></div>				
 				</div>
