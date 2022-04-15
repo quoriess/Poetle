@@ -35,7 +35,6 @@ function valueEntered() {
     }
     ne.textContent = txtbox.value;
     if(txtbox.value==keyNow){
-		alert("You got it");
 		tries=gs;
 		$("#g"+gs).css("background-color","green");
 		while(clueNo<5)nextClue();
