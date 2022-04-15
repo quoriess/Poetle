@@ -1,0 +1,61 @@
+
+#main {
+  font-family:arial;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.quote_guess{
+	height:40px;
+	margin-top:10px;
+}
+.txtbox_buton{
+	margin-top:20px
+}
+.txtbox{
+	width:74%;
+	float:left;
+	height:30px;
+}
+.hiddenBox{
+	display:none;
+	margin-top:10px;
+}
+#dialog{
+}
+footer{
+	position: fixed;
+    height: 20px;
+	font-family:"Consolas";
+	font-size:8px;
+	float:left;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+	
+}
+.enter{
+	width:22%;
+	float:right;
+	height:30px;
+}
+.guess{
+	border:0px;
+	width:34%;
+	margin:0px;
+	float:right;
+	border:1px solid black;
+	height:40px;
+	padding-top:3px;
+	text-align:center;
+}
+.quote{
+	float:left;
+	border:1px solid black;
+	width:65%;
+	margin:0px;
+	height:40px;
+	text-align:center;
+	padding-top:3px;
+}

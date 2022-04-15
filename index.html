@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<script src="thedata.js"></script>
+		<link rel="stylesheet" href="thestyle.css"/> 
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" integrity="sha512-aOG0c6nPNzGk+5zjwyJaoRUgCdOrfSDhmMID2u4+OIslr0GjpLKo7Xm0Ao3xmpM4T8AmIouRkqwj1nrdVsLKEQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+		<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+		<script type="text/javascript" src="uiscript.js"></script>
+		<script type="text/javascript" src="thecode.js"></script>
+	</head>
+	<body>
+		<div id="main">
+			<div>
+				<h4 style="font-family: 'Comic Sans MS', 'Comic Sans';font-size:20px;float:left;">Poetle</h4>
+				<img src="cover8.jpg" style="width:60px;height:60px;float:right;"/>
+			</div>
+			<div id="dialog" title="FAQS">
+				<ul>
+					<li>
+						Some of the data might be broken; let me know if you see an answerline that's not actually a poet or a quote that doesn't belong to the poet in answer etc.
+					</li>
+					<li>
+						French characters are broken and will stay so.
+					</li>
+				</ul>
+			</div>
+			<div style="text-align:left;width:50%;min-width:40em;">
+				We give you some quotes from a poet (N.B. not necessarily from their poems), you give us which poet it is from. 
+				The quotes (are supposed to) get more popular every time you guess wrong. Click <a id="myLink" href="#" onclick="showFaqs();return false;">here</a> for FAQS.
+
+			</div>
+			<div style="width:50%;min-width:40em;">
+				<div class="quote_guess">
+					<div id="q1" class="quote">
+					</div>
+					<div id="g1" class="guess">
+					</div>				
+				</div>
+				<div class="quote_guess">
+					<div id="q2"class="quote"></div>
+					<div id="g2" class="guess"></div>				
+				</div>
+				<div class="quote_guess">
+					<div id="q3" class="quote"></div>
+					<div id="g3" class="guess"></div>				
+				</div>
+				<div class="quote_guess">
+					<div id="q4" class="quote"></div>
+					<div id="g4" class="guess"></div>				
+				</div>
+				<div class="quote_guess">
+					<div id="q5" class="quote"></div>
+					<div id="g5" class="guess"></div>				
+				</div>
+				<div class="hiddenBox"></div>
+				<div class="txtbox_buton">
+					<input type="text" class="txtbox" id="txtbox"/>
+					<button class="enter" id="enter" onclick="valueEntered()">Enter</button>
+				</div>
+			</div>
+		</div>
+		<footer>
+		  <p style="float:left;">Made By: Omer Keskin</p>
+		  <p style="float:left;">&nbsp;&nbsp;&nbsp;Powered by QuizDB</p>
+		</footer>
+	</body>
+</html>
