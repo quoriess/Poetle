@@ -18050,12 +18050,6 @@ var poetsData={
       "Freq": 10
     },
     {
-      "Text": "\"upon Cromwell's return from Ireland,\"",
-      "Author": "Horace",
-      "JValue": 0.5173501577287067,
-      "Freq": 10
-    },
-    {
       "Text": "\"deus ex machina.\"",
       "Author": "Horace",
       "JValue": 0.8769716088328077,
