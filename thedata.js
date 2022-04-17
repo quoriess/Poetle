@@ -1,4 +1,4 @@
-var keys=["Elizabeth Bishop","Matthew Arnold","Andrew Marvell","Seamus Heaney","Phillis Wheatley","Pablo Neruda","Gerard Manley Hopkins","W. H. Auden","William Shakespeare","Paul Laurence Dunbar","Philip Freneau","Gabriela Mistral","Walt Whitman","Christopher Marlowe","Robinson Jeffers","A. E. Housman","Ben Jonson","Robert Browning","Jorge Luis Borges","Dante Gabriel Rossetti","Dylan Thomas","Edwin Arlington Robinson","George Herbert","Dorothy Parker","Adrienne Rich","Ezra Pound","Rubén Darío","D. H. Lawrence","Charles Baudelaire","Robert Frost","Derek Walcott","W. B. Yeats","William Blake","Robert Graves","Petrarch","Robert Lowell","Ovid","Sappho","Rupert Brooke","François Villon","Hart Crane","Ralph Waldo Emerson","John Milton","Federico García Lorca","John Greenleaf Whittier","Friedrich Schiller","Stephen Crane","Alfred, Lord Tennyson","James Joyce","Herman Melville","Catullus","Percy Bysshe Shelley","Octavio Paz","Rudyard Kipling","Horace","John Donne","John Berryman","Henry Wadsworth Longfellow","John Keats","William Wordsworth","Wilfred Owen","Emily Dickinson","Oliver Wendell Holmes Sr.","Christina Rossetti","Samuel Taylor Coleridge","Arthur Rimbaud","Callimachus","Constantine P. Cavafy","Paul Verlaine","Allen Ginsberg","Robert Herrick (poet)","Theodore Roethke","Wallace Stevens","Vachel Lindsay","Thomas Hardy","Guillaume Apollinaire","Rainer Maria Rilke","Rabindranath Tagore","Edna St. Vincent Millay","Thomas Gray","Du Fu","Stephen Vincent Benét","Archibald MacLeish","John Dryden","Rita Dove","Aphra Behn","Lord Byron","Sylvia Plath","Maya Angelou","Li Bai","William Carlos Williams","Alexander Pope","Anne Bradstreet","Dante Alighieri","John Ashbery","Sidney Lanier","T. S. Eliot","Virgil","Rumi","Elinor Wylie","Elizabeth Barrett Browning","Robert Burns","Philip Sidney","Edmund Spenser","Anna Akhmatova","Joseph Brodsky","Dark Lady (Shakespeare)","Kahlil Gibran","Mikhail Lermontov","Anthony Hecht","Novalis","José Martí","Patricia Lockwood","James Merrill","Henry David Thoreau","Amy Lowell","Cecil Day-Lewis","John Suckling (poet)","Tomas Tranströmer","Yevgeny Yevtushenko","Leigh Hunt","Louise Glück","Giacomo Leopardi"]
+var keys=["Elizabeth Bishop","Matthew Arnold","Andrew Marvell","Seamus Heaney","Phillis Wheatley","Pablo Neruda","Gerard Manley Hopkins","W. H. Auden","William Shakespeare","Paul Laurence Dunbar","Philip Freneau","Gabriela Mistral","Walt Whitman","Christopher Marlowe","Robinson Jeffers","A. E. Housman","Ben Jonson","Robert Browning","Jorge Luis Borges","Dante Gabriel Rossetti","Dylan Thomas","Edwin Arlington Robinson","George Herbert","Dorothy Parker","Adrienne Rich","Ezra Pound","Rubén Darío","D. H. Lawrence","Charles Baudelaire","Robert Frost","Derek Walcott","W. B. Yeats","William Blake","Robert Graves","Petrarch","Robert Lowell","Ovid","Sappho","Rupert Brooke","Hart Crane","Ralph Waldo Emerson","John Milton","Federico García Lorca","John Greenleaf Whittier","Friedrich Schiller","Stephen Crane","Alfred, Lord Tennyson","James Joyce","Herman Melville","Catullus","Percy Bysshe Shelley","Octavio Paz","Rudyard Kipling","Horace","John Donne","John Berryman","John Keats","William Wordsworth","Wilfred Owen","Emily Dickinson","Oliver Wendell Holmes Sr.","Christina Rossetti","Samuel Taylor Coleridge","Arthur Rimbaud","Callimachus","Constantine P. Cavafy","Paul Verlaine","Allen Ginsberg","Robert Herrick (poet)","Theodore Roethke","Wallace Stevens","Vachel Lindsay","Thomas Hardy","Henry Wadsworth Longfellow","Guillaume Apollinaire","Rainer Maria Rilke","Rabindranath Tagore","Edna St. Vincent Millay","Thomas Gray","Du Fu","Stephen Vincent Benét","Archibald MacLeish","John Dryden","Rita Dove","Aphra Behn","Lord Byron","Sylvia Plath","Maya Angelou","Li Bai","William Carlos Williams","Alexander Pope","Anne Bradstreet","Dante Alighieri","John Ashbery","Sidney Lanier","T. S. Eliot","Virgil","Rumi","Elinor Wylie","Elizabeth Barrett Browning","Robert Burns","Philip Sidney","Edmund Spenser","Anna Akhmatova","Joseph Brodsky","Dark Lady (Shakespeare)","Kahlil Gibran","Mikhail Lermontov","Anthony Hecht","Novalis","José Martí","Patricia Lockwood","James Merrill","Henry David Thoreau","Amy Lowell","Cecil Day-Lewis","John Suckling (poet)","Tomas Tranströmer","Yevgeny Yevtushenko","Leigh Hunt","Louise Glück","Giacomo Leopardi"]
 var poetsData={
   "Elizabeth Bishop": [
     {
@@ -10080,8 +10080,8 @@ var poetsData={
     {
       "Text": "\"great white wings\"",
       "Author": "Charles Baudelaire",
-      "JValue": 0.5665943004524667,
-      "Freq": 28
+      "JValue": 0.5195389910897009,
+      "Freq": 22
     },
     {
       "Text": "\"dreams of scaffolds as he smokes his hookah pipe\"",
@@ -10392,8 +10392,8 @@ var poetsData={
     {
       "Text": "\"take pity on my long misery\"",
       "Author": "Charles Baudelaire",
-      "JValue": 0.4769645702174942,
-      "Freq": 22
+      "JValue": 0.510664993726474,
+      "Freq": 16
     },
     {
       "Text": "\"refined monster\"",
@@ -10510,42 +10510,6 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"What does God do with the wave of curses that rises every daytoward his dear Seraphim?\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.1654978962131837,
-      "Freq": 6
-    },
-    {
-      "Text": "\"wisest and fairest of Angels\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.4127101680220659,
-      "Freq": 12
-    },
-    {
-      "Text": "\"mark on the brow of Croesus\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.3141654978962132,
-      "Freq": 6
-    },
-    {
-      "Text": "\"prince of cloud and sky\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.6563814866760168,
-      "Freq": 6
-    },
-    {
-      "Text": "\"drag like oars\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.7699859747545582,
-      "Freq": 6
-    },
-    {
-      "Text": "\" in hiscollection The Flowers of Evil.",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.9957924263674615,
-      "Freq": 6
-    },
-    {
       "Text": "\"I'll plunge my head, enamored of its pleasure, In thisblack ocean where the other hides\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.17222963951935918,
@@ -10555,6 +10519,12 @@ var poetsData={
       "Text": "\"There,there is nothing else but grace and measure; richness, quietness and pleasure\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.35914552736982636,
+      "Freq": 6
+    },
+    {
+      "Text": "\"the wisest and fairest of the Angels ...betrayed by destiny and deprived of praise\"",
+      "Author": "Charles Baudelaire",
+      "JValue": 0.5687583444592791,
       "Freq": 6
     },
     {
@@ -13742,6 +13712,12 @@ var poetsData={
       "Freq": 5
     },
     {
+      "Text": "\"is less interested in the finer aspects of love-longing than in his witty comparison between animal and woman.\"",
+      "Author": "Ovid",
+      "JValue": 0.25759416767922233,
+      "Freq": 5
+    },
+    {
       "Text": "\"every lover is a soldier\"",
       "Author": "Ovid",
       "JValue": 0.09724770642201835,
@@ -14044,62 +14020,6 @@ var poetsData={
       "Author": "Rupert Brooke",
       "JValue": 0.6270430906389302,
       "Freq": 2
-    }
-  ],
-  "François Villon": [
-    {
-      "Text": "\"Welcomed gladly, and spurned by everyone\"",
-      "Author": "François Villon",
-      "JValue": 0.06196721311475409,
-      "Freq": 1
-    },
-    {
-      "Text": "\"dying of thirst beside the fountain.\"",
-      "Author": "François Villon",
-      "JValue": 0.13158469945355192,
-      "Freq": 1
-    },
-    {
-      "Text": "\"my neck will learn the weight of my ass.\"",
-      "Author": "François Villon",
-      "JValue": 0.22185792349726777,
-      "Freq": 1
-    },
-    {
-      "Text": "\"rinsed and laundered by the rain, And by the sunlight dried and blackened too,\"",
-      "Author": "François Villon",
-      "JValue": 0.3090710382513661,
-      "Freq": 1
-    },
-    {
-      "Text": "\"to and fro sway at the wind's fantasy.\"",
-      "Author": "François Villon",
-      "JValue": 0.34349726775956285,
-      "Freq": 1
-    },
-    {
-      "Text": "\"Nay, never ask this week, fair lord, Where they are gone, nor yet this year.\"",
-      "Author": "François Villon",
-      "JValue": 0.5248087431693989,
-      "Freq": 1
-    },
-    {
-      "Text": "\"But where are the snows of yesteryear?\"",
-      "Author": "François Villon",
-      "JValue": 0.6112568306010928,
-      "Freq": 1
-    },
-    {
-      "Text": "\"Necessity makes people err, And hunger drives the wolf from the woods.\"",
-      "Author": "François Villon",
-      "JValue": 0.22245762711864406,
-      "Freq": 1
-    },
-    {
-      "Text": "\"Brothers, men who live after us,",
-      "Author": "François Villon",
-      "JValue": 1.0,
-      "Freq": 1
     }
   ],
   "Hart Crane": [
@@ -18050,6 +17970,12 @@ var poetsData={
       "Freq": 10
     },
     {
+      "Text": "\"upon Cromwell's return from Ireland,\"",
+      "Author": "Horace",
+      "JValue": 0.5173501577287067,
+      "Freq": 10
+    },
+    {
       "Text": "\"deus ex machina.\"",
       "Author": "Horace",
       "JValue": 0.8769716088328077,
@@ -18652,266 +18578,6 @@ var poetsData={
       "Author": "John Berryman",
       "JValue": 0.5641481481481481,
       "Freq": 3
-    }
-  ],
-  "Henry Wadsworth Longfellow": [
-    {
-      "Text": "\"O sightless bard, England's M",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 1.0,
-      "Freq": 1
-    },
-    {
-      "Text": "\"a youth, who bore, 'mid snow and ice, a banner with the strange device\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.32710280373831774,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Tell me not, in mournful numbers, Life is but an empty dream!\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.4567347034499909,
-      "Freq": 48
-    },
-    {
-      "Text": "\"to avenge his father slain, and reconquer realm and reign\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.6623831775700936,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Christ save us all from a death like this, on the reef of Norman's Woe!\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.8014018691588785,
-      "Freq": 12
-    },
-    {
-      "Text": "\"the shores of Gitche Gumee\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.9089987851670097,
-      "Freq": 24
-    },
-    {
-      "Text": "\"We can make our lives sublime,\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.1534154510981334,
-      "Freq": 24
-    },
-    {
-      "Text": "\"And, departing, leave behind us\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.16265912305516264,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Footprints on the sands of time\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.16265912305516264,
-      "Freq": 12
-    },
-    {
-      "Text": "\"face of one long dead\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.23479490806223471,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Let us, then, be up and doing\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.4314002828854315,
-      "Freq": 12
-    },
-    {
-      "Text": "\"With a heart for fate\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.4314002828854315,
-      "Freq": 12
-    },
-    {
-      "Text": "\"under a spreading chestnut tree\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.7029702970297028,
-      "Freq": 12
-    },
-    {
-      "Text": "\"This is the forest primeval\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.6245075610965237,
-      "Freq": 48
-    },
-    {
-      "Text": "\"changeless since the day she died.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.20761810397391375,
-      "Freq": 24
-    },
-    {
-      "Text": "\"one if by land, two if by sea\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.6923056088541952,
-      "Freq": 24
-    },
-    {
-      "Text": "\"These Hebrews in their graves\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.7665706051873199,
-      "Freq": 12
-    },
-    {
-      "Text": "\"this is the forest primeval.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.665687519847571,
-      "Freq": 24
-    },
-    {
-      "Text": "\"Grave Alice, and laughing Allegra, And Edith with golden hair.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.44002332757797286,
-      "Freq": 24
-    },
-    {
-      "Text": "\"Listen my children and you shall hear\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.5483928940708428,
-      "Freq": 24
-    },
-    {
-      "Text": "\"by the shores of Gitchee Gumee, by the shining Big-Sea-Water.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.8598946599413527,
-      "Freq": 36
-    },
-    {
-      "Text": "\"I will keep you there forever\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.09781209781209778,
-      "Freq": 12
-    },
-    {
-      "Text": "\"round-tower of my heart\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.14028314028314035,
-      "Freq": 12
-    },
-    {
-      "Text": "\"till the walls should crumble to ruin, and molder in dust away.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.22522522522522517,
-      "Freq": 12
-    },
-    {
-      "Text": "\"the eighteenth of April, in Seventy-Five\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.5372262773722626,
-      "Freq": 12
-    },
-    {
-      "Text": "\"[o]ne, if by land, two, if by sea.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.7523313788839695,
-      "Freq": 24
-    },
-    {
-      "Text": "\"soul more white never through martyrdom of fire was led to its repose\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.14125200642054578,
-      "Freq": 12
-    },
-    {
-      "Text": "\"the secret dread of the lonely belfry and the dead.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.39325842696629204,
-      "Freq": 12
-    },
-    {
-      "Text": "\"the poem of the air\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.11147540983606553,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Slowly, in silent syllables recorded,\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.11147540983606553,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Dust thou art, to dust returnest\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.2579234972677595,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Was not spoken of the soul\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.2579234972677595,
-      "Freq": 12
-    },
-    {
-      "Text": "\"A boy's will is the wind's will,\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.4284153005464481,
-      "Freq": 12
-    },
-    {
-      "Text": "\"And the thoughts of youth are long, long thoughts,\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.4284153005464481,
-      "Freq": 12
-    },
-    {
-      "Text": "\"climb[s] the tower of the Old North Church\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.7540983606557375,
-      "Freq": 12
-    },
-    {
-      "Text": "\"Learn to labor and to wait\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.07978723404255318,
-      "Freq": 12
-    },
-    {
-      "Text": "\"For the soul is dead that slumbers\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.20345744680851063,
-      "Freq": 12
-    },
-    {
-      "Text": "\"And things are not what they seem,\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.20345744680851063,
-      "Freq": 12
-    },
-    {
-      "Text": "\"finger on the lips of care\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.1392215568862276,
-      "Freq": 12
-    },
-    {
-      "Text": "\"blue-eyed banditti\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.23652694610778446,
-      "Freq": 12
-    },
-    {
-      "Text": "\"such an old mustache as I am\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.32934131736526945,
-      "Freq": 12
-    },
-    {
-      "Text": "\"is not a match for you all!\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.32934131736526945,
-      "Freq": 12
-    },
-    {
-      "Text": "\"the banks of Gitche-Gumee\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.9565868263473051,
-      "Freq": 12
     }
   ],
   "John Keats": [
@@ -24070,6 +23736,260 @@ var poetsData={
       "Author": "Thomas Hardy",
       "JValue": 0.44575471698113217,
       "Freq": 14
+    }
+  ],
+  "Henry Wadsworth Longfellow": [
+    {
+      "Text": "\"a youth, who bore, 'mid snow and ice, a banner with the strange device\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.32710280373831774,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Tell me not, in mournful numbers, Life is but an empty dream!\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.4567347034499909,
+      "Freq": 48
+    },
+    {
+      "Text": "\"to avenge his father slain, and reconquer realm and reign\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.6623831775700936,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Christ save us all from a death like this, on the reef of Norman's Woe!\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.8014018691588785,
+      "Freq": 12
+    },
+    {
+      "Text": "\"the shores of Gitche Gumee\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.9089987851670097,
+      "Freq": 24
+    },
+    {
+      "Text": "\"We can make our lives sublime,\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.1534154510981334,
+      "Freq": 24
+    },
+    {
+      "Text": "\"And, departing, leave behind us\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.16265912305516264,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Footprints on the sands of time\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.16265912305516264,
+      "Freq": 12
+    },
+    {
+      "Text": "\"face of one long dead\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.23479490806223471,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Let us, then, be up and doing\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.4314002828854315,
+      "Freq": 12
+    },
+    {
+      "Text": "\"With a heart for fate\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.4314002828854315,
+      "Freq": 12
+    },
+    {
+      "Text": "\"under a spreading chestnut tree\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.7029702970297028,
+      "Freq": 12
+    },
+    {
+      "Text": "\"This is the forest primeval\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.6245075610965237,
+      "Freq": 48
+    },
+    {
+      "Text": "\"changeless since the day she died.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.20761810397391375,
+      "Freq": 24
+    },
+    {
+      "Text": "\"one if by land, two if by sea\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.6923056088541952,
+      "Freq": 24
+    },
+    {
+      "Text": "\"These Hebrews in their graves\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.7665706051873199,
+      "Freq": 12
+    },
+    {
+      "Text": "\"this is the forest primeval.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.665687519847571,
+      "Freq": 24
+    },
+    {
+      "Text": "\"Grave Alice, and laughing Allegra, And Edith with golden hair.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.44002332757797286,
+      "Freq": 24
+    },
+    {
+      "Text": "\"Listen my children and you shall hear\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.5483928940708428,
+      "Freq": 24
+    },
+    {
+      "Text": "\"by the shores of Gitchee Gumee, by the shining Big-Sea-Water.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.8598946599413527,
+      "Freq": 36
+    },
+    {
+      "Text": "\"I will keep you there forever\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.09781209781209778,
+      "Freq": 12
+    },
+    {
+      "Text": "\"round-tower of my heart\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.14028314028314035,
+      "Freq": 12
+    },
+    {
+      "Text": "\"till the walls should crumble to ruin, and molder in dust away.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.22522522522522517,
+      "Freq": 12
+    },
+    {
+      "Text": "\"the eighteenth of April, in Seventy-Five\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.5372262773722626,
+      "Freq": 12
+    },
+    {
+      "Text": "\"[o]ne, if by land, two, if by sea.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.7523313788839695,
+      "Freq": 24
+    },
+    {
+      "Text": "\"soul more white never through martyrdom of fire was led to its repose\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.14125200642054578,
+      "Freq": 12
+    },
+    {
+      "Text": "\"the secret dread of the lonely belfry and the dead.\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.39325842696629204,
+      "Freq": 12
+    },
+    {
+      "Text": "\"the poem of the air\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.11147540983606553,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Slowly, in silent syllables recorded,\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.11147540983606553,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Dust thou art, to dust returnest\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.2579234972677595,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Was not spoken of the soul\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.2579234972677595,
+      "Freq": 12
+    },
+    {
+      "Text": "\"A boy's will is the wind's will,\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.4284153005464481,
+      "Freq": 12
+    },
+    {
+      "Text": "\"And the thoughts of youth are long, long thoughts,\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.4284153005464481,
+      "Freq": 12
+    },
+    {
+      "Text": "\"climb[s] the tower of the Old North Church\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.7540983606557375,
+      "Freq": 12
+    },
+    {
+      "Text": "\"Learn to labor and to wait\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.07978723404255318,
+      "Freq": 12
+    },
+    {
+      "Text": "\"For the soul is dead that slumbers\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.20345744680851063,
+      "Freq": 12
+    },
+    {
+      "Text": "\"And things are not what they seem,\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.20345744680851063,
+      "Freq": 12
+    },
+    {
+      "Text": "\"finger on the lips of care\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.1392215568862276,
+      "Freq": 12
+    },
+    {
+      "Text": "\"blue-eyed banditti\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.23652694610778446,
+      "Freq": 12
+    },
+    {
+      "Text": "\"such an old mustache as I am\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.32934131736526945,
+      "Freq": 12
+    },
+    {
+      "Text": "\"is not a match for you all!\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.32934131736526945,
+      "Freq": 12
+    },
+    {
+      "Text": "\"the banks of Gitche-Gumee\"",
+      "Author": "Henry Wadsworth Longfellow",
+      "JValue": 0.9565868263473051,
+      "Freq": 12
     }
   ],
   "Guillaume Apollinaire": [
