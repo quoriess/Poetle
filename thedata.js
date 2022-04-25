@@ -1,4 +1,4 @@
-var keys=["Elizabeth Bishop","Matthew Arnold","Andrew Marvell","Seamus Heaney","Phillis Wheatley","Pablo Neruda","Gerard Manley Hopkins","W. H. Auden","William Shakespeare","Paul Laurence Dunbar","Philip Freneau","Gabriela Mistral","Walt Whitman","Christopher Marlowe","Robinson Jeffers","A. E. Housman","Ben Jonson","Robert Browning","Jorge Luis Borges","Dante Gabriel Rossetti","Dylan Thomas","Edwin Arlington Robinson","George Herbert","Dorothy Parker","Adrienne Rich","Ezra Pound","Rubén Darío","D. H. Lawrence","Charles Baudelaire","Robert Frost","Derek Walcott","W. B. Yeats","William Blake","Robert Graves","Petrarch","Robert Lowell","Ovid","Sappho","Rupert Brooke","Hart Crane","Ralph Waldo Emerson","John Milton","Federico García Lorca","John Greenleaf Whittier","Friedrich Schiller","Stephen Crane","Alfred, Lord Tennyson","James Joyce","Herman Melville","Catullus","Percy Bysshe Shelley","Octavio Paz","Rudyard Kipling","Horace","John Donne","John Berryman","John Keats","William Wordsworth","Wilfred Owen","Emily Dickinson","Oliver Wendell Holmes Sr.","Christina Rossetti","Samuel Taylor Coleridge","Arthur Rimbaud","Callimachus","Constantine P. Cavafy","Paul Verlaine","Allen Ginsberg","Robert Herrick (poet)","Theodore Roethke","Wallace Stevens","Vachel Lindsay","Thomas Hardy","Henry Wadsworth Longfellow","Guillaume Apollinaire","Rainer Maria Rilke","Rabindranath Tagore","Edna St. Vincent Millay","Thomas Gray","Du Fu","Stephen Vincent Benét","Archibald MacLeish","John Dryden","Rita Dove","Aphra Behn","Lord Byron","Sylvia Plath","Maya Angelou","Li Bai","William Carlos Williams","Alexander Pope","Anne Bradstreet","Dante Alighieri","John Ashbery","Sidney Lanier","T. S. Eliot","Virgil","Rumi","Elinor Wylie","Elizabeth Barrett Browning","Robert Burns","Philip Sidney","Edmund Spenser","Anna Akhmatova","Joseph Brodsky","Dark Lady (Shakespeare)","Kahlil Gibran","Mikhail Lermontov","Anthony Hecht","Novalis","José Martí","Patricia Lockwood","James Merrill","Henry David Thoreau","Amy Lowell","Cecil Day-Lewis","John Suckling (poet)","Tomas Tranströmer","Yevgeny Yevtushenko","Leigh Hunt","Louise Glück","Giacomo Leopardi"]
+var keys=["Elizabeth Bishop","Matthew Arnold","Andrew Marvell","Seamus Heaney","Phillis Wheatley","Pablo Neruda","Gerard Manley Hopkins","W. H. Auden","William Shakespeare","Paul Laurence Dunbar","Philip Freneau","Gabriela Mistral","Walt Whitman","Christopher Marlowe","Robinson Jeffers","A. E. Housman","Ben Jonson","Robert Browning","Jorge Luis Borges","Dante Gabriel Rossetti","Dylan Thomas","Edwin Arlington Robinson","George Herbert","Dorothy Parker","Adrienne Rich","Ezra Pound","Rubén Darío","D. H. Lawrence","Charles Baudelaire","Robert Frost","Derek Walcott","W. B. Yeats","William Blake","Robert Graves","Petrarch","Robert Lowell","Ovid","Sappho","Rupert Brooke","Hart Crane","Ralph Waldo Emerson","John Milton","Federico García Lorca","John Greenleaf Whittier","Friedrich Schiller","Stephen Crane","Alfred, Lord Tennyson","James Joyce","Herman Melville","Catullus","Percy Bysshe Shelley","Octavio Paz","Rudyard Kipling","Horace","John Donne","John Berryman","John Keats","William Wordsworth","Wilfred Owen","Emily Dickinson","Oliver Wendell Holmes Sr.","Christina Rossetti","Samuel Taylor Coleridge","Arthur Rimbaud","Callimachus","Constantine P. Cavafy","Paul Verlaine","Allen Ginsberg","Robert Herrick (poet)","Theodore Roethke","Wallace Stevens","Vachel Lindsay","Thomas Hardy","Henry Wadsworth Longfellow","Guillaume Apollinaire","Rainer Maria Rilke","Rabindranath Tagore","Edna St. Vincent Millay","Thomas Gray","Du Fu","Stephen Vincent Benét","Archibald MacLeish","John Dryden","Rita Dove","Aphra Behn","Lord Byron","Sylvia Plath","Maya Angelou","Li Bai","William Carlos Williams","Alexander Pope","Anne Bradstreet","Dante Alighieri","John Ashbery","Sidney Lanier","T. S. Eliot","Virgil","Rumi","Elinor Wylie","Elizabeth Barrett Browning","Robert Burns","Philip Sidney","Edmund Spenser","Anna Akhmatova","Joseph Brodsky","Kahlil Gibran","Mikhail Lermontov","Anthony Hecht","Novalis","José Martí","Patricia Lockwood","James Merrill","Henry David Thoreau","Amy Lowell","Cecil Day-Lewis","John Suckling (poet)","Tomas Tranströmer","Yevgeny Yevtushenko","Leigh Hunt","Louise Glück","Giacomo Leopardi"]
 var poetsData={
   "Elizabeth Bishop": [
     {
@@ -28,8 +28,8 @@ var poetsData={
     {
       "Text": "\"the art of losing isn't hard to master\"",
       "Author": "Elizabeth Bishop",
-      "JValue": 0.8104878455343244,
-      "Freq": 45
+      "JValue": 0.8319789040411142,
+      "Freq": 63
     },
     {
       "Text": "\"Then I was back in it. The War was on\"",
@@ -59,12 +59,6 @@ var poetsData={
       "Text": "\"illegal fire balloons\"",
       "Author": "Elizabeth Bishop",
       "JValue": 0.5886305338503068,
-      "Freq": 18
-    },
-    {
-      "Text": "\"The art of losing isn't hard to master.\"",
-      "Author": "Elizabeth Bishop",
-      "JValue": 0.8857065503080896,
       "Freq": 18
     },
     {
@@ -324,8 +318,8 @@ var poetsData={
     {
       "Text": "\"ignorant armies clash by night.\"",
       "Author": "Matthew Arnold",
-      "JValue": 0.8926984055362293,
-      "Freq": 70
+      "JValue": 0.8955913028640028,
+      "Freq": 80
     },
     {
       "Text": "\"Stanzas from the Grand Chartreuse,\"",
@@ -354,8 +348,8 @@ var poetsData={
     {
       "Text": "\"Go, for they call you, shepherd, from the hill\"",
       "Author": "Matthew Arnold",
-      "JValue": 0.6372767857142857,
-      "Freq": 10
+      "JValue": 0.5509993908468942,
+      "Freq": 30
     },
     {
       "Text": "\"The Sea of Faith was once, too, at the full\"",
@@ -396,8 +390,8 @@ var poetsData={
     {
       "Text": "\"roam'd the world with that wild brotherhood\"",
       "Author": "Matthew Arnold",
-      "JValue": 0.6019417475728154,
-      "Freq": 10
+      "JValue": 0.4689708737864079,
+      "Freq": 20
     },
     {
       "Text": "\"Time, not Corydon, hath conquered\"",
@@ -424,16 +418,10 @@ var poetsData={
       "Freq": 10
     },
     {
-      "Text": "\"Go, for they call you, Shepherd, from the hill,\"",
-      "Author": "Matthew Arnold",
-      "JValue": 0.5078606934131982,
-      "Freq": 20
-    },
-    {
       "Text": "\"the eternal note of sadness\"",
       "Author": "Matthew Arnold",
-      "JValue": 0.7679481777965029,
-      "Freq": 20
+      "JValue": 0.775406312079389,
+      "Freq": 30
     },
     {
       "Text": "\"Sea ... meets the moon-blanched land.\"",
@@ -469,18 +457,6 @@ var poetsData={
       "Text": "\"Of human misery\"",
       "Author": "Matthew Arnold",
       "JValue": 0.7272727272727274,
-      "Freq": 10
-    },
-    {
-      "Text": "\"eternal note of sadness.\"",
-      "Author": "Matthew Arnold",
-      "JValue": 0.7903225806451611,
-      "Freq": 10
-    },
-    {
-      "Text": "\"tired of knocking at preferment's door, roamed the world with that wild brotherhood,\"",
-      "Author": "Matthew Arnold",
-      "JValue": 0.33599999999999997,
       "Freq": 10
     },
     {
@@ -580,12 +556,6 @@ var poetsData={
       "Freq": 10
     },
     {
-      "Text": "\"ignorant armies clashby night.\"",
-      "Author": "Matthew Arnold",
-      "JValue": 0.915841584158416,
-      "Freq": 10
-    },
-    {
       "Text": "\"doth inherit the vasty hall of death\"",
       "Author": "Matthew Arnold",
       "JValue": 0.058878504672897194,
@@ -632,32 +602,32 @@ var poetsData={
     {
       "Text": "\"iron gate of life\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.2976588628762542,
-      "Freq": 16
+      "JValue": 0.5063531593386936,
+      "Freq": 48
     },
     {
       "Text": "\"How vainly men themselves amaze to win the palm, the oak, or bays\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.42685459570314194,
-      "Freq": 64
+      "JValue": 0.4047851772446417,
+      "Freq": 80
     },
     {
       "Text": "\"all our strength, and all our sweetness up into one ball,\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.7665017812879519,
-      "Freq": 48
+      "JValue": 0.7494100443287371,
+      "Freq": 112
     },
     {
       "Text": "\"at my back I always hear time's winged chariot hurrying near.\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.7666829395024548,
-      "Freq": 96
+      "JValue": 0.7910354362721757,
+      "Freq": 144
     },
     {
       "Text": "\"Had we but world enough, and time.\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.8125736794623014,
-      "Freq": 48
+      "JValue": 0.905177959110788,
+      "Freq": 176
     },
     {
       "Text": "\"Lebanon fade out and Crete,\"",
@@ -674,14 +644,14 @@ var poetsData={
     {
       "Text": "\"the same arts that did gain a power, must it maintain\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.3226788432267885,
-      "Freq": 16
+      "JValue": 0.3579862174405178,
+      "Freq": 32
     },
     {
       "Text": "\"could not cease in the inglorious arts of peace.\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.5060704768841751,
-      "Freq": 50
+      "JValue": 0.44666890842739654,
+      "Freq": 82
     },
     {
       "Text": "\"The grave's a fine and private place\"",
@@ -692,13 +662,7 @@ var poetsData={
     {
       "Text": "\"my vegetable love should grow.\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.7470058407238837,
-      "Freq": 64
-    },
-    {
-      "Text": "\"Had we but world enough and time,\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.9483350142958654,
+      "JValue": 0.7482185879952056,
       "Freq": 80
     },
     {
@@ -744,22 +708,10 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"In the inglorious arts of  peace.\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.47819971870604766,
-      "Freq": 16
-    },
-    {
       "Text": "\"An Horatian Ode upon Cromwell's Returnfrom Ireland\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.6951002160864883,
-      "Freq": 64
-    },
-    {
-      "Text": "\"rolling up all our sweetness into one ball\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.8085995491701098,
-      "Freq": 48
+      "JValue": 0.7349870046980342,
+      "Freq": 128
     },
     {
       "Text": "\"face down beneath thesun\"",
@@ -796,12 +748,6 @@ var poetsData={
       "Author": "Andrew Marvell",
       "JValue": 0.756901985502679,
       "Freq": 32
-    },
-    {
-      "Text": "\"Time's winged chariot hurrying near\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.856578947368421,
-      "Freq": 16
     },
     {
       "Text": "\"long unknown and yet far kinder than our own\"",
@@ -852,12 +798,6 @@ var poetsData={
       "Freq": 64
     },
     {
-      "Text": "\"An Horatian Ode Upon Cromwell's Return from Ireland\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.8658205117682499,
-      "Freq": 48
-    },
-    {
       "Text": "\"three-fork'd lightning\"",
       "Author": "Andrew Marvell",
       "JValue": 0.09212283044058744,
@@ -872,13 +812,7 @@ var poetsData={
     {
       "Text": "\"vegetable love should grow vaster than empire and more slow.\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.7307663340217445,
-      "Freq": 48
-    },
-    {
-      "Text": "\"had we but world enough and time.\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.9092445673794914,
+      "JValue": 0.7196147124923711,
       "Freq": 32
     },
     {
@@ -892,12 +826,6 @@ var poetsData={
       "Author": "Andrew Marvell",
       "JValue": 0.341653666146646,
       "Freq": 16
-    },
-    {
-      "Text": "\"An Horatian Ode upon Cromwell's Return from Ireland.\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.5848469232886961,
-      "Freq": 32
     },
     {
       "Text": "\"First was the World as one great Cymbal made\"",
@@ -958,12 +886,6 @@ var poetsData={
       "Author": "Andrew Marvell",
       "JValue": 0.5663107947805457,
       "Freq": 16
-    },
-    {
-      "Text": "\"Through the iron gates of life\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.6107003075699134,
-      "Freq": 32
     },
     {
       "Text": "\"country comets\"",
@@ -1070,8 +992,8 @@ var poetsData={
     {
       "Text": "\"the War's and Fortune's son\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.2321948283601954,
-      "Freq": 17
+      "JValue": 0.3020521286481401,
+      "Freq": 33
     },
     {
       "Text": "\"twas beyond a mortal's share\"",
@@ -1104,27 +1026,9 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"To win the palm, or oak or bays\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.3165075034106411,
-      "Freq": 16
-    },
-    {
       "Text": "\"Vaster than empires, and more slow\"",
       "Author": "Andrew Marvell",
       "JValue": 0.7530695770804913,
-      "Freq": 16
-    },
-    {
-      "Text": "\"Time's winged chariot hurr[ies] near.\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.8335607094133693,
-      "Freq": 16
-    },
-    {
-      "Text": "\"had we but world enough, and time\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.9590723055934517,
       "Freq": 16
     },
     {
@@ -1182,27 +1086,15 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"could not cease In theinglorious arts of peace\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.2295081967213114,
-      "Freq": 16
-    },
-    {
       "Text": "\"A Caesar ere long to  Gaul. To Italy an Hannibal.\"",
       "Author": "Andrew Marvell",
       "JValue": 0.38514971562395434,
       "Freq": 32
     },
     {
-      "Text": "\"The same arts that did gain A power must it maintain.\"",
+      "Text": "\"AnHoration Ode Upon Cromwell's Return from Ireland\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.3932935916542473,
-      "Freq": 16
-    },
-    {
-      "Text": "\"roll all our strength and all Our sweetness into oneball\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.5205663189269745,
+      "JValue": 0.6676602086438149,
       "Freq": 16
     },
     {
@@ -1218,16 +1110,10 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"But thou, the war's and fortune's son,\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.37627551020408156,
-      "Freq": 16
-    },
-    {
       "Text": "\"March indefatigably on\"",
       "Author": "Andrew Marvell",
-      "JValue": 0.37627551020408156,
-      "Freq": 16
+      "JValue": 0.3842118937127089,
+      "Freq": 17
     },
     {
       "Text": "\"A Caesar he erelong to Gaul,\"",
@@ -1239,12 +1125,6 @@ var poetsData={
       "Text": "\"butnone, I think, do there embrace,\"",
       "Author": "Andrew Marvell",
       "JValue": 0.75,
-      "Freq": 16
-    },
-    {
-      "Text": "\"Time's wingÃ¨d chariot hurrying near.\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.8290816326530611,
       "Freq": 16
     },
     {
@@ -1282,12 +1162,6 @@ var poetsData={
       "Author": "Andrew Marvell",
       "JValue": 0.38880597014925367,
       "Freq": 1
-    },
-    {
-      "Text": "\"march indefatigably on\"",
-      "Author": "Andrew Marvell",
-      "JValue": 0.5111940298507462,
-      "Freq": 1
     }
   ],
   "Seamus Heaney": [
@@ -1318,20 +1192,20 @@ var poetsData={
     {
       "Text": "\"could handle a spade\"",
       "Author": "Seamus Heaney",
-      "JValue": 0.7140193203207298,
-      "Freq": 49
+      "JValue": 0.7107110373783108,
+      "Freq": 52
     },
     {
       "Text": "\"a four-foot box, a foot for every year\"",
       "Author": "Seamus Heaney",
-      "JValue": 0.6816426698846236,
-      "Freq": 42
+      "JValue": 0.6358133168196394,
+      "Freq": 66
     },
     {
       "Text": "\"the squat pen rests\"",
       "Author": "Seamus Heaney",
-      "JValue": 0.7767722473604827,
-      "Freq": 12
+      "JValue": 0.7051808942955161,
+      "Freq": 42
     },
     {
       "Text": "\"The end of art is peace\"",
@@ -1364,22 +1238,10 @@ var poetsData={
       "Freq": 15
     },
     {
-      "Text": "\"A four foot box, a foot for ever year\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.5487238979118328,
-      "Freq": 12
-    },
-    {
       "Text": "\"Between my finger and my thumb\"",
       "Author": "Seamus Heaney",
-      "JValue": 0.7453551576890304,
-      "Freq": 27
-    },
-    {
-      "Text": "\"The squat pen rests; snug as a gun\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.6359322893741465,
-      "Freq": 24
+      "JValue": 0.7178883350965929,
+      "Freq": 36
     },
     {
       "Text": "\"imperially male\"",
@@ -1486,8 +1348,8 @@ var poetsData={
     {
       "Text": "\"poised like mud grenades, their blunt heads farting,\"",
       "Author": "Seamus Heaney",
-      "JValue": 0.3290816326530612,
-      "Freq": 12
+      "JValue": 0.34247122751771486,
+      "Freq": 18
     },
     {
       "Text": "\"great slime kings\"",
@@ -1622,12 +1484,6 @@ var poetsData={
       "Freq": 12
     },
     {
-      "Text": "\"between my finger and mythumb\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.6819973718791063,
-      "Freq": 12
-    },
-    {
       "Text": "\"bronze soldier\"",
       "Author": "Seamus Heaney",
       "JValue": 0.06374999999999999,
@@ -1664,12 +1520,6 @@ var poetsData={
       "Freq": 12
     },
     {
-      "Text": "\"A four foot box, a foot for every year,\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.5625,
-      "Freq": 12
-    },
-    {
       "Text": "\"As a child, they could not keep me from wells\"",
       "Author": "Seamus Heaney",
       "JValue": 0.12261580381471389,
@@ -1682,21 +1532,9 @@ var poetsData={
       "Freq": 3
     },
     {
-      "Text": "\"poised like mud grenades\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.4359673024523161,
-      "Freq": 3
-    },
-    {
       "Text": "\"the warm thick slobberof  frogspawn.\"",
       "Author": "Seamus Heaney",
       "JValue": 0.547683923705722,
-      "Freq": 3
-    },
-    {
-      "Text": "\"could handle a spade. Just like his old man\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.6566757493188011,
       "Freq": 3
     },
     {
@@ -1709,12 +1547,6 @@ var poetsData={
       "Text": "\"Confident that we have builtour wall.\"",
       "Author": "Seamus Heaney",
       "JValue": 0.1698956780923994,
-      "Freq": 3
-    },
-    {
-      "Text": "\"Poised like mud grenades.\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.3025335320417288,
       "Freq": 3
     },
     {
@@ -1745,12 +1577,6 @@ var poetsData={
       "Text": "\"the great slimekings...gathered there for vengeance\"",
       "Author": "Seamus Heaney",
       "JValue": 0.3636363636363636,
-      "Freq": 3
-    },
-    {
-      "Text": "\"Between my fingerand my thumb the squat pen rests.\"",
-      "Author": "Seamus Heaney",
-      "JValue": 0.8564593301435407,
       "Freq": 3
     },
     {
@@ -1830,8 +1656,8 @@ var poetsData={
     {
       "Text": "\"'T was mercy brought me from my heathen land\"",
       "Author": "Phillis Wheatley",
-      "JValue": 0.8497041420118343,
-      "Freq": 3
+      "JValue": 0.7556848767633861,
+      "Freq": 8
     },
     {
       "Text": "\"Thy pow'r the long-forgotten calls from night.\"",
@@ -1842,8 +1668,8 @@ var poetsData={
     {
       "Text": "\"A crown, a mansion, and a throat that shine\"",
       "Author": "Phillis Wheatley",
-      "JValue": 0.5209059233449478,
-      "Freq": 3
+      "JValue": 0.5549028033367274,
+      "Freq": 5
     },
     {
       "Text": "\"benighted soul\"",
@@ -1856,12 +1682,6 @@ var poetsData={
       "Author": "Phillis Wheatley",
       "JValue": 0.6655052264808362,
       "Freq": 3
-    },
-    {
-      "Text": "\"mercy brought me from my Pagan land.\"",
-      "Author": "Phillis Wheatley",
-      "JValue": 0.7928331909778241,
-      "Freq": 6
     },
     {
       "Text": "\"the charms of each seraphic theme\"",
@@ -1918,6 +1738,12 @@ var poetsData={
       "Freq": 3
     },
     {
+      "Text": "\"'Twas mercy brought me from my Pagan land.\"",
+      "Author": "Phillis Wheatley",
+      "JValue": 0.8417639429312581,
+      "Freq": 3
+    },
+    {
       "Text": "\"On Being Brought from Africa to America.\"",
       "Author": "Phillis Wheatley",
       "JValue": 0.9962532451115209,
@@ -1942,12 +1768,6 @@ var poetsData={
       "Freq": 2
     },
     {
-      "Text": "\"Twas mercy brought me from my pagan land\"",
-      "Author": "Phillis Wheatley",
-      "JValue": 0.6323296354992076,
-      "Freq": 2
-    },
-    {
       "Text": "\"If there's no heav'n, ah! whither wilt thou go, make they Ilysium in the shades below?\"",
       "Author": "Phillis Wheatley",
       "JValue": 0.1380697050938338,
@@ -1957,12 +1777,6 @@ var poetsData={
       "Text": "\"Hail, happy saint, on thy immortal throne! To thee complaints of grievance are unknown.\"",
       "Author": "Phillis Wheatley",
       "JValue": 0.4262734584450402,
-      "Freq": 2
-    },
-    {
-      "Text": "\"ev'ry action let the goddess guide, a crown, a mansion, and a throne that shine, with gold unfading\"",
-      "Author": "Phillis Wheatley",
-      "JValue": 0.6058981233243967,
       "Freq": 2
     },
     {
@@ -2000,8 +1814,8 @@ var poetsData={
     {
       "Text": "\"love is so short, forgetting is so long.\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.36118980169971676,
-      "Freq": 21
+      "JValue": 0.5832559652756284,
+      "Freq": 42
     },
     {
       "Text": "\"Deserted like the wharves at dawn\"",
@@ -2012,14 +1826,14 @@ var poetsData={
     {
       "Text": "\"It is the hour of departure.\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.5198300283286119,
-      "Freq": 21
+      "JValue": 0.6818532054669227,
+      "Freq": 63
     },
     {
       "Text": "\"'The night is shattered and the blue stars shiver in the distance.\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.49796756624667277,
-      "Freq": 84
+      "JValue": 0.47793070324364406,
+      "Freq": 105
     },
     {
       "Text": "\"The memory of you emerges from the night around me.\"",
@@ -2030,26 +1844,20 @@ var poetsData={
     {
       "Text": "\"Tonight I can write the saddest lines\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.7904799903709583,
-      "Freq": 231
+      "JValue": 0.7567784912120471,
+      "Freq": 273
     },
     {
       "Text": "\"from the ocean depths\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.11602209944751382,
-      "Freq": 21
+      "JValue": 0.17388006735599867,
+      "Freq": 42
     },
     {
       "Text": "\"in you everything sank.\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.3738489871086557,
-      "Freq": 21
-    },
-    {
-      "Text": "\"tonight I can write the saddest lines.\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.5714202458380374,
-      "Freq": 42
+      "JValue": 0.7244169380886896,
+      "Freq": 105
     },
     {
       "Text": "\"sick of being a man\"",
@@ -2072,8 +1880,8 @@ var poetsData={
     {
       "Text": "\"Rise up and be born with me,\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.6779453508286382,
-      "Freq": 63
+      "JValue": 0.631500251455,
+      "Freq": 105
     },
     {
       "Text": "\"For me your beauty holds all of the perfume.\"",
@@ -2126,8 +1934,8 @@ var poetsData={
     {
       "Text": "\"Arise to birth with me, mybrother.\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.7385578704480307,
-      "Freq": 42
+      "JValue": 0.739508743047331,
+      "Freq": 63
     },
     {
       "Text": "\"When the trumpet blared, everything on earth was prepared, and Jehovah distributed the world to Coca-Cola Inc., Anaconda, Ford Motors, and other entities.\"",
@@ -2180,26 +1988,14 @@ var poetsData={
     {
       "Text": "\"speak through my words and my blood\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.44400653342862817,
-      "Freq": 42
+      "JValue": 0.47155702141882505,
+      "Freq": 63
     },
     {
       "Text": "\"sometimes, I loved her too\"",
       "Author": "Pablo Neruda",
       "JValue": 0.41988130563798237,
       "Freq": 21
-    },
-    {
-      "Text": "\"rise to be born with me, brother\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.5618326023945417,
-      "Freq": 42
-    },
-    {
-      "Text": "\"in you everything sank!\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.8095863636023888,
-      "Freq": 42
     },
     {
       "Text": "\"cut your body into turquoise pieces\"",
@@ -2216,8 +2012,8 @@ var poetsData={
     {
       "Text": "\"do not look for me, for I shallalready have forgotten you\"",
       "Author": "Pablo Neruda",
-      "JValue": 0.3207282913165265,
-      "Freq": 21
+      "JValue": 0.33354850320016277,
+      "Freq": 42
     },
     {
       "Text": "\"I do not love you as if you were salt-rose, or topaz\"",
@@ -2238,12 +2034,6 @@ var poetsData={
       "Freq": 21
     },
     {
-      "Text": "\"Love is so short, forgetting is so long\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.8053221288515409,
-      "Freq": 21
-    },
-    {
       "Text": "\"catafalqued (KAT-ah-falk'd) king\"",
       "Author": "Pablo Neruda",
       "JValue": 0.10957178841309825,
@@ -2259,12 +2049,6 @@ var poetsData={
       "Text": "\"among these frail vegetables\"",
       "Author": "Pablo Neruda",
       "JValue": 0.18387909319899257,
-      "Freq": 21
-    },
-    {
-      "Text": "\"torpedo from the ocean\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.2317380352644837,
       "Freq": 21
     },
     {
@@ -2304,12 +2088,6 @@ var poetsData={
       "Freq": 21
     },
     {
-      "Text": "\"it is the hour of departure\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.7628647940360787,
-      "Freq": 42
-    },
-    {
       "Text": "\"a rose of salt, topaz,\"",
       "Author": "Pablo Neruda",
       "JValue": 0.20936280884265285,
@@ -2325,12 +2103,6 @@ var poetsData={
       "Text": "\"Fasten your bodies to me like magnets\"",
       "Author": "Pablo Neruda",
       "JValue": 0.4707412223667101,
-      "Freq": 21
-    },
-    {
-      "Text": "\"Speak through my words and my blood.\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.5266579973992196,
       "Freq": 21
     },
     {
@@ -2350,18 +2122,6 @@ var poetsData={
       "Author": "Pablo Neruda",
       "JValue": 0.1340782122905028,
       "Freq": 21
-    },
-    {
-      "Text": "\"Do not look for me, I shall already have forgotten you\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.34636871508379913,
-      "Freq": 21
-    },
-    {
-      "Text": "\"In you everything sank!\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.8145314880650074,
-      "Freq": 42
     },
     {
       "Text": "\"the blood in the streets\"",
@@ -2421,12 +2181,6 @@ var poetsData={
       "Text": "\"knitted with threads of twilight and goatskin,\"",
       "Author": "Pablo Neruda",
       "JValue": 0.23146473779385174,
-      "Freq": 21
-    },
-    {
-      "Text": "\"arise to birth with me, my brother,\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.741410488245931,
       "Freq": 21
     },
     {
@@ -2526,12 +2280,6 @@ var poetsData={
       "Freq": 21
     },
     {
-      "Text": "\"The night is shattered\"",
-      "Author": "Pablo Neruda",
-      "JValue": 0.39778325123152686,
-      "Freq": 21
-    },
-    {
       "Text": "\"scrape the innards\"",
       "Author": "Pablo Neruda",
       "JValue": 0.666256157635468,
@@ -2602,8 +2350,8 @@ var poetsData={
     {
       "Text": "\"And all is seared with trade.\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.4501108647450111,
-      "Freq": 13
+      "JValue": 0.3465319424396197,
+      "Freq": 26
     },
     {
       "Text": "\"drove in the dark to leeward,\"",
@@ -2626,8 +2374,8 @@ var poetsData={
     {
       "Text": "\"the happy memory of five  Franciscan Nuns exiles by the Falk Laws.\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.7436797003624368,
-      "Freq": 26
+      "JValue": 0.7224004326526919,
+      "Freq": 39
     },
     {
       "Text": "\"rung upon the rein of a wimpling wing\"",
@@ -2644,8 +2392,8 @@ var poetsData={
     {
       "Text": "\"dapple-dawn-drawn Falcon.\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.7405336244815113,
-      "Freq": 91
+      "JValue": 0.7606132153094889,
+      "Freq": 104
     },
     {
       "Text": "\"the roll, the rise, the carol, the creation\"",
@@ -2656,8 +2404,8 @@ var poetsData={
     {
       "Text": "\"Fatal four disorders\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.30779392338177025,
-      "Freq": 13
+      "JValue": 0.23675081669663894,
+      "Freq": 26
     },
     {
       "Text": "\"seeing the sick endears them to us, us too it endears\"",
@@ -2668,8 +2416,8 @@ var poetsData={
     {
       "Text": "\"the achieve of; the mastery of the thing!\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.6025365816482066,
-      "Freq": 26
+      "JValue": 0.6560063593803545,
+      "Freq": 39
     },
     {
       "Text": "\"to Christ our Lord\"",
@@ -2710,8 +2458,8 @@ var poetsData={
     {
       "Text": "\"Margaret, are you grieving\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.35929528300214725,
-      "Freq": 39
+      "JValue": 0.3613694259566307,
+      "Freq": 65
     },
     {
       "Text": "\"Over Goldengrove unleaving?\"",
@@ -2830,13 +2578,7 @@ var poetsData={
     {
       "Text": "\"What I do is me, for that I came\"",
       "Author": "Gerard Manley Hopkins",
-      "JValue": 0.12102874432677763,
-      "Freq": 13
-    },
-    {
-      "Text": "\"Margaret, are you grieving?\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.36448064038835604,
+      "JValue": 0.15735503150404817,
       "Freq": 26
     },
     {
@@ -2855,12 +2597,6 @@ var poetsData={
       "Text": "\"Christ plays in ten thousand places... To the Father through the features of men's faces\"",
       "Author": "Gerard Manley Hopkins",
       "JValue": 0.29388816644993504,
-      "Freq": 13
-    },
-    {
-      "Text": "\"kingdom of daylight's dauphin, dapple-dawn-drawn falcon.\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.9011703511053318,
       "Freq": 13
     },
     {
@@ -2930,12 +2666,6 @@ var poetsData={
       "Freq": 13
     },
     {
-      "Text": "\"the Happy Memory of five Franciscan Nuns exiled by the Falk Laws,\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.6798418972332013,
-      "Freq": 13
-    },
-    {
       "Text": "\"the last lights off the black West went,\"",
       "Author": "Gerard Manley Hopkins",
       "JValue": 0.09664429530201345,
@@ -2948,33 +2678,9 @@ var poetsData={
       "Freq": 13
     },
     {
-      "Text": "\"All is seared with trade\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.24295302013422815,
-      "Freq": 13
-    },
-    {
       "Text": "\"pining till time when reason rambled in it\"",
       "Author": "Gerard Manley Hopkins",
       "JValue": 0.08285385500575373,
-      "Freq": 13
-    },
-    {
-      "Text": "\"some fatal four disorders\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.16570771001150747,
-      "Freq": 13
-    },
-    {
-      "Text": "\"the achieve of, the mastery of the thing\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.7629459148446489,
-      "Freq": 13
-    },
-    {
-      "Text": "\"crying what I do is me: for that I came.\"",
-      "Author": "Gerard Manley Hopkins",
-      "JValue": 0.19368131868131871,
       "Freq": 13
     },
     {
@@ -3036,32 +2742,32 @@ var poetsData={
     {
       "Text": "\"about suffering they were never wrong\"",
       "Author": "W. H. Auden",
-      "JValue": 0.8470411572391351,
-      "Freq": 42
+      "JValue": 0.7808242187467059,
+      "Freq": 102
     },
     {
       "Text": "\"The old masters\"",
       "Author": "W. H. Auden",
-      "JValue": 0.7589531680440771,
-      "Freq": 14
+      "JValue": 0.7744798305679454,
+      "Freq": 42
     },
     {
       "Text": "\"Musee des Beaux Arts.\"",
       "Author": "W. H. Auden",
-      "JValue": 0.9344787030073856,
-      "Freq": 98
+      "JValue": 0.9487256116330114,
+      "Freq": 128
     },
     {
       "Text": "\"Ironic points of light\"",
       "Author": "W. H. Auden",
-      "JValue": 0.25484781121751027,
-      "Freq": 28
+      "JValue": 0.3013675032645194,
+      "Freq": 32
     },
     {
       "Text": "\"flash out wherever the Just exchange their messages.\"",
       "Author": "W. H. Auden",
-      "JValue": 0.2005813953488372,
-      "Freq": 14
+      "JValue": 0.31257340850364096,
+      "Freq": 18
     },
     {
       "Text": "\"held the proper opinions for the time of year\"",
@@ -3078,14 +2784,8 @@ var poetsData={
     {
       "Text": "\"everything turns away quite leisurely from the disaster\"",
       "Author": "W. H. Auden",
-      "JValue": 0.8049193533817832,
-      "Freq": 42
-    },
-    {
-      "Text": "\"Musee des Beaux Arts\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.9970930232558141,
-      "Freq": 14
+      "JValue": 0.8183328191665005,
+      "Freq": 56
     },
     {
       "Text": "\"When he cried, the little children died in the streets\"",
@@ -3102,14 +2802,8 @@ var poetsData={
     {
       "Text": "\"We must love one another and  die,\"",
       "Author": "W. H. Auden",
-      "JValue": 0.5667701863354039,
-      "Freq": 14
-    },
-    {
-      "Text": "\"About suffering they were never wrong, the old masters\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.6814137336254444,
-      "Freq": 44
+      "JValue": 0.5930829635111812,
+      "Freq": 64
     },
     {
       "Text": "\"Let the Irish vessel lie\"",
@@ -3122,12 +2816,6 @@ var poetsData={
       "Author": "W. H. Auden",
       "JValue": 0.38683127572016474,
       "Freq": 14
-    },
-    {
-      "Text": "\"We must love one another or die\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.6594833223622097,
-      "Freq": 36
     },
     {
       "Text": "\"expensive delicate ship...Had somewhere to get to and sailed calmly on\"",
@@ -3168,8 +2856,8 @@ var poetsData={
     {
       "Text": "\"What mad Nijinsky wrote\"",
       "Author": "W. H. Auden",
-      "JValue": 0.4310344827586207,
-      "Freq": 14
+      "JValue": 0.42888275694234634,
+      "Freq": 42
     },
     {
       "Text": "\"About Diaghilev\"",
@@ -3190,12 +2878,6 @@ var poetsData={
       "Freq": 34
     },
     {
-      "Text": "\"The old Masters\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.663129973474801,
-      "Freq": 14
-    },
-    {
       "Text": "\"everything turned away\"",
       "Author": "W. H. Auden",
       "JValue": 0.793103448275862,
@@ -3204,8 +2886,8 @@ var poetsData={
     {
       "Text": "\"Musée des Beaux Arts\"",
       "Author": "W. H. Auden",
-      "JValue": 0.9933687002652521,
-      "Freq": 14
+      "JValue": 0.9861277254786383,
+      "Freq": 18
     },
     {
       "Text": "\"Perhaps the roses really want to grow\"",
@@ -3216,8 +2898,8 @@ var poetsData={
     {
       "Text": "\"Will Time say nothing but I told you so?\"",
       "Author": "W. H. Auden",
-      "JValue": 0.20838471023427865,
-      "Freq": 14
+      "JValue": 0.1986653628292217,
+      "Freq": 28
     },
     {
       "Text": "\"If I could tell you I wouldlet you know\"",
@@ -3240,8 +2922,8 @@ var poetsData={
     {
       "Text": "\"That the dreadful martyrdom must run its course\"",
       "Author": "W. H. Auden",
-      "JValue": 0.39981428761393584,
-      "Freq": 28
+      "JValue": 0.44520609748384066,
+      "Freq": 42
     },
     {
       "Text": "\"Prevent the dog from barking with a juicy bone\"",
@@ -3256,16 +2938,10 @@ var poetsData={
       "Freq": 28
     },
     {
-      "Text": "\"The Old Masters\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.9013563501849565,
-      "Freq": 14
-    },
-    {
       "Text": "\"statues which so obviously doubt his antimythological myth.\"",
       "Author": "W. H. Auden",
-      "JValue": 0.10044843049327355,
-      "Freq": 14
+      "JValue": 0.12672923019734694,
+      "Freq": 18
     },
     {
       "Text": "\"the best and worst of us\"",
@@ -3306,8 +2982,8 @@ var poetsData={
     {
       "Text": "\"Stop all the clocks, cut off the telephone\"",
       "Author": "W. H. Auden",
-      "JValue": 0.7285850925396348,
-      "Freq": 36
+      "JValue": 0.7174861509473032,
+      "Freq": 50
     },
     {
       "Text": "\"A million eyes, a million boots in line\"",
@@ -3346,12 +3022,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"About suffering they were never wrong,The old Masters.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.8946745562130175,
-      "Freq": 14
-    },
-    {
       "Text": "\"07 M 378 this marble monument is erected by the state.\"",
       "Author": "W. H. Auden",
       "JValue": 0.21113243761996167,
@@ -3376,27 +3046,9 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"will time say nothing but I told you so?\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.18894601542416453,
-      "Freq": 14
-    },
-    {
-      "Text": "\"even the dreadful martyrdom must run its course.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.5359897172236502,
-      "Freq": 14
-    },
-    {
       "Text": "\"my North, my South, my East and West\"",
       "Author": "W. H. Auden",
       "JValue": 0.6323907455012854,
-      "Freq": 14
-    },
-    {
-      "Text": "\"stop all the clocks.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.6889460154241646,
       "Freq": 14
     },
     {
@@ -3414,8 +3066,8 @@ var poetsData={
     {
       "Text": "\"one of the dives, On Fifty-second Street.\"",
       "Author": "W. H. Auden",
-      "JValue": 0.5744047619047619,
-      "Freq": 14
+      "JValue": 0.6686318745654063,
+      "Freq": 54
     },
     {
       "Text": "\"History to the defeated\"",
@@ -3442,12 +3094,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"what mad Nijinsky wrote\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.4278068940342093,
-      "Freq": 28
-    },
-    {
       "Text": "\"About Diaghilev,\"",
       "Author": "W. H. Auden",
       "JValue": 0.6282853566958699,
@@ -3464,18 +3110,6 @@ var poetsData={
       "Author": "W. H. Auden",
       "JValue": 0.5959764520465396,
       "Freq": 18
-    },
-    {
-      "Text": "\"how everything turns away\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.8585732165206507,
-      "Freq": 14
-    },
-    {
-      "Text": "\"MusÃ©e des Beaux Arts.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.9987484355444304,
-      "Freq": 14
     },
     {
       "Text": "\"dense commuters\"",
@@ -3496,22 +3130,10 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"we must love one another or die.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.44865196078431363,
-      "Freq": 14
-    },
-    {
       "Text": "\"psychopathic god\"",
       "Author": "W. H. Auden",
       "JValue": 0.4829656862745096,
       "Freq": 14
-    },
-    {
-      "Text": "\"I sitin one of the dives on Fifty-second Street.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.6990800326293847,
-      "Freq": 28
     },
     {
       "Text": "\"The death of the poet was kept from his poems,\"",
@@ -3568,24 +3190,6 @@ var poetsData={
       "Freq": 4
     },
     {
-      "Text": "\"ironic points of light\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.6270053475935828,
-      "Freq": 4
-    },
-    {
-      "Text": "\"flash outwherever the Just exchange their messages\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.7045454545454546,
-      "Freq": 4
-    },
-    {
-      "Text": "\"in one of the dives on Fifty-Second Street\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.7075178038535435,
-      "Freq": 12
-    },
-    {
       "Text": "\"the windiest militant trash\"",
       "Author": "W. H. Auden",
       "JValue": 0.18401206636500755,
@@ -3606,8 +3210,8 @@ var poetsData={
     {
       "Text": "\"children afraid of thenight\"",
       "Author": "W. H. Auden",
-      "JValue": 0.37254901960784315,
-      "Freq": 4
+      "JValue": 0.4298932192904597,
+      "Freq": 6
     },
     {
       "Text": "\"Who have never been happy or good\"",
@@ -3622,21 +3226,9 @@ var poetsData={
       "Freq": 4
     },
     {
-      "Text": "\"MusÃ©e des Beaux Arts\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.9607843137254902,
-      "Freq": 4
-    },
-    {
       "Text": "\"gamins, pursuing the scientist down the tiled colonnade\"",
       "Author": "W. H. Auden",
       "JValue": 0.12150668286755771,
-      "Freq": 4
-    },
-    {
-      "Text": "\"doubt his antimythological myth\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.2187120291616039,
       "Freq": 4
     },
     {
@@ -3688,16 +3280,10 @@ var poetsData={
       "Freq": 2
     },
     {
-      "Text": "\"children afraid of the night who have never been happy or good,\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.5445816186556928,
-      "Freq": 2
-    },
-    {
       "Text": "\"the torturer's horse scratches itsinnocent behind on a tree\"",
       "Author": "W. H. Auden",
-      "JValue": 0.668890791883727,
-      "Freq": 4
+      "JValue": 0.646312551043872,
+      "Freq": 6
     },
     {
       "Text": "\"Musee desBeaux Arts.\"",
@@ -3734,24 +3320,6 @@ var poetsData={
       "Author": "W. H. Auden",
       "JValue": 0.4985549132947977,
       "Freq": 2
-    },
-    {
-      "Text": "\"Scratches its innocent behind on a tree\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.6011560693641619,
-      "Freq": 2
-    },
-    {
-      "Text": "\"About suffering they were never wrong, the Old Masters.\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.7803468208092486,
-      "Freq": 2
-    },
-    {
-      "Text": "\"Musee des Beaux Arts,\"",
-      "Author": "W. H. Auden",
-      "JValue": 0.958092485549133,
-      "Freq": 2
     }
   ],
   "William Shakespeare": [
@@ -3764,19 +3332,13 @@ var poetsData={
     {
       "Text": "\"Tiger's heart wrapped in aPlayer's hide\"",
       "Author": "William Shakespeare",
-      "JValue": 0.2583668005354753,
-      "Freq": 8
+      "JValue": 0.2598887944586091,
+      "Freq": 16
     },
     {
       "Text": "\"objective correlative\"",
       "Author": "William Shakespeare",
       "JValue": 0.5515394912985273,
-      "Freq": 8
-    },
-    {
-      "Text": "\"O, tiger's heart wrapped in a woman's hide\"",
-      "Author": "William Shakespeare",
-      "JValue": 0.26141078838174275,
       "Freq": 8
     },
     {
@@ -3848,8 +3410,8 @@ var poetsData={
     {
       "Text": "\"shall not fade… so long lives this, and this gives life to thee\"",
       "Author": "William Shakespeare",
-      "JValue": 0.8311111111111112,
-      "Freq": 8
+      "JValue": 0.6414361068572402,
+      "Freq": 16
     },
     {
       "Text": "\"more lovely and more temperate.\"",
@@ -3915,12 +3477,6 @@ var poetsData={
       "Text": "\"brag thou wander'st in his shade,\"",
       "Author": "William Shakespeare",
       "JValue": 0.36906584992343033,
-      "Freq": 8
-    },
-    {
-      "Text": "\"gives life to thee.\"",
-      "Author": "William Shakespeare",
-      "JValue": 0.4517611026033691,
       "Freq": 8
     },
     {
@@ -4066,8 +3622,8 @@ var poetsData={
     {
       "Text": "\"The clay is vile beneath our feet\"",
       "Author": "Paul Laurence Dunbar",
-      "JValue": 0.5539739027283511,
-      "Freq": 6
+      "JValue": 0.6126737292845864,
+      "Freq": 12
     },
     {
       "Text": "\"shades our eyes,\"",
@@ -4107,12 +3663,6 @@ var poetsData={
     },
     {
       "Text": "\"We sing, but oh the clay is vile\"",
-      "Author": "Paul Laurence Dunbar",
-      "JValue": 0.6713735558408215,
-      "Freq": 6
-    },
-    {
-      "Text": "\"Beneath our feet\"",
       "Author": "Paul Laurence Dunbar",
       "JValue": 0.6713735558408215,
       "Freq": 6
@@ -4212,8 +3762,8 @@ var poetsData={
     {
       "Text": "\"for when you die you are the same.\"",
       "Author": "Philip Freneau",
-      "JValue": 0.34239802224969096,
-      "Freq": 4
+      "JValue": 0.4092942492200836,
+      "Freq": 8
     },
     {
       "Text": "\"Smith with those charms, that must decay, I grieve to see your future doom.\"",
@@ -4242,8 +3792,8 @@ var poetsData={
     {
       "Text": "\"The painted chief, and pointed spear\"",
       "Author": "Philip Freneau",
-      "JValue": 0.6188769414575866,
-      "Freq": 4
+      "JValue": 0.6505802152191258,
+      "Freq": 5
     },
     {
       "Text": "\"Too poor to shinein courts, too proud to beg\"",
@@ -4254,8 +3804,8 @@ var poetsData={
     {
       "Text": "\"Sits musing o'er his scars, and wooden leg\"",
       "Author": "Philip Freneau",
-      "JValue": 0.19390243902439025,
-      "Freq": 4
+      "JValue": 0.2124974379995901,
+      "Freq": 8
     },
     {
       "Text": "\"famine and a name\"",
@@ -4306,21 +3856,9 @@ var poetsData={
       "Freq": 4
     },
     {
-      "Text": "\"sits musing o'er his scars and wooden leg.\"",
-      "Author": "Philip Freneau",
-      "JValue": 0.23109243697478993,
-      "Freq": 4
-    },
-    {
       "Text": "\"bynature's self in white arrayed,\"",
       "Author": "Philip Freneau",
       "JValue": 0.3445378151260504,
-      "Freq": 4
-    },
-    {
-      "Text": "\"when you die you are the same, the space between isbut an hour.\"",
-      "Author": "Philip Freneau",
-      "JValue": 0.47619047619047616,
       "Freq": 4
     },
     {
@@ -4384,12 +3922,6 @@ var poetsData={
       "Freq": 1
     },
     {
-      "Text": "\"the painted chief, and pointed spear.\"",
-      "Author": "Philip Freneau",
-      "JValue": 0.7773933102652826,
-      "Freq": 1
-    },
-    {
       "Text": "\"poet of the American Revolution.\"",
       "Author": "Philip Freneau",
       "JValue": 0.9988465974625144,
@@ -4436,8 +3968,8 @@ var poetsData={
     {
       "Text": "\"From the icy niche where men placed you\"",
       "Author": "Gabriela Mistral",
-      "JValue": 0.7664465814211239,
-      "Freq": 7
+      "JValue": 0.6431824135831661,
+      "Freq": 13
     },
     {
       "Text": "\"I lower your body to the sunny, poor earth\"",
@@ -4500,16 +4032,10 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"from the icy niche where men placed you.\"",
-      "Author": "Gabriela Mistral",
-      "JValue": 0.4993742177722153,
-      "Freq": 6
-    },
-    {
       "Text": "\"To him we cannot answer 'Tomorrow,' his name is today\"",
       "Author": "Gabriela Mistral",
-      "JValue": 0.6352548693942799,
-      "Freq": 12
+      "JValue": 0.7023292420699812,
+      "Freq": 18
     },
     {
       "Text": "\"the mother of the nation\"",
@@ -4569,12 +4095,6 @@ var poetsData={
       "Text": "\"to him we cannot say 'Tomorrow'\"",
       "Author": "Gabriela Mistral",
       "JValue": 0.7845911949685535,
-      "Freq": 6
-    },
-    {
-      "Text": "\"His Name is Today,\"",
-      "Author": "Gabriela Mistral",
-      "JValue": 0.8364779874213838,
       "Freq": 6
     },
     {
@@ -4726,14 +4246,14 @@ var poetsData={
     {
       "Text": "\"look'd up in perfect silence at the stars.\"",
       "Author": "Walt Whitman",
-      "JValue": 0.5906662967765798,
-      "Freq": 11
+      "JValue": 0.5176069350964475,
+      "Freq": 20
     },
     {
       "Text": "\"It is some dream that on the deck, You've fallen cold and dead\"",
       "Author": "Walt Whitman",
-      "JValue": 0.5643265181895104,
-      "Freq": 11
+      "JValue": 0.6834181458881684,
+      "Freq": 38
     },
     {
       "Text": "\"little promontory\"",
@@ -4820,21 +4340,9 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"Fallen cold and dead.\"",
-      "Author": "Walt Whitman",
-      "JValue": 0.899764150943396,
-      "Freq": 9
-    },
-    {
       "Text": "\"tired and sick\"",
       "Author": "Walt Whitman",
       "JValue": 0.3357531760435571,
-      "Freq": 9
-    },
-    {
-      "Text": "\"up in the perfect silence of the stars\"",
-      "Author": "Walt Whitman",
-      "JValue": 0.4283121597096189,
       "Freq": 9
     },
     {
@@ -4860,12 +4368,6 @@ var poetsData={
       "Author": "Walt Whitman",
       "JValue": 0.1464285714285714,
       "Freq": 9
-    },
-    {
-      "Text": "\"fallen cold and dead.\"",
-      "Author": "Walt Whitman",
-      "JValue": 0.6480233602875113,
-      "Freq": 18
     },
     {
       "Text": "\"I celebrate myself, and sing myself.\"",
@@ -5106,8 +4608,8 @@ var poetsData={
     {
       "Text": "\"was this the face that launched a thousand ships\"",
       "Author": "Christopher Marlowe",
-      "JValue": 0.7531985899085082,
-      "Freq": 42
+      "JValue": 0.7622544222000448,
+      "Freq": 70
     },
     {
       "Text": "\"hold the Fates bound fast in iron chains, And with my hand turn Fortune's wheel about.\"",
@@ -5118,8 +4620,8 @@ var poetsData={
     {
       "Text": "\"come live with me and be my love\"",
       "Author": "Christopher Marlowe",
-      "JValue": 0.7711931669239506,
-      "Freq": 28
+      "JValue": 0.6276888086448351,
+      "Freq": 84
     },
     {
       "Text": "\"terror of night-prowlers\"",
@@ -5142,8 +4644,8 @@ var poetsData={
     {
       "Text": "\"a kirtle embroidered all with leaves of myrtle\"",
       "Author": "Christopher Marlowe",
-      "JValue": 0.5736766809728183,
-      "Freq": 14
+      "JValue": 0.44813076868484275,
+      "Freq": 28
     },
     {
       "Text": "\"a gown madeof the finest wool which from our pretty lambs we pull\"",
@@ -5152,21 +4654,9 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"Come live with me and be my Love.\"",
-      "Author": "Christopher Marlowe",
-      "JValue": 0.621064049344497,
-      "Freq": 28
-    },
-    {
       "Text": "\"if all the world and love were young\"",
       "Author": "Christopher Marlowe",
       "JValue": 0.34248788368336036,
-      "Freq": 14
-    },
-    {
-      "Text": "\"live with thee, and be thy love\"",
-      "Author": "Christopher Marlowe",
-      "JValue": 0.4232633279483036,
       "Freq": 14
     },
     {
@@ -5192,12 +4682,6 @@ var poetsData={
       "Author": "Christopher Marlowe",
       "JValue": 0.8164146868250538,
       "Freq": 14
-    },
-    {
-      "Text": "\"the face that launch'd a thousand ships.\"",
-      "Author": "Christopher Marlowe",
-      "JValue": 0.7758381706373509,
-      "Freq": 28
     },
     {
       "Text": "\"silver dishes for thy meat\"",
@@ -5236,12 +4720,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"Embroidered all with leaves of myrtle.\"",
-      "Author": "Christopher Marlowe",
-      "JValue": 0.32258485639686685,
-      "Freq": 14
-    },
-    {
       "Text": "\"On  Hellespont, guilty of true-love's blood\"",
       "Author": "Christopher Marlowe",
       "JValue": 0.3993472584856397,
@@ -5251,12 +4729,6 @@ var poetsData={
       "Text": "\"we will all the pleasures prove\"",
       "Author": "Christopher Marlowe",
       "JValue": 0.5108355091383813,
-      "Freq": 14
-    },
-    {
-      "Text": "\"Come live withme and be my love.\"",
-      "Author": "Christopher Marlowe",
-      "JValue": 0.5583550913838121,
       "Freq": 14
     },
     {
@@ -5750,8 +5222,8 @@ var poetsData={
     {
       "Text": "\"after earth has stopped the ears\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.6052273890983569,
-      "Freq": 9
+      "JValue": 0.6363808866655166,
+      "Freq": 17
     },
     {
       "Text": "\"With Rue My Heart is Laden\"",
@@ -5762,14 +5234,14 @@ var poetsData={
     {
       "Text": "\"Early though the laurel grows\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.6233611432482198,
-      "Freq": 16
+      "JValue": 0.6315436255929424,
+      "Freq": 17
     },
     {
       "Text": "\"it withers quicker than the rose\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.6315436255929424,
-      "Freq": 17
+      "JValue": 0.6233611432482198,
+      "Freq": 16
     },
     {
       "Text": "\"It nods and curtseys and recovers\"",
@@ -5786,8 +5258,8 @@ var poetsData={
     {
       "Text": "\"never ask me whose.\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.29201596806387226,
-      "Freq": 8
+      "JValue": 0.4993707183208005,
+      "Freq": 16
     },
     {
       "Text": "\"The heart of the bosom was never given\"",
@@ -5798,14 +5270,14 @@ var poetsData={
     {
       "Text": "\"When I was one and Twenty\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.6300582022905257,
-      "Freq": 16
+      "JValue": 0.7427494242376397,
+      "Freq": 24
     },
     {
       "Text": "\"Terence, this is Stupid Stuff,\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.6706586826347305,
-      "Freq": 8
+      "JValue": 0.7968349063747237,
+      "Freq": 32
     },
     {
       "Text": "\"this brain that fills the skull with schemes,\"",
@@ -5834,8 +5306,8 @@ var poetsData={
     {
       "Text": "\"the timeyou won your town the race.\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.5532530120481925,
-      "Freq": 8
+      "JValue": 0.6189204128341321,
+      "Freq": 16
     },
     {
       "Text": "\"Sweat ran and blood sprang out and I was never sorry\"",
@@ -5880,12 +5352,6 @@ var poetsData={
       "Freq": 8
     },
     {
-      "Text": "\"Never ask me whose,\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.7067254685777289,
-      "Freq": 8
-    },
-    {
       "Text": "\"loveliest of trees\"",
       "Author": "A Shropshire Lad",
       "JValue": 0.762954796030871,
@@ -5906,13 +5372,7 @@ var poetsData={
     {
       "Text": "\"Is my team ploughing\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.9294377067254685,
-      "Freq": 8
-    },
-    {
-      "Text": "\"Terence, this is stupid stuff\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.7924064054980154,
+      "JValue": 0.7469769178788634,
       "Freq": 16
     },
     {
@@ -5964,27 +5424,9 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"After earth has stopped the ears.\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.6714285714285715,
-      "Freq": 8
-    },
-    {
       "Text": "\"Mithridates, he died old\"",
       "Author": "A Shropshire Lad",
       "JValue": 0.7329670329670329,
-      "Freq": 8
-    },
-    {
-      "Text": "\"Terence, This is Stupid Stuff\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.931868131868132,
-      "Freq": 8
-    },
-    {
-      "Text": "\"When I was One-And-Twenty,\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.9681318681318681,
       "Freq": 8
     },
     {
@@ -6018,18 +5460,6 @@ var poetsData={
       "Freq": 8
     },
     {
-      "Text": "\"Is my team ploughing?\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.5645161290322581,
-      "Freq": 8
-    },
-    {
-      "Text": "\"the time you won your town the race\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.6845878136200716,
-      "Freq": 8
-    },
-    {
       "Text": "\"an athlete dying young.\"",
       "Author": "A Shropshire Lad",
       "JValue": 0.7759856630824373,
@@ -6056,14 +5486,8 @@ var poetsData={
     {
       "Text": "\"lies long in the churchyard\"",
       "Author": "A Shropshire Lad",
-      "JValue": 0.2125470514429109,
-      "Freq": 8
-    },
-    {
-      "Text": "\"lies long in jail\"",
-      "Author": "A Shropshire Lad",
-      "JValue": 0.23713927227101633,
-      "Freq": 8
+      "JValue": 0.22484316185696368,
+      "Freq": 16
     },
     {
       "Text": "\"Loveliest of leaves, the cherry now\"",
@@ -6148,8 +5572,8 @@ var poetsData={
     {
       "Text": "\"But not your heart away,\"",
       "Author": "A. E. Housman",
-      "JValue": 0.6253435160451626,
-      "Freq": 15
+      "JValue": 0.6177031181259626,
+      "Freq": 22
     },
     {
       "Text": "\"And oh, 'tis true, 'tis true.\"",
@@ -6172,8 +5596,8 @@ var poetsData={
     {
       "Text": "\"the time you won your town the race.\"",
       "Author": "A. E. Housman",
-      "JValue": 0.771513353115727,
-      "Freq": 5
+      "JValue": 0.7847609439831836,
+      "Freq": 10
     },
     {
       "Text": "\"the tree of man was never quiet then 'twas the Roman,now 'tis I.\"",
@@ -6208,8 +5632,8 @@ var poetsData={
     {
       "Text": "\"When I was one-and-twenty\"",
       "Author": "A. E. Housman",
-      "JValue": 0.7924552970205487,
-      "Freq": 15
+      "JValue": 0.823375780262235,
+      "Freq": 20
     },
     {
       "Text": "\"Romanand his trouble\"",
@@ -6230,16 +5654,10 @@ var poetsData={
       "Freq": 5
     },
     {
-      "Text": "\"give crownsand pounds and guineas, but not your heart away\"",
-      "Author": "A. E. Housman",
-      "JValue": 0.6013308368705336,
-      "Freq": 7
-    },
-    {
       "Text": "\"Terence, This is Stupid Stuff\"",
       "Author": "A. E. Housman",
-      "JValue": 0.6101694915254238,
-      "Freq": 5
+      "JValue": 0.7428229922684298,
+      "Freq": 10
     },
     {
       "Text": "\"townsman of a stiller town\"",
@@ -6276,12 +5694,6 @@ var poetsData={
       "Author": "A. E. Housman",
       "JValue": 0.4090631985368827,
       "Freq": 7
-    },
-    {
-      "Text": "\"The time you won your town the race\"",
-      "Author": "A. E. Housman",
-      "JValue": 0.7980085348506402,
-      "Freq": 5
     },
     {
       "Text": "\"We chaired you through the marketplace.\"",
@@ -6323,18 +5735,6 @@ var poetsData={
       "Text": "\"Is my team ploughing,\"",
       "Author": "A. E. Housman",
       "JValue": 0.8335451080050827,
-      "Freq": 5
-    },
-    {
-      "Text": "\"Terence, this is stupid stuff,\"",
-      "Author": "A. E. Housman",
-      "JValue": 0.8754764930114358,
-      "Freq": 5
-    },
-    {
-      "Text": "\"When I was one and twenty\"",
-      "Author": "A. E. Housman",
-      "JValue": 0.9161372299872935,
       "Freq": 5
     },
     {
@@ -6414,8 +5814,8 @@ var poetsData={
     {
       "Text": "\"Drink to me, only with thine eyes and I will pledge with mine.\"",
       "Author": "Ben Jonson",
-      "JValue": 0.3671597570747754,
-      "Freq": 28
+      "JValue": 0.5052327967562116,
+      "Freq": 84
     },
     {
       "Text": "\"wresting words from their true calling\"",
@@ -6448,16 +5848,10 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"Drink to me only with thine eyes.\"",
-      "Author": "Ben Jonson",
-      "JValue": 0.5742693165969287,
-      "Freq": 56
-    },
-    {
       "Text": "\"not...built to envious show\"",
       "Author": "Ben Jonson",
-      "JValue": 0.09681881051175659,
-      "Freq": 14
+      "JValue": 0.3203092914902355,
+      "Freq": 28
     },
     {
       "Text": "\"grows and smells\"",
@@ -6468,25 +5862,13 @@ var poetsData={
     {
       "Text": "\"his best piece of poetry,\"",
       "Author": "Ben Jonson",
-      "JValue": 0.36601307189542476,
-      "Freq": 14
+      "JValue": 0.3075799147873028,
+      "Freq": 28
     },
     {
       "Text": "\"He that first invented thee, may his joints tormented be\"",
       "Author": "Ben Jonson",
       "JValue": 0.1023890784982935,
-      "Freq": 14
-    },
-    {
-      "Text": "\"best piece of poetry.\"",
-      "Author": "Ben Jonson",
-      "JValue": 0.24914675767918085,
-      "Freq": 14
-    },
-    {
-      "Text": "\"built to envious show of touch or marble, nor can boast a row of polished pillars, or a roof of gold.\"",
-      "Author": "Ben Jonson",
-      "JValue": 0.5437997724687146,
       "Freq": 14
     },
     {
@@ -6524,14 +5906,14 @@ var poetsData={
     {
       "Text": "\"the rain set early in to-night\"",
       "Author": "Robert Browning",
-      "JValue": 0.4001991463422039,
-      "Freq": 40
+      "JValue": 0.45049984685063277,
+      "Freq": 80
     },
     {
       "Text": "\"yet God has not said a word\"",
       "Author": "Robert Browning",
-      "JValue": 0.6026204211259693,
-      "Freq": 80
+      "JValue": 0.5964573382182984,
+      "Freq": 100
     },
     {
       "Text": "\"which Claus of Innsbruck cast in bronze.\"",
@@ -6542,8 +5924,8 @@ var poetsData={
     {
       "Text": "\"too soon made glad,\"",
       "Author": "Robert Browning",
-      "JValue": 0.7979372718258695,
-      "Freq": 40
+      "JValue": 0.8302649077639952,
+      "Freq": 240
     },
     {
       "Text": "\"Thinketh, it came of being ill at ease: He hated that He cannot change his cold, nor cure its ache\"",
@@ -6596,8 +5978,8 @@ var poetsData={
     {
       "Text": "\"twenty-nine distinct damnations\"",
       "Author": "Robert Browning",
-      "JValue": 0.3233348267622461,
-      "Freq": 40
+      "JValue": 0.30638988450816423,
+      "Freq": 60
     },
     {
       "Text": "\"a sudden thought of one so pale\"",
@@ -6612,12 +5994,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"too soon made glad\"",
-      "Author": "Robert Browning",
-      "JValue": 0.8177827953522876,
-      "Freq": 80
-    },
-    {
       "Text": "\"Infinite passion, and the pain\"",
       "Author": "Robert Browning",
       "JValue": 0.25960066615980615,
@@ -6626,8 +6002,8 @@ var poetsData={
     {
       "Text": "\"Of finite hearts that yearn\"",
       "Author": "Robert Browning",
-      "JValue": 0.31456228956228943,
-      "Freq": 40
+      "JValue": 0.25960066615980615,
+      "Freq": 60
     },
     {
       "Text": "\"half like Romans and half like the Knave of Hearts\"",
@@ -6684,12 +6060,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"and yet, God has not said a word!\"",
-      "Author": "Robert Browning",
-      "JValue": 0.5718050065876152,
-      "Freq": 20
-    },
-    {
       "Text": "\"faultless painter\"",
       "Author": "Robert Browning",
       "JValue": 0.6613965744400527,
@@ -6736,12 +6106,6 @@ var poetsData={
       "Author": "Robert Browning",
       "JValue": 0.5917159763313612,
       "Freq": 20
-    },
-    {
-      "Text": "\"heart too soon made glad.\"",
-      "Author": "Robert Browning",
-      "JValue": 0.84936219468451,
-      "Freq": 120
     },
     {
       "Text": "\"Shakespeare was of us, Milton was for us,\"",
@@ -6852,12 +6216,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"The rain set in early tonight\"",
-      "Author": "Robert Browning",
-      "JValue": 0.5008005473590619,
-      "Freq": 40
-    },
-    {
       "Text": "\"the gift of a nine-hundred years-old name\"",
       "Author": "Robert Browning",
       "JValue": 0.6438953488372089,
@@ -6888,12 +6246,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"Twenty-nine distinct damnations\"",
-      "Author": "Robert Browning",
-      "JValue": 0.2725,
-      "Freq": 20
-    },
-    {
       "Text": "\"Grow old along with me!\"",
       "Author": "Robert Browning",
       "JValue": 0.4612499999999999,
@@ -6919,12 +6271,6 @@ var poetsData={
     },
     {
       "Text": "\"Only I discern\"",
-      "Author": "Robert Browning",
-      "JValue": 0.14967741935483878,
-      "Freq": 20
-    },
-    {
-      "Text": "\"Of finite hearts thatyearn\"",
       "Author": "Robert Browning",
       "JValue": 0.14967741935483878,
       "Freq": 20
@@ -7170,8 +6516,8 @@ var poetsData={
     {
       "Text": "\"From the gold bar of Heaven.\"",
       "Author": "Dante Gabriel Rossetti",
-      "JValue": 0.698041958041958,
-      "Freq": 4
+      "JValue": 0.7932628216369456,
+      "Freq": 12
     },
     {
       "Text": "\"Whose person or whose purse may be\"",
@@ -7188,8 +6534,8 @@ var poetsData={
     {
       "Text": "\"Lazy laughing languid\"",
       "Author": "Dante Gabriel Rossetti",
-      "JValue": 0.2262210796915167,
-      "Freq": 4
+      "JValue": 0.2562432558951411,
+      "Freq": 8
     },
     {
       "Text": "\"A Sonnet is a moment's monument\"",
@@ -7204,12 +6550,6 @@ var poetsData={
       "Freq": 4
     },
     {
-      "Text": "\"leaned out from the gold bar of heaven\"",
-      "Author": "Dante Gabriel Rossetti",
-      "JValue": 0.8408732534344394,
-      "Freq": 8
-    },
-    {
       "Text": "\"the fleshly school\"",
       "Author": "Dante Gabriel Rossetti",
       "JValue": 0.4672754946727549,
@@ -7218,8 +6558,8 @@ var poetsData={
     {
       "Text": "\"yellow like ripe corn\"",
       "Author": "Dante Gabriel Rossetti",
-      "JValue": 0.6057838660578386,
-      "Freq": 4
+      "JValue": 0.3785092169795366,
+      "Freq": 8
     },
     {
       "Text": "\"three lilies in her hand.\"",
@@ -7234,21 +6574,9 @@ var poetsData={
       "Freq": 4
     },
     {
-      "Text": "\"yellow like ripe corn.\"",
-      "Author": "Dante Gabriel Rossetti",
-      "JValue": 0.15123456790123455,
-      "Freq": 4
-    },
-    {
       "Text": "\"poor shameful[prostitute], full of grace\"",
       "Author": "Dante Gabriel Rossetti",
       "JValue": 0.22901234567901232,
-      "Freq": 4
-    },
-    {
-      "Text": "\"lazy laughing languid  Jenny.\"",
-      "Author": "Dante Gabriel Rossetti",
-      "JValue": 0.2862654320987654,
       "Freq": 4
     },
     {
@@ -7340,14 +6668,14 @@ var poetsData={
     {
       "Text": "\"old age should burn and rave at close of day.\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.8193190556663543,
-      "Freq": 14
+      "JValue": 0.816724445985367,
+      "Freq": 18
     },
     {
       "Text": "\"Do not go gentle into that good night.\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.998719530742567,
-      "Freq": 14
+      "JValue": 0.9986984583846056,
+      "Freq": 19
     },
     {
       "Text": "\"Death and this mad heroine\"",
@@ -7376,8 +6704,8 @@ var poetsData={
     {
       "Text": "\"the force that drives [his] green age\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.4066339066339067,
-      "Freq": 5
+      "JValue": 0.5772387912312283,
+      "Freq": 14
     },
     {
       "Text": "\"after the first death, there is no other\"",
@@ -7418,8 +6746,8 @@ var poetsData={
     {
       "Text": "\"young and easy under the apple boughs.\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.5168090232667896,
-      "Freq": 23
+      "JValue": 0.5447976841274774,
+      "Freq": 27
     },
     {
       "Text": "\"Under the windings of the sea\"",
@@ -7437,12 +6765,6 @@ var poetsData={
       "Text": "\"blind eyes could blaze like meteors and be gay\"",
       "Author": "Dylan Thomas",
       "JValue": 0.7306122448979592,
-      "Freq": 5
-    },
-    {
-      "Text": "\"Do Not Go Gentle Into that Good Night.\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.9986394557823128,
       "Freq": 5
     },
     {
@@ -7466,14 +6788,14 @@ var poetsData={
     {
       "Text": "\"I sang in my chains like the sea\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.5860641836384168,
-      "Freq": 18
+      "JValue": 0.582529814916205,
+      "Freq": 22
     },
     {
       "Text": "\"time held me green and dying\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.6216313018324413,
-      "Freq": 14
+      "JValue": 0.6111626332015945,
+      "Freq": 18
     },
     {
       "Text": "\"In my Craft or Sullen Art\"",
@@ -7484,8 +6806,8 @@ var poetsData={
     {
       "Text": "\"And I am dumb to tell the lover's tomb\"",
       "Author": "Dylan Thomas",
-      "JValue": 0.13802435723951287,
-      "Freq": 5
+      "JValue": 0.18708359549399686,
+      "Freq": 9
     },
     {
       "Text": "\"How at my sheet goes the same crooked worm\"",
@@ -7498,12 +6820,6 @@ var poetsData={
       "Author": "Dylan Thomas",
       "JValue": 0.38836265223274696,
       "Freq": 5
-    },
-    {
-      "Text": "\"The Force that Through the Green Fuse Drives the Flower\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.6720192826741846,
-      "Freq": 9
     },
     {
       "Text": "\"the unicorn evils.\"",
@@ -7572,12 +6888,6 @@ var poetsData={
       "Freq": 4
     },
     {
-      "Text": "\"sang in [his] chains like the sea,\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.5666251556662516,
-      "Freq": 4
-    },
-    {
       "Text": "\"had forked no lightning\"",
       "Author": "Dylan Thomas",
       "JValue": 0.797011207970112,
@@ -7587,12 +6897,6 @@ var poetsData={
       "Text": "\"I am the long world's gentleman, he said, And share my bedwith Capricorn and Cancer.\"",
       "Author": "Dylan Thomas",
       "JValue": 0.15668789808917197,
-      "Freq": 4
-    },
-    {
-      "Text": "\"I am dumb to tell the crooked rose,\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.2484076433121019,
       "Freq": 4
     },
     {
@@ -7611,24 +6915,6 @@ var poetsData={
       "Text": "\"Altarwise by owl-light\"",
       "Author": "Dylan Thomas",
       "JValue": 0.4229299363057325,
-      "Freq": 4
-    },
-    {
-      "Text": "\"Time held me  green and dying.\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.5745222929936306,
-      "Freq": 4
-    },
-    {
-      "Text": "\"wasyoung and easy under the apple boughs\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.7057324840764331,
-      "Freq": 4
-    },
-    {
-      "Text": "\"Old age should burn and rave at close ofday.\"",
-      "Author": "Dylan Thomas",
-      "JValue": 0.8076433121019109,
       "Freq": 4
     },
     {
@@ -7660,8 +6946,8 @@ var poetsData={
     {
       "Text": "\"go to the western gate.\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.44953368644502606,
-      "Freq": 46
+      "JValue": 0.5023154106046884,
+      "Freq": 70
     },
     {
       "Text": "\"kept on drinking.\"",
@@ -7702,14 +6988,14 @@ var poetsData={
     {
       "Text": "\"loved the Medici albeit he had never seen one\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.646310779295058,
-      "Freq": 24
+      "JValue": 0.617741085966354,
+      "Freq": 35
     },
     {
       "Text": "\"Out of a grave I come to tell you this\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.2136181575433911,
-      "Freq": 11
+      "JValue": 0.31518659732948967,
+      "Freq": 22
     },
     {
       "Text": "\"if you listen she willcall\"",
@@ -7726,20 +7012,8 @@ var poetsData={
     {
       "Text": "\"Romance, now on the town, and Art, a vagrant\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.5819953280160137,
-      "Freq": 22
-    },
-    {
-      "Text": "\"loved the  Medici,albeit he had never seen one\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.555407209612817,
-      "Freq": 11
-    },
-    {
-      "Text": "\"Go to the westerngate\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.6688918558077436,
-      "Freq": 11
+      "JValue": 0.4828792804922218,
+      "Freq": 44
     },
     {
       "Text": "\"child of scorn\"",
@@ -7792,8 +7066,8 @@ var poetsData={
     {
       "Text": "\"one calm summer night\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.8742138364779873,
-      "Freq": 11
+      "JValue": 0.9016652132205879,
+      "Freq": 33
     },
     {
       "Text": "\"a slight kind of engine\"",
@@ -7820,28 +7094,16 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"one calm summer night, went home and put a bulletthrough his head.\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.9153909015918881,
-      "Freq": 22
-    },
-    {
       "Text": "\"went without the meat and cursed the bread.\"",
       "Author": "Edwin Arlington Robinson",
       "JValue": 0.1452420701168615,
       "Freq": 11
     },
     {
-      "Text": "\"mourned Romance, now on the town and Art, a vagrant.\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.38376323296843,
-      "Freq": 22
-    },
-    {
       "Text": "\"dreamed of Thebes and Camelot, and Priam's neighbors\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.5528375918432792,
-      "Freq": 33
+      "JValue": 0.4973027656874661,
+      "Freq": 44
     },
     {
       "Text": "\"poet laureate of unhappiness\"",
@@ -7868,12 +7130,6 @@ var poetsData={
       "Freq": 22
     },
     {
-      "Text": "\"out of the grave\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.4167550371155885,
-      "Freq": 11
-    },
-    {
       "Text": "\"quench the kiss\"",
       "Author": "Edwin Arlington Robinson",
       "JValue": 0.45705196182396607,
@@ -7884,12 +7140,6 @@ var poetsData={
       "Author": "Edwin Arlington Robinson",
       "JValue": 0.45705196182396607,
       "Freq": 11
-    },
-    {
-      "Text": "\"Go to the western gate\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.548132211690138,
-      "Freq": 13
     },
     {
       "Text": "\"love the Medici\"",
@@ -7930,8 +7180,8 @@ var poetsData={
     {
       "Text": "\"glittered when he walked.\"",
       "Author": "Edwin Arlington Robinson",
-      "JValue": 0.7097378277153555,
-      "Freq": 11
+      "JValue": 0.7303629850039229,
+      "Freq": 22
     },
     {
       "Text": "\"they are all gone away\"",
@@ -7982,21 +7232,9 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"And Priam's neighbors\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.33069828722002637,
-      "Freq": 11
-    },
-    {
-      "Text": "\"And Art, a vagrant\"",
+      "Text": "\"mournedRomance, now on the town\"",
       "Author": "Edwin Arlington Robinson",
       "JValue": 0.44532279314887996,
-      "Freq": 11
-    },
-    {
-      "Text": "\"glittered when he walked\"",
-      "Author": "Edwin Arlington Robinson",
-      "JValue": 0.7509881422924901,
       "Freq": 11
     },
     {
@@ -8418,8 +7656,8 @@ var poetsData={
     {
       "Text": "\"true  Penelope was Flaubert\"",
       "Author": "Ezra Pound",
-      "JValue": 0.5898043446382675,
-      "Freq": 30
+      "JValue": 0.5756133513807508,
+      "Freq": 36
     },
     {
       "Text": "\"sought to resuscitate the dead art of poetry.\"",
@@ -8472,8 +7710,8 @@ var poetsData={
     {
       "Text": "\"Hang it all, Robert Browning, there canbe but the one Sordello\"",
       "Author": "Ezra Pound",
-      "JValue": 0.4405452858962246,
-      "Freq": 22
+      "JValue": 0.4451006146485924,
+      "Freq": 42
     },
     {
       "Text": "\"what thou lovest well remains\"",
@@ -8504,12 +7742,6 @@ var poetsData={
       "Author": "Ezra Pound",
       "JValue": 0.22276029055690078,
       "Freq": 10
-    },
-    {
-      "Text": "\"there can be but the one Sordello\"",
-      "Author": "Ezra Pound",
-      "JValue": 0.45216795774549084,
-      "Freq": 21
     },
     {
       "Text": "\"If they think they ha' slain our Goodly Fere they are fools eternally.\"",
@@ -8683,6 +7915,12 @@ var poetsData={
       "Text": "\"iceberg theory\"",
       "Author": "Ezra Pound",
       "JValue": 0.9588719153936546,
+      "Freq": 1
+    },
+    {
+      "Text": "\"there can be but one Sordello!\"",
+      "Author": "Ezra Pound",
+      "JValue": 0.4932975871313673,
       "Freq": 1
     },
     {
@@ -8983,12 +8221,6 @@ var poetsData={
       "Text": "\"Be an unlikely treasure hoard\"",
       "Author": "Ezra Pound",
       "JValue": 0.10714285714285714,
-      "Freq": 6
-    },
-    {
-      "Text": "\"true Penelope was Flaubert.\"",
-      "Author": "Ezra Pound",
-      "JValue": 0.5046583850931677,
       "Freq": 6
     },
     {
@@ -9632,8 +8864,8 @@ var poetsData={
     {
       "Text": "\"professor of energy\"",
       "Author": "Rubén Darío",
-      "JValue": 0.5799418604651164,
-      "Freq": 7
+      "JValue": 0.48020416638416175,
+      "Freq": 14
     },
     {
       "Text": "\"tries out his senile, raucous guitar\"",
@@ -9645,12 +8877,6 @@ var poetsData={
       "Text": "\"vast silvered mirror.\"",
       "Author": "Rubén Darío",
       "JValue": 0.24198250728862972,
-      "Freq": 7
-    },
-    {
-      "Text": "\"professor of Energy (as today's madmen say)\"",
-      "Author": "Rubén Darío",
-      "JValue": 0.380466472303207,
       "Freq": 7
     },
     {
@@ -10074,8 +9300,8 @@ var poetsData={
     {
       "Text": "\"prince of the clouds\"",
       "Author": "Charles Baudelaire",
-      "JValue": 0.5082706766917295,
-      "Freq": 16
+      "JValue": 0.4654629239740474,
+      "Freq": 38
     },
     {
       "Text": "\"great white wings\"",
@@ -10086,8 +9312,8 @@ var poetsData={
     {
       "Text": "\"dreams of scaffolds as he smokes his hookah pipe\"",
       "Author": "Charles Baudelaire",
-      "JValue": 0.756390977443609,
-      "Freq": 16
+      "JValue": 0.7028805511678929,
+      "Freq": 48
     },
     {
       "Text": "\"golden particles\"",
@@ -10120,16 +9346,10 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"smokes his hookah pipe.\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.6761253380300349,
-      "Freq": 32
-    },
-    {
       "Text": "\"my double! My brother!\"",
       "Author": "Charles Baudelaire",
-      "JValue": 0.703416149068323,
-      "Freq": 16
+      "JValue": 0.7814284031960101,
+      "Freq": 70
     },
     {
       "Text": "\"observed how frequently coffins For old women are almost as small as a child's\"",
@@ -10170,14 +9390,8 @@ var poetsData={
     {
       "Text": "\"Let us beat up the poor\"",
       "Author": "Charles Baudelaire",
-      "JValue": 0.2220149253731343,
-      "Freq": 16
-    },
-    {
-      "Text": "\"prince of the clouds,\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.34888059701492546,
-      "Freq": 16
+      "JValue": 0.3234771963427416,
+      "Freq": 32
     },
     {
       "Text": "\"empty words... we often hear fall\"",
@@ -10237,12 +9451,6 @@ var poetsData={
       "Text": "\"an oasis of horror in a desert of boredom\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.4287222808870117,
-      "Freq": 16
-    },
-    {
-      "Text": "\"hypocrite reader! my double, my brother!\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.5987328405491024,
       "Freq": 16
     },
     {
@@ -10324,21 +9532,9 @@ var poetsData={
       "Freq": 16
     },
     {
-      "Text": "\"Hypocrite reader, - my double, - my brother!\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.9290085679314563,
-      "Freq": 16
-    },
-    {
       "Text": "\"We breathe in always though it bring us death.\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.41089108910891087,
-      "Freq": 16
-    },
-    {
-      "Text": "\"My twin! My brother!\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.9257425742574256,
       "Freq": 16
     },
     {
@@ -10405,12 +9601,6 @@ var poetsData={
       "Text": "\"It is useless and tedious to represent what exists, because nothing that exists satisfies me\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.13075060532687652,
-      "Freq": 16
-    },
-    {
-      "Text": "\"Let us Beat up the Poor!\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.4249394673123488,
       "Freq": 16
     },
     {
@@ -10504,12 +9694,6 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"prince of the skies\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.6621951219512195,
-      "Freq": 6
-    },
-    {
       "Text": "\"I'll plunge my head, enamored of its pleasure, In thisblack ocean where the other hides\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.17222963951935918,
@@ -10525,12 +9709,6 @@ var poetsData={
       "Text": "\"the wisest and fairest of the Angels ...betrayed by destiny and deprived of praise\"",
       "Author": "Charles Baudelaire",
       "JValue": 0.5687583444592791,
-      "Freq": 6
-    },
-    {
-      "Text": "\"You--hypocrite Reader-- my double-- my brother!\"",
-      "Author": "Charles Baudelaire",
-      "JValue": 0.69826435246996,
       "Freq": 6
     },
     {
@@ -10598,14 +9776,14 @@ var poetsData={
     {
       "Text": "\"what to make of a diminished thing.\"",
       "Author": "Robert Frost",
-      "JValue": 0.5007164606180597,
-      "Freq": 27
+      "JValue": 0.3282328730385702,
+      "Freq": 47
     },
     {
       "Text": "\"but I have promises to keep, and miles to go before I sleep\"",
       "Author": "Robert Frost",
-      "JValue": 0.7877532901866633,
-      "Freq": 118
+      "JValue": 0.7845131575295337,
+      "Freq": 125
     },
     {
       "Text": "\"good both going and coming back\"",
@@ -10616,8 +9794,8 @@ var poetsData={
     {
       "Text": "\"too far from town to learn baseball\"",
       "Author": "Robert Frost",
-      "JValue": 0.3551972764844053,
-      "Freq": 27
+      "JValue": 0.3856371924080592,
+      "Freq": 47
     },
     {
       "Text": "\"subdued his father's trees.\"",
@@ -10634,14 +9812,14 @@ var poetsData={
     {
       "Text": "\"some boy's been swingingthem.\"",
       "Author": "Robert Frost",
-      "JValue": 0.3932432432432433,
-      "Freq": 7
+      "JValue": 0.6672804739787145,
+      "Freq": 27
     },
     {
       "Text": "\"the place where, when you have to go there, Theyhave to take you in\"",
       "Author": "Robert Frost",
-      "JValue": 0.5445945945945946,
-      "Freq": 7
+      "JValue": 0.48430079826018907,
+      "Freq": 27
     },
     {
       "Text": "\"against the world of hoary grass\"",
@@ -10664,8 +9842,8 @@ var poetsData={
     {
       "Text": "\"neither wrong nor right\"",
       "Author": "Robert Frost",
-      "JValue": 0.36827633900759565,
-      "Freq": 67
+      "JValue": 0.423182074459841,
+      "Freq": 94
     },
     {
       "Text": "\"I had a lover's quarrel with the world.\"",
@@ -10700,8 +9878,8 @@ var poetsData={
     {
       "Text": "\"Acquainted with the Night\"",
       "Author": "Robert Frost",
-      "JValue": 0.6451532495279145,
-      "Freq": 94
+      "JValue": 0.6308135432278223,
+      "Freq": 164
     },
     {
       "Text": "\"dimpled spider, fat and white\"",
@@ -10710,16 +9888,10 @@ var poetsData={
       "Freq": 10
     },
     {
-      "Text": "\"But I have promises to keep and miles to go before I sleep,\"",
-      "Author": "Robert Frost",
-      "JValue": 0.7471720963694874,
-      "Freq": 47
-    },
-    {
       "Text": "\"two roads diverged in a yellow wood.\"",
       "Author": "Robert Frost",
-      "JValue": 0.9399295252610482,
-      "Freq": 70
+      "JValue": 0.9053025076534791,
+      "Freq": 90
     },
     {
       "Text": "\"I'm going out to fetch the little calf\"",
@@ -10742,14 +9914,8 @@ var poetsData={
     {
       "Text": "\"Came over houses from another street;\"",
       "Author": "Robert Frost",
-      "JValue": 0.29308323563892147,
-      "Freq": 7
-    },
-    {
-      "Text": "\"Proclaimed the time was neither wrong nor right.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.559429640211708,
-      "Freq": 27
+      "JValue": 0.3349689175227248,
+      "Freq": 14
     },
     {
       "Text": "\"Something we were withholding made us weak,\"",
@@ -10761,12 +9927,6 @@ var poetsData={
       "Text": "\"it was ourselves.\"",
       "Author": "Robert Frost",
       "JValue": 0.593200468933177,
-      "Freq": 7
-    },
-    {
-      "Text": "\"I have been one acquainted with the night,\"",
-      "Author": "Robert Frost",
-      "JValue": 0.6846424384525206,
       "Freq": 7
     },
     {
@@ -10782,12 +9942,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"interrupted cry came over houses from another street, but not to call me back or say goodbye\"",
-      "Author": "Robert Frost",
-      "JValue": 0.3768545994065282,
-      "Freq": 7
-    },
-    {
       "Text": "\"one could do worse than be a swinger of\"",
       "Author": "Robert Frost",
       "JValue": 0.6482837617514015,
@@ -10796,8 +9950,8 @@ var poetsData={
     {
       "Text": "\"And that has made all the difference,\"",
       "Author": "Robert Frost",
-      "JValue": 0.8896090374303713,
-      "Freq": 27
+      "JValue": 0.882993688956061,
+      "Freq": 47
     },
     {
       "Text": "\"no playhouse but a house in earnest\"",
@@ -10814,8 +9968,8 @@ var poetsData={
     {
       "Text": "\"Here are your waters and your watering place. Drink and be whole again beyond confusion.\"",
       "Author": "Robert Frost",
-      "JValue": 0.3235803739537549,
-      "Freq": 27
+      "JValue": 0.31101855198778267,
+      "Freq": 30
     },
     {
       "Text": "\"or just some human sleep\"",
@@ -10826,8 +9980,8 @@ var poetsData={
     {
       "Text": "\"my long two-pointed  ladder’s sticking through a tree\"",
       "Author": "Robert Frost",
-      "JValue": 0.5901015228426397,
-      "Freq": 7
+      "JValue": 0.5458221576929043,
+      "Freq": 10
     },
     {
       "Text": "\"toward heaven still\"",
@@ -10860,28 +10014,10 @@ var poetsData={
       "Freq": 3
     },
     {
-      "Text": "\"Acquainted with the Night.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.5692599620493358,
-      "Freq": 3
-    },
-    {
-      "Text": "\"drink andbe whole again beyond confusion.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.19796215429403205,
-      "Freq": 3
-    },
-    {
       "Text": "\"overtired of the great harvest I myselfdesired\"",
       "Author": "Robert Frost",
       "JValue": 0.42456430229355996,
       "Freq": 6
-    },
-    {
-      "Text": "\"my long two-pointed ladder's sticking through a tree.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.44250363901018924,
-      "Freq": 3
     },
     {
       "Text": "\"like an old-stone savagearmed\"",
@@ -10922,14 +10058,14 @@ var poetsData={
     {
       "Text": "\"But the world's evil. I won't have grief so if I can change it.\"",
       "Author": "Robert Frost",
-      "JValue": 0.4572551677999626,
-      "Freq": 21
+      "JValue": 0.4519023616906858,
+      "Freq": 22
     },
     {
       "Text": "\"my little horse must think it queer to stop without a farmhouse near.\"",
       "Author": "Robert Frost",
-      "JValue": 0.8868360897285829,
-      "Freq": 40
+      "JValue": 0.8327638229324227,
+      "Freq": 60
     },
     {
       "Text": "\"I cannot rub the strangeness from my sight I got from looking through a pane of glass I skimmed this morning\"",
@@ -10980,18 +10116,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"Two roads diverged in a yellow wood\"",
-      "Author": "Robert Frost",
-      "JValue": 0.7841079460269867,
-      "Freq": 20
-    },
-    {
-      "Text": "\"and that has made all the difference.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.8740629685157424,
-      "Freq": 20
-    },
-    {
       "Text": "\"But I was going to say when Truth broke in\"",
       "Author": "Robert Frost",
       "JValue": 0.1840324763193504,
@@ -11016,12 +10140,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"I like to think some boy's been swinging them,\"",
-      "Author": "Robert Frost",
-      "JValue": 0.7631935047361297,
-      "Freq": 20
-    },
-    {
       "Text": "\"was grassy and wanted wear.\"",
       "Author": "Robert Frost",
       "JValue": 0.8660351826792964,
@@ -11032,12 +10150,6 @@ var poetsData={
       "Author": "Robert Frost",
       "JValue": 0.2086230876216968,
       "Freq": 20
-    },
-    {
-      "Text": "\"Acquainted with the Night,\"",
-      "Author": "Robert Frost",
-      "JValue": 0.7311163805224323,
-      "Freq": 40
     },
     {
       "Text": "\"avocation and [his] vocation\"",
@@ -11079,6 +10191,12 @@ var poetsData={
       "Text": "\"gives his harness bells a shake.\"",
       "Author": "Robert Frost",
       "JValue": 0.41761133603238854,
+      "Freq": 40
+    },
+    {
+      "Text": "\"promises to keep\"",
+      "Author": "Robert Frost",
+      "JValue": 0.750195802005013,
       "Freq": 40
     },
     {
@@ -11220,12 +10338,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"too far from town to play baseball.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.42673107890499196,
-      "Freq": 20
-    },
-    {
       "Text": "\"stay where you are until our backs are turned,\"",
       "Author": "Robert Frost",
       "JValue": 0.5861513687600647,
@@ -11250,21 +10362,9 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"the place where...they have to take you in.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.4631979695431472,
-      "Freq": 20
-    },
-    {
       "Text": "\"long two-pointed ladder\"",
       "Author": "Robert Frost",
       "JValue": 0.5164974619289338,
-      "Freq": 20
-    },
-    {
-      "Text": "\"My little horse must think it queer, to stop without a farmhouse near\"",
-      "Author": "Robert Frost",
-      "JValue": 0.7246192893401012,
       "Freq": 20
     },
     {
@@ -11313,18 +10413,6 @@ var poetsData={
       "Text": "\"No, I will go on farther -- and we shall see,\"",
       "Author": "Robert Frost",
       "JValue": 0.2721311475409837,
-      "Freq": 20
-    },
-    {
-      "Text": "\"What to make of a diminished thing?\"",
-      "Author": "Robert Frost",
-      "JValue": 0.09538002980625929,
-      "Freq": 20
-    },
-    {
-      "Text": "\"acquainted with the night.\"",
-      "Author": "Robert Frost",
-      "JValue": 0.3532041728763041,
       "Freq": 20
     },
     {
@@ -11394,12 +10482,6 @@ var poetsData={
       "Freq": 1
     },
     {
-      "Text": "\"If I can change it\"",
-      "Author": "Robert Frost",
-      "JValue": 0.3394934333958724,
-      "Freq": 1
-    },
-    {
       "Text": "\"What was that whiteness?\"",
       "Author": "Robert Frost",
       "JValue": 0.4833020637898687,
@@ -11440,8 +10522,8 @@ var poetsData={
     {
       "Text": "\"how can I face such slaughter and becool?\"",
       "Author": "Derek Walcott",
-      "JValue": 0.2606310013717421,
-      "Freq": 3
+      "JValue": 0.4945327865212448,
+      "Freq": 63
     },
     {
       "Text": "\"A Far Cry from Africa\"",
@@ -11464,8 +10546,8 @@ var poetsData={
     {
       "Text": "\"the adulterer hear[s] Nausicaa's name in every gull's outcry\"",
       "Author": "Derek Walcott",
-      "JValue": 0.28004956629491945,
-      "Freq": 3
+      "JValue": 0.4031114266010175,
+      "Freq": 33
     },
     {
       "Text": "\"The classics can console. But not enough.\"",
@@ -11488,8 +10570,8 @@ var poetsData={
     {
       "Text": "\"The leprosy of empire.\"",
       "Author": "Derek Walcott",
-      "JValue": 0.5811648079306072,
-      "Freq": 3
+      "JValue": 0.45160028669298474,
+      "Freq": 33
     },
     {
       "Text": "\"On a hack's hired prose, I earn\"",
@@ -11536,8 +10618,8 @@ var poetsData={
     {
       "Text": "\"How can I turn from Africa and live?\"",
       "Author": "Derek Walcott",
-      "JValue": 0.5568579162994193,
-      "Freq": 76
+      "JValue": 0.668831141588103,
+      "Freq": 31
     },
     {
       "Text": "\"napkin of brutish necessity\"",
@@ -11562,12 +10644,6 @@ var poetsData={
       "Author": "Derek Walcott",
       "JValue": 0.2521088359842211,
       "Freq": 30
-    },
-    {
-      "Text": "\"the leprosy of empire\"",
-      "Author": "Derek Walcott",
-      "JValue": 0.37664041994750647,
-      "Freq": 15
     },
     {
       "Text": "\"the ancient war between obsession and responsibility\"",
@@ -11702,12 +10778,6 @@ var poetsData={
       "Freq": 15
     },
     {
-      "Text": "\"How can I face such slaughter and be cool?\"",
-      "Author": "Derek Walcott",
-      "JValue": 0.5857490864799023,
-      "Freq": 15
-    },
-    {
       "Text": "\"the gorilla wrestles with the superman.\"",
       "Author": "Derek Walcott",
       "JValue": 0.6292326431181489,
@@ -11738,21 +10808,9 @@ var poetsData={
       "Freq": 15
     },
     {
-      "Text": "\"the adulterer hearing Nausicaa's name in every gull's outcry.\"",
-      "Author": "Derek Walcott",
-      "JValue": 0.41541761263162724,
-      "Freq": 30
-    },
-    {
       "Text": "\"either I'm nobody, or I'm a nation\"",
       "Author": "Derek Walcott",
       "JValue": 0.3526429341963322,
-      "Freq": 15
-    },
-    {
-      "Text": "\"The leprosy of empire\"",
-      "Author": "Derek Walcott",
-      "JValue": 0.5006472491909387,
       "Freq": 15
     },
     {
@@ -11854,12 +10912,6 @@ var poetsData={
       "Freq": 21
     },
     {
-      "Text": "\"rough beast … slouches towards Bethlehem to be born.\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.8762360673566628,
-      "Freq": 81
-    },
-    {
       "Text": "\"Now all the truth is out, be secret and take defeat from any brazen throat\"",
       "Author": "W. B. Yeats",
       "JValue": 0.09519038076152307,
@@ -11892,8 +10944,8 @@ var poetsData={
     {
       "Text": "\"a shudder in the loins engenders...the broken wall, the burning roof and tower and Agamemnon dead\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.6003777829769388,
-      "Freq": 60
+      "JValue": 0.6112275432412876,
+      "Freq": 80
     },
     {
       "Text": "\"turning and turning in the widening gyre, the falcon cannot hear the falconer\"",
@@ -11910,8 +10962,8 @@ var poetsData={
     {
       "Text": "\"two Chinamen, behind them a third\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.1956855124602822,
-      "Freq": 40
+      "JValue": 0.3398830820430766,
+      "Freq": 60
     },
     {
       "Text": "\"hammered gold and gold enameling\"",
@@ -11922,20 +10974,14 @@ var poetsData={
     {
       "Text": "\"that is no country for old men.\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.7382410555669879,
-      "Freq": 120
-    },
-    {
-      "Text": "\"slouching toward Bethlehem to be born\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.6407079646017699,
-      "Freq": 20
+      "JValue": 0.785925460092417,
+      "Freq": 160
     },
     {
       "Text": "\"Things fall apart, the centre cannot hold.\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.8145072345789242,
-      "Freq": 40
+      "JValue": 0.8057416988784888,
+      "Freq": 120
     },
     {
       "Text": "\"sought a theme and sought for it in vain.\"",
@@ -11952,8 +10998,8 @@ var poetsData={
     {
       "Text": "\"The place of excrement\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.32043530834341005,
-      "Freq": 20
+      "JValue": 0.4289342317118117,
+      "Freq": 40
     },
     {
       "Text": "\"Live in a heavenly mansion, not in some foul sty.\"",
@@ -11964,8 +11010,8 @@ var poetsData={
     {
       "Text": "\"a lonely impulse of delight\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.596130592503023,
-      "Freq": 20
+      "JValue": 0.5744398500028791,
+      "Freq": 21
     },
     {
       "Text": "\"I know that I shall meet my fate\"",
@@ -11976,20 +11022,14 @@ var poetsData={
     {
       "Text": "\"Somewhere among the clouds above.\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.5541290276691087,
-      "Freq": 40
+      "JValue": 0.6120800727009961,
+      "Freq": 60
     },
     {
       "Text": "\"what rough beast\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.7987581067670506,
-      "Freq": 80
-    },
-    {
-      "Text": "\"Slouches towards Bethlehem to be born?\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.8904789947853173,
-      "Freq": 80
+      "JValue": 0.8295857978967888,
+      "Freq": 60
     },
     {
       "Text": "\"An Irish Airman foresees his Death\"",
@@ -12052,12 +11092,6 @@ var poetsData={
       "Freq": 40
     },
     {
-      "Text": "\"That is no country for old men\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.9289786736687056,
-      "Freq": 40
-    },
-    {
       "Text": "\"on a dark cold day\"",
       "Author": "W. B. Yeats",
       "JValue": 0.2506973303998445,
@@ -12086,12 +11120,6 @@ var poetsData={
       "Author": "W. B. Yeats",
       "JValue": 0.7837116154873164,
       "Freq": 20
-    },
-    {
-      "Text": "\"Things fall apart; the center cannot hold.\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.7573715981498237,
-      "Freq": 40
     },
     {
       "Text": "\"ancient, glittering eyes\"",
@@ -12182,18 +11210,6 @@ var poetsData={
       "Author": "W. B. Yeats",
       "JValue": 0.5677951388888888,
       "Freq": 60
-    },
-    {
-      "Text": "\"what rough beast...slouches toward  Bethlehem to be born?\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.6739564994131452,
-      "Freq": 40
-    },
-    {
-      "Text": "\"Things fall apart, the center cannot hold\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.732824900793651,
-      "Freq": 21
     },
     {
       "Text": "\"sixty-year-old smiling public man\"",
@@ -12304,16 +11320,16 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"A shudder in the loins engenders there\"",
+      "Text": "\"And Agamemnon dead.\"",
       "Author": "W. B. Yeats",
       "JValue": 0.6437768240343348,
       "Freq": 20
     },
     {
-      "Text": "\"And Agamemnon dead.\"",
+      "Text": "\"What rough beast, its hour come round at last, slouches towards Bethlehem to be born?\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.6437768240343348,
-      "Freq": 20
+      "JValue": 0.8736449099300116,
+      "Freq": 40
     },
     {
       "Text": "\"Heaven blazing into the head:\"",
@@ -12364,12 +11380,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"Two Chinamen, behind them a third,\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.6282782212086657,
-      "Freq": 20
-    },
-    {
       "Text": "\"A terrible beauty is born,\"",
       "Author": "W. B. Yeats",
       "JValue": 0.7662638186818214,
@@ -12388,16 +11398,10 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"The place of excrement.\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.5374331550802137,
-      "Freq": 20
-    },
-    {
       "Text": "\"paddle in the cold\"",
       "Author": "W. B. Yeats",
-      "JValue": 0.6604278074866309,
-      "Freq": 20
+      "JValue": 0.6550205309396484,
+      "Freq": 21
     },
     {
       "Text": "\"All changed, changed utterly\"",
@@ -12427,12 +11431,6 @@ var poetsData={
       "Text": "\"tread softly because you tread on my dreams\"",
       "Author": "W. B. Yeats",
       "JValue": 0.1844197138314785,
-      "Freq": 20
-    },
-    {
-      "Text": "\"slouching towards Bethlehem\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.8298887122416531,
       "Freq": 20
     },
     {
@@ -12466,12 +11464,6 @@ var poetsData={
       "Freq": 20
     },
     {
-      "Text": "\"somewhere among the clouds above,\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.7279821627647715,
-      "Freq": 20
-    },
-    {
       "Text": "\"Earth, receive an honoured guest\"",
       "Author": "W. B. Yeats",
       "JValue": 0.12323491655969192,
@@ -12494,18 +11486,6 @@ var poetsData={
       "Author": "W. B. Yeats",
       "JValue": 0.33541858769217797,
       "Freq": 40
-    },
-    {
-      "Text": "\"What rough beast, its hour come round at last,\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.783055198973042,
-      "Freq": 20
-    },
-    {
-      "Text": "\"Things fall apart; the centre cannot hold\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.9589216944801027,
-      "Freq": 20
     },
     {
       "Text": "\"we the great gazebo built\"",
@@ -12568,27 +11548,21 @@ var poetsData={
       "Freq": 1
     },
     {
-      "Text": "\"A lonely impulse of delight.\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.140625,
-      "Freq": 1
-    },
-    {
       "Text": "\"country is Kiltartan Cross.\"",
       "Author": "W. B. Yeats",
       "JValue": 0.4088541666666667,
       "Freq": 1
     },
     {
-      "Text": "\"Unwearied still, lover by lover… paddle in the cold;\"",
-      "Author": "W. B. Yeats",
-      "JValue": 0.546875,
-      "Freq": 1
-    },
-    {
       "Text": "\"The ceremony of innocence is drowned\"",
       "Author": "W. B. Yeats",
       "JValue": 0.7161458333333334,
+      "Freq": 1
+    },
+    {
+      "Text": "\"the center cannot hold\"",
+      "Author": "W. B. Yeats",
+      "JValue": 0.75390625,
       "Freq": 1
     }
   ],
@@ -12602,8 +11576,8 @@ var poetsData={
     {
       "Text": "\"what immortal hand or eye could frame thy fearful symmetry.\"",
       "Author": "William Blake",
-      "JValue": 0.8402259192740332,
-      "Freq": 22
+      "JValue": 0.8499306904690194,
+      "Freq": 33
     },
     {
       "Text": "\"The nations still\"",
@@ -12632,8 +11606,8 @@ var poetsData={
     {
       "Text": "\"happy upon the heath\"",
       "Author": "William Blake",
-      "JValue": 0.12670299727520432,
-      "Freq": 11
+      "JValue": 0.135805806731597,
+      "Freq": 22
     },
     {
       "Text": "\"clothed [him] in clothes of death\"",
@@ -12680,8 +11654,8 @@ var poetsData={
     {
       "Text": "\"burning bright, in theforests of the night.\"",
       "Author": "William Blake",
-      "JValue": 0.8392370572207087,
-      "Freq": 11
+      "JValue": 0.8367045781468893,
+      "Freq": 33
     },
     {
       "Text": "\"caterpillar and fly.\"",
@@ -12774,28 +11748,16 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"burning bright in the forests of the night.\"",
-      "Author": "William Blake",
-      "JValue": 0.8199274465948598,
-      "Freq": 44
-    },
-    {
       "Text": "\"taught…to sing the notes of woe\"",
       "Author": "William Blake",
       "JValue": 0.09399477806788513,
       "Freq": 11
     },
     {
-      "Text": "\"was happy upon the heath.\"",
-      "Author": "William Blake",
-      "JValue": 0.14490861618798956,
-      "Freq": 11
-    },
-    {
       "Text": "\"gone to praise God and his Priest and King, Who make up a heaven of our misery.\"",
       "Author": "William Blake",
-      "JValue": 0.3754351610095735,
-      "Freq": 22
+      "JValue": 0.37529010733971563,
+      "Freq": 33
     },
     {
       "Text": "\"Dick, Joe, Ned, &amp; Jack… locked up in coffins of black\"",
@@ -12822,6 +11784,12 @@ var poetsData={
       "Freq": 11
     },
     {
+      "Text": "\"burning bright\"",
+      "Author": "William Blake",
+      "JValue": 0.80441655457974,
+      "Freq": 22
+    },
+    {
       "Text": "\"In the forests of the night\"",
       "Author": "William Blake",
       "JValue": 0.7767624020887728,
@@ -12830,31 +11798,19 @@ var poetsData={
     {
       "Text": "\"dark satanic mills\"",
       "Author": "William Blake",
-      "JValue": 0.3684210526315788,
-      "Freq": 11
+      "JValue": 0.3901829612315627,
+      "Freq": 22
     },
     {
       "Text": "\"And did those feet in ancient time.\"",
       "Author": "William Blake",
-      "JValue": 0.6044657097288678,
-      "Freq": 11
+      "JValue": 0.5801807874831169,
+      "Freq": 22
     },
     {
       "Text": "\"was builded here\"",
       "Author": "William Blake",
       "JValue": 0.41194486983154677,
-      "Freq": 11
-    },
-    {
-      "Text": "\"Among these ($) dark Satanic Mills\"",
-      "Author": "William Blake",
-      "JValue": 0.41194486983154677,
-      "Freq": 11
-    },
-    {
-      "Text": "\"Did those feet in ancient times\"",
-      "Author": "William Blake",
-      "JValue": 0.5558958652373659,
       "Freq": 11
     },
     {
@@ -12866,8 +11822,8 @@ var poetsData={
     {
       "Text": "\"the dark secret love\"",
       "Author": "William Blake",
-      "JValue": 0.6998468606431852,
-      "Freq": 11
+      "JValue": 0.5898190375633452,
+      "Freq": 33
     },
     {
       "Text": "\"invisible worm,\"",
@@ -12884,8 +11840,8 @@ var poetsData={
     {
       "Text": "\"In the howling storm.\"",
       "Author": "William Blake",
-      "JValue": 0.8131699846860644,
-      "Freq": 11
+      "JValue": 0.5883523301506387,
+      "Freq": 22
     },
     {
       "Text": "\"filled with graves, and tomb-stones where flowers should be: and priests in black gowns.\"",
@@ -12906,33 +11862,15 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"found out thy bed of crimson joy, and his dark secret love does thy life destroy.\"",
-      "Author": "William Blake",
-      "JValue": 0.5348051260234249,
-      "Freq": 22
-    },
-    {
       "Text": "\"What the hammer? what the chain, in what furnace was thy brain?\"",
       "Author": "William Blake",
       "JValue": 0.7684346701164294,
       "Freq": 11
     },
     {
-      "Text": "\"What immortal hand or eye, dare frame thy fearful symmetry?\"",
-      "Author": "William Blake",
-      "JValue": 0.8781824206800549,
-      "Freq": 22
-    },
-    {
       "Text": "\"learn to bear the beams of love.\"",
       "Author": "William Blake",
       "JValue": 0.2695749440715884,
-      "Freq": 11
-    },
-    {
-      "Text": "\"In the howling storm\"",
-      "Author": "William Blake",
-      "JValue": 0.36353467561521263,
       "Freq": 11
     },
     {
@@ -12966,6 +11904,12 @@ var poetsData={
       "Freq": 11
     },
     {
+      "Text": "\"Dare frame thy fearful symmetry?\"",
+      "Author": "William Blake",
+      "JValue": 0.8870246085011183,
+      "Freq": 11
+    },
+    {
       "Text": "\"mournful lean Despair\"",
       "Author": "William Blake",
       "JValue": 0.13888888888888887,
@@ -12981,12 +11925,6 @@ var poetsData={
       "Text": "\"That walk'd among the ancient trees\"",
       "Author": "William Blake",
       "JValue": 0.2626262626262626,
-      "Freq": 11
-    },
-    {
-      "Text": "\"God and his priest and king\"",
-      "Author": "William Blake",
-      "JValue": 0.375,
       "Freq": 11
     }
   ],
@@ -13134,8 +12072,8 @@ var poetsData={
     {
       "Text": "\"You who hear the sound, in scattered rhymes.\"",
       "Author": "Petrarch",
-      "JValue": 0.7410375944772086,
-      "Freq": 85
+      "JValue": 0.7269548319152487,
+      "Freq": 99
     },
     {
       "Text": "\"This sleep of forgetfulness will not last forever\"",
@@ -13212,8 +12150,8 @@ var poetsData={
     {
       "Text": "\"Virtue will take up arms against savagery\"",
       "Author": "Petrarch",
-      "JValue": 0.08068783068783068,
-      "Freq": 14
+      "JValue": 0.18743563793899368,
+      "Freq": 28
     },
     {
       "Text": "\"Peace, peace, peace!\"",
@@ -13224,14 +12162,14 @@ var poetsData={
     {
       "Text": "\"Sun's rays turned pale with grief for his Maker\"",
       "Author": "Petrarch",
-      "JValue": 0.6190476190476188,
-      "Freq": 14
+      "JValue": 0.559145594697788,
+      "Freq": 28
     },
     {
       "Text": "\"You who hear the sound of scattered rhymes\"",
       "Author": "Petrarch",
-      "JValue": 0.6957261724659605,
-      "Freq": 28
+      "JValue": 0.75,
+      "Freq": 14
     },
     {
       "Text": "\"like chased gold and pearl,\"",
@@ -13258,12 +12196,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"shall take up arms\"",
-      "Author": "Petrarch",
-      "JValue": 0.2941834451901566,
-      "Freq": 14
-    },
-    {
       "Text": "\"Clear, sweet fresh water.\"",
       "Author": "Petrarch",
       "JValue": 0.45302013422818804,
@@ -13285,12 +12217,6 @@ var poetsData={
       "Text": "\"equally appropriate for Caesars and poets\"",
       "Author": "Petrarch",
       "JValue": 0.11346444780635401,
-      "Freq": 14
-    },
-    {
-      "Text": "\"the Sun's ray's turned pale with grief\"",
-      "Author": "Petrarch",
-      "JValue": 0.49924357034795747,
       "Freq": 14
     },
     {
@@ -13358,14 +12284,14 @@ var poetsData={
     {
       "Text": "\"Love, O careless love\"",
       "Author": "Robert Lowell",
-      "JValue": 0.36375,
-      "Freq": 1
+      "JValue": 0.4249266672610556,
+      "Freq": 8
     },
     {
       "Text": "\"Nautilus Island's hermit heiress\"",
       "Author": "Robert Lowell",
-      "JValue": 0.3740251756440281,
-      "Freq": 2
+      "JValue": 0.6092653723507607,
+      "Freq": 23
     },
     {
       "Text": "\"yellow dinosaur steamshovels\"",
@@ -13376,8 +12302,8 @@ var poetsData={
     {
       "Text": "\"stinks like a fishbone\"",
       "Author": "Robert Lowell",
-      "JValue": 0.8125,
-      "Freq": 1
+      "JValue": 0.8469187533617911,
+      "Freq": 22
     },
     {
       "Text": "\"blessed structures, plot and rhyme\"",
@@ -13412,31 +12338,19 @@ var poetsData={
     {
       "Text": "\"A savage servility\"",
       "Author": "Robert Lowell",
-      "JValue": 0.4761904761904762,
-      "Freq": 7
+      "JValue": 0.5927641648411837,
+      "Freq": 21
     },
     {
       "Text": "\"slides by on grease.\"",
       "Author": "Robert Lowell",
-      "JValue": 0.4761904761904762,
-      "Freq": 7
+      "JValue": 0.6670101462424942,
+      "Freq": 21
     },
     {
       "Text": "\"I myself am hell\"",
       "Author": "Robert Lowell",
-      "JValue": 0.5282371773099304,
-      "Freq": 14
-    },
-    {
-      "Text": "\"Nautilus Island's hermit heiress.\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.6552268368648819,
-      "Freq": 14
-    },
-    {
-      "Text": "\"sticks like a fishbone\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.8485577416171145,
+      "JValue": 0.5525103859300902,
       "Freq": 21
     },
     {
@@ -13460,8 +12374,8 @@ var poetsData={
     {
       "Text": "\"The Lord survives the rainbow of His will\"",
       "Author": "Robert Lowell",
-      "JValue": 0.25162860289623534,
-      "Freq": 8
+      "JValue": 0.22594598759213053,
+      "Freq": 15
     },
     {
       "Text": "\"the hierarchic privacy\"",
@@ -13512,12 +12426,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"Nautilus Island's hermit heiress;\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.584553928095872,
-      "Freq": 7
-    },
-    {
       "Text": "\"our black classic, breaking up\"",
       "Author": "Robert Lowell",
       "JValue": 0.1326676176890157,
@@ -13540,24 +12448,6 @@ var poetsData={
       "Author": "Robert Lowell",
       "JValue": 0.3865905848787446,
       "Freq": 7
-    },
-    {
-      "Text": "\"Love, O careless Love\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.4336661911554921,
-      "Freq": 7
-    },
-    {
-      "Text": "\"a savage servility\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.6510510091665374,
-      "Freq": 14
-    },
-    {
-      "Text": "\"slides by on grease\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.7624199812685032,
-      "Freq": 14
     },
     {
       "Text": "\"sailor will your sword\"",
@@ -13608,12 +12498,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"I myself am death\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.6010568031704094,
-      "Freq": 7
-    },
-    {
       "Text": "\"a savageservility\"",
       "Author": "Robert Lowell",
       "JValue": 0.787318361955086,
@@ -13623,12 +12507,6 @@ var poetsData={
       "Text": "\"ask for no Orphean lute to pluck life back\"",
       "Author": "Robert Lowell",
       "JValue": 0.09287925696594426,
-      "Freq": 7
-    },
-    {
-      "Text": "\"The Lord survives the rainbow of his will.\"",
-      "Author": "Robert Lowell",
-      "JValue": 0.19659442724458207,
       "Freq": 7
     },
     {
@@ -13709,12 +12587,6 @@ var poetsData={
       "Text": "\"unbind thy woeful hair in grief\"",
       "Author": "Ovid",
       "JValue": 0.36788874841972186,
-      "Freq": 5
-    },
-    {
-      "Text": "\"is less interested in the finer aspects of love-longing than in his witty comparison between animal and woman.\"",
-      "Author": "Ovid",
-      "JValue": 0.25759416767922233,
       "Freq": 5
     },
     {
@@ -13800,19 +12672,13 @@ var poetsData={
     {
       "Text": "\"He appears to me, that one, equal to the gods,\"",
       "Author": "Sappho",
-      "JValue": 0.5987012987012987,
-      "Freq": 2
+      "JValue": 0.4595592931658506,
+      "Freq": 4
     },
     {
       "Text": "\"deathless child of Zeus\"",
       "Author": "Sappho",
       "JValue": 0.787012987012987,
-      "Freq": 2
-    },
-    {
-      "Text": "\"equal to the gods.\"",
-      "Author": "Sappho",
-      "JValue": 0.3204172876304024,
       "Freq": 2
     },
     {
@@ -14146,8 +13012,8 @@ var poetsData={
     {
       "Text": "\"This fabulous shadow only the sea keeps.\"",
       "Author": "Hart Crane",
-      "JValue": 0.6275510204081632,
-      "Freq": 4
+      "JValue": 0.6179255102040816,
+      "Freq": 8
     },
     {
       "Text": "\"the dice of drowned men's bones\"",
@@ -14237,12 +13103,6 @@ var poetsData={
       "Text": "\"mother's mother.\"",
       "Author": "Hart Crane",
       "JValue": 0.5292,
-      "Freq": 4
-    },
-    {
-      "Text": "\"this fabulous shadow only the sea keeps,\"",
-      "Author": "Hart Crane",
-      "JValue": 0.6083,
       "Freq": 4
     },
     {
@@ -14364,8 +13224,8 @@ var poetsData={
     {
       "Text": "\"findme, and turn thy back on heaven.\"",
       "Author": "Ralph Waldo Emerson",
-      "JValue": 0.6138433515482696,
-      "Freq": 8
+      "JValue": 0.5042485287510485,
+      "Freq": 16
     },
     {
       "Text": "\"shot heard round the world\"",
@@ -14400,8 +13260,8 @@ var poetsData={
     {
       "Text": "\"A foolish consistency is the hobgoblin of little minds.\"",
       "Author": "Ralph Waldo Emerson",
-      "JValue": 0.8217126559522125,
-      "Freq": 32
+      "JValue": 0.8061347541505866,
+      "Freq": 40
     },
     {
       "Text": "\"walk the world over\"",
@@ -14536,12 +13396,6 @@ var poetsData={
       "Freq": 8
     },
     {
-      "Text": "\"Find me, and turn thy back on heaven\"",
-      "Author": "Ralph Waldo Emerson",
-      "JValue": 0.39465370595382737,
-      "Freq": 8
-    },
-    {
       "Text": "\"life is a self-evolving\"",
       "Author": "Ralph Waldo Emerson",
       "JValue": 0.07152145643693109,
@@ -14570,12 +13424,6 @@ var poetsData={
       "Author": "Ralph Waldo Emerson",
       "JValue": 0.5539661898569571,
       "Freq": 8
-    },
-    {
-      "Text": "\"a foolish consistency is the hobgoblin of little minds\"",
-      "Author": "Ralph Waldo Emerson",
-      "JValue": 0.7438231469440834,
-      "Freq": 8
     }
   ],
   "John Milton": [
@@ -14600,8 +13448,8 @@ var poetsData={
     {
       "Text": "\"They also serve who only stand and waite\"",
       "Author": "John Milton",
-      "JValue": 0.7023591456459446,
-      "Freq": 30
+      "JValue": 0.6995203370701819,
+      "Freq": 40
     },
     {
       "Text": "\"Look homeward Angel now, and melt with ruth: And, O ye Dolphins, waft the helpless youth\"",
@@ -14612,8 +13460,8 @@ var poetsData={
     {
       "Text": "\"When I Consider How My Light is Spent\"",
       "Author": "John Milton",
-      "JValue": 0.9332161687170475,
-      "Freq": 10
+      "JValue": 0.8738936672434632,
+      "Freq": 40
     },
     {
       "Text": "\"the pilot of the Galilean lake\"",
@@ -14654,20 +13502,14 @@ var poetsData={
     {
       "Text": "\"hence vain deluding joyes.\"",
       "Author": "John Milton",
-      "JValue": 0.5427286356821589,
-      "Freq": 10
+      "JValue": 0.5130364826174815,
+      "Freq": 30
     },
     {
       "Text": "\"of man's first disobedience\"",
       "Author": "John Milton",
       "JValue": 0.9670164917541231,
       "Freq": 10
-    },
-    {
-      "Text": "\"Hence vain deluding joys,\"",
-      "Author": "John Milton",
-      "JValue": 0.4981904060851427,
-      "Freq": 20
     },
     {
       "Text": "\"the liberty of unlicensed printing.\"",
@@ -14678,8 +13520,8 @@ var poetsData={
     {
       "Text": "\"Better to reign in Hell than serve in Heaven.\"",
       "Author": "John Milton",
-      "JValue": 0.7982456140350876,
-      "Freq": 10
+      "JValue": 0.7690810824000194,
+      "Freq": 20
     },
     {
       "Text": "\"The Lord will come and not be slow\"",
@@ -14703,12 +13545,6 @@ var poetsData={
       "Text": "\"two-handed engine\"",
       "Author": "John Milton",
       "JValue": 0.5539971949509115,
-      "Freq": 10
-    },
-    {
-      "Text": "\"better to reign in hell than serve in heaven\"",
-      "Author": "John Milton",
-      "JValue": 0.7399165507649512,
       "Freq": 10
     },
     {
@@ -14752,12 +13588,6 @@ var poetsData={
       "Author": "John Milton",
       "JValue": 0.6596736596736595,
       "Freq": 10
-    },
-    {
-      "Text": "\"When I consider how my light is spent.\"",
-      "Author": "John Milton",
-      "JValue": 0.8541195000856016,
-      "Freq": 30
     },
     {
       "Text": "\"spot of childbed taint\"",
@@ -14853,12 +13683,6 @@ var poetsData={
       "Text": "\"divinest Melancholy\"",
       "Author": "John Milton",
       "JValue": 0.4784876140808344,
-      "Freq": 10
-    },
-    {
-      "Text": "\"they also serve who only stand and wait\"",
-      "Author": "John Milton",
-      "JValue": 0.6910039113428945,
       "Freq": 10
     }
   ],
@@ -15138,8 +13962,8 @@ var poetsData={
     {
       "Text": "\"Shoot, if you must, this old gray head.\"",
       "Author": "John Greenleaf Whittier",
-      "JValue": 0.7144915109434772,
-      "Freq": 44
+      "JValue": 0.76055135076412,
+      "Freq": 66
     },
     {
       "Text": "\"Vala-song of liberty.\"",
@@ -15168,8 +13992,8 @@ var poetsData={
     {
       "Text": "\"But spare your country's flag,\"",
       "Author": "John Greenleaf Whittier",
-      "JValue": 0.885311648728768,
-      "Freq": 33
+      "JValue": 0.8789172311052217,
+      "Freq": 44
     },
     {
       "Text": "\"Mistress Mary is dead and gone,\"",
@@ -15186,14 +14010,8 @@ var poetsData={
     {
       "Text": "\"The saddest are these: It might have been\"",
       "Author": "John Greenleaf Whittier",
-      "JValue": 0.4387917329093799,
-      "Freq": 11
-    },
-    {
-      "Text": "\"Shoot, if you must, this old grey head\"",
-      "Author": "John Greenleaf Whittier",
-      "JValue": 0.8108108108108106,
-      "Freq": 11
+      "JValue": 0.4419149504241556,
+      "Freq": 22
     },
     {
       "Text": "\"my stolen daughters\"",
@@ -15274,12 +14092,6 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"Of all sad words of tongue and pen, the saddest are these: 'It might have been!'\"",
-      "Author": "John Greenleaf Whittier",
-      "JValue": 0.4450381679389314,
-      "Freq": 11
-    },
-    {
       "Text": "\"A tunnel walled and overlaid\"",
       "Author": "John Greenleaf Whittier",
       "JValue": 0.5251908396946564,
@@ -15322,12 +14134,6 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"Shoot, ifyou must, this old gray head,\"",
-      "Author": "John Greenleaf Whittier",
-      "JValue": 0.89453125,
-      "Freq": 11
-    },
-    {
       "Text": "\"drop thy still dews of quietness\"",
       "Author": "John Greenleaf Whittier",
       "JValue": 0.14510278113663852,
@@ -15349,12 +14155,6 @@ var poetsData={
       "Text": "\"Behold the drink of the gods!\"",
       "Author": "John Greenleaf Whittier",
       "JValue": 0.4014510278113664,
-      "Freq": 11
-    },
-    {
-      "Text": "\"but spare your country's flag\"",
-      "Author": "John Greenleaf Whittier",
-      "JValue": 0.8597339782345828,
       "Freq": 11
     }
   ],
@@ -15442,8 +14242,8 @@ var poetsData={
     {
       "Text": "\"clang and clang of spear and shield\"",
       "Author": "Stephen Crane",
-      "JValue": 0.58908621106543,
-      "Freq": 36
+      "JValue": 0.5633200346431586,
+      "Freq": 48
     },
     {
       "Text": "\"None of them knew the color of the sky,\"",
@@ -15472,8 +14272,8 @@ var poetsData={
     {
       "Text": "\"and ate of it.\"",
       "Author": "Stephen Crane",
-      "JValue": 0.34749620637329276,
-      "Freq": 12
+      "JValue": 0.5121201962099021,
+      "Freq": 24
     },
     {
       "Text": "\"girl of the streets\"",
@@ -15572,12 +14372,6 @@ var poetsData={
       "Freq": 12
     },
     {
-      "Text": "\"clang and clang of hoof and heel, wild shouts and the wave of hair.\"",
-      "Author": "Stephen Crane",
-      "JValue": 0.48602150537634414,
-      "Freq": 12
-    },
-    {
       "Text": "\"your lover threw wild hands toward the sky and the affrighted steed ran on alone.\"",
       "Author": "Stephen Crane",
       "JValue": 0.6752688172043012,
@@ -15633,12 +14427,6 @@ var poetsData={
     },
     {
       "Text": "\"who, squatting upon the ground\"",
-      "Author": "Stephen Crane",
-      "JValue": 0.6767441860465117,
-      "Freq": 12
-    },
-    {
-      "Text": "\"And ate of it.\"",
       "Author": "Stephen Crane",
       "JValue": 0.6767441860465117,
       "Freq": 12
@@ -15786,8 +14574,8 @@ var poetsData={
     {
       "Text": "\"to strive, to seek, to find and not to yield\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.7674408348277842,
-      "Freq": 36
+      "JValue": 0.7624996840520294,
+      "Freq": 38
     },
     {
       "Text": "\"the lonely moated grange\"",
@@ -15804,20 +14592,20 @@ var poetsData={
     {
       "Text": "\"The Gods themselves cannot recall their gifts\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.4361370716510902,
-      "Freq": 12
+      "JValue": 0.4204523509014996,
+      "Freq": 13
     },
     {
       "Text": "\"sunset and evening star\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.5794392523364486,
-      "Freq": 12
+      "JValue": 0.5431348439470195,
+      "Freq": 25
     },
     {
       "Text": "\"Into the valley of Death rode the six hundred\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.7766751553736854,
-      "Freq": 49
+      "JValue": 0.7798217537819058,
+      "Freq": 86
     },
     {
       "Text": "\"lordly pleasure house\"",
@@ -15852,14 +14640,8 @@ var poetsData={
     {
       "Text": "\"Half a league, half a league\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.7771405165066817,
-      "Freq": 36
-    },
-    {
-      "Text": "\"into the valley of death.\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.754599180651246,
-      "Freq": 25
+      "JValue": 0.7763773973980971,
+      "Freq": 37
     },
     {
       "Text": "\"Now lies the earth all Danae to the stars, and all thy heart lies open unto me.\"",
@@ -15888,8 +14670,8 @@ var poetsData={
     {
       "Text": "\"the 3rst beam glittering on a sail that brings our friends up from the underworld\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.4288681204569054,
-      "Freq": 12
+      "JValue": 0.42148416598551014,
+      "Freq": 13
     },
     {
       "Text": "\"the earliest pipe of half-awakened birds to dying ears\"",
@@ -15942,8 +14724,8 @@ var poetsData={
     {
       "Text": "\"rest ye, brother mariners, we will not wander more,\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.3828775267538644,
-      "Freq": 12
+      "JValue": 0.27550309086231234,
+      "Freq": 24
     },
     {
       "Text": "\"mild-eyed melancholy\"",
@@ -15992,12 +14774,6 @@ var poetsData={
       "Author": "Alfred, Lord Tennyson",
       "JValue": 0.11534566645823727,
       "Freq": 13
-    },
-    {
-      "Text": "\"will not wander more.\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.1681286549707602,
-      "Freq": 12
     },
     {
       "Text": "\"Four gray walls, and four gray towers\"",
@@ -16054,12 +14830,6 @@ var poetsData={
       "Freq": 12
     },
     {
-      "Text": "\"Rode the six hundred.\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.8373229537877165,
-      "Freq": 13
-    },
-    {
       "Text": "\"the hidden ore\"",
       "Author": "Alfred, Lord Tennyson",
       "JValue": 0.0830188679245283,
@@ -16092,8 +14862,8 @@ var poetsData={
     {
       "Text": "\"see my Pilot face to face.\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.72583707034044,
-      "Freq": 25
+      "JValue": 0.7240213039844925,
+      "Freq": 26
     },
     {
       "Text": "\"This truth within thy mind rehearse, that in a boundless universe, is boundless better, boundless worse.\"",
@@ -16168,12 +14938,6 @@ var poetsData={
       "Freq": 12
     },
     {
-      "Text": "\"Sunset and evening star, and one clear call for me!\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.51326314373171,
-      "Freq": 14
-    },
-    {
       "Text": "\"All the world wondered\"",
       "Author": "Alfred, Lord Tennyson",
       "JValue": 0.6330645161290321,
@@ -16186,16 +14950,10 @@ var poetsData={
       "Freq": 2
     },
     {
-      "Text": "\"see his pilot face to face\"",
+      "Text": "\"the six hundred.\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.6786271450858035,
+      "JValue": 0.7425897035881436,
       "Freq": 1
-    },
-    {
-      "Text": "\"to strive, to seek, to find, but not to yield.\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.6735589700884396,
-      "Freq": 2
     },
     {
       "Text": "\"The firefly wakens; waken thou with me\"",
@@ -16205,12 +14963,6 @@ var poetsData={
     },
     {
       "Text": "\"Fresh as the first beam glittering on a sail\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.33287671232876714,
-      "Freq": 1
-    },
-    {
-      "Text": "\"That brings our friends up from the underworld,\"",
       "Author": "Alfred, Lord Tennyson",
       "JValue": 0.33287671232876714,
       "Freq": 1
@@ -16234,21 +14986,15 @@ var poetsData={
       "Freq": 1
     },
     {
-      "Text": "\"the Gods themselves cannot recall their gifts.\"",
-      "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.2322357019064125,
-      "Freq": 1
-    },
-    {
       "Text": "\"Their's but to do and die.\"",
       "Author": "Alfred, Lord Tennyson",
       "JValue": 0.878682842287695,
       "Freq": 1
     },
     {
-      "Text": "\"Half a league onward\"",
+      "Text": "\"And one clear call for me!\"",
       "Author": "Alfred, Lord Tennyson",
-      "JValue": 0.7489051094890511,
+      "JValue": 0.5605839416058395,
       "Freq": 1
     }
   ],
@@ -16312,8 +15058,8 @@ var poetsData={
     {
       "Text": "\"would prefer not to.\"",
       "Author": "Herman Melville",
-      "JValue": 0.8289320284692,
-      "Freq": 44
+      "JValue": 0.8194138443497041,
+      "Freq": 55
     },
     {
       "Text": "\"the shock of recognition\"",
@@ -16361,12 +15107,6 @@ var poetsData={
       "Text": "\"the dice of drowned men's bones\"",
       "Author": "Herman Melville",
       "JValue": 0.7411167512690354,
-      "Freq": 11
-    },
-    {
-      "Text": "\"I would prefer not to,\"",
-      "Author": "Herman Melville",
-      "JValue": 0.78134110787172,
       "Freq": 11
     }
   ],
@@ -16422,20 +15162,20 @@ var poetsData={
     {
       "Text": "\"ave atque vale\"",
       "Author": "Catullus",
-      "JValue": 0.865021770682148,
-      "Freq": 8
+      "JValue": 0.7703487231789118,
+      "Freq": 16
     },
     {
       "Text": "\"Ave atque vale,\"",
       "Author": "Catullus",
-      "JValue": 0.7272727272727274,
-      "Freq": 8
+      "JValue": 0.6947493747156669,
+      "Freq": 16
     },
     {
       "Text": "\"Because you've read my kisses, you think me less a man?\"",
       "Author": "Catullus",
-      "JValue": 0.35894558748200067,
-      "Freq": 16
+      "JValue": 0.4781353764834492,
+      "Freq": 24
     },
     {
       "Text": "\"evil shades of Orcus\"",
@@ -16480,12 +15220,6 @@ var poetsData={
       "Freq": 8
     },
     {
-      "Text": "\"Ave atque vale\"",
-      "Author": "Catullus",
-      "JValue": 0.6756756756756755,
-      "Freq": 8
-    },
-    {
       "Text": "\"took courage to set forth the whole history of the world in three volumes.\"",
       "Author": "Catullus",
       "JValue": 0.2902155887230515,
@@ -16519,12 +15253,6 @@ var poetsData={
       "Text": "\"does not use his left hand too well\"",
       "Author": "Catullus",
       "JValue": 0.5045513654096229,
-      "Freq": 8
-    },
-    {
-      "Text": "\"Do you think me less of a man?\"",
-      "Author": "Catullus",
-      "JValue": 0.716514954486346,
       "Freq": 8
     },
     {
@@ -16566,20 +15294,14 @@ var poetsData={
     {
       "Text": "\"hail and farewell\"",
       "Author": "Catullus",
-      "JValue": 0.850801479654747,
-      "Freq": 8
+      "JValue": 0.8851556192700235,
+      "Freq": 12
     },
     {
       "Text": "\"Wandering through many countries and over many seas, I come, my brother, to these sorrowful obsequies.\"",
       "Author": "Catullus",
       "JValue": 0.6207906295754027,
       "Freq": 4
-    },
-    {
-      "Text": "\"ave atque vale,\"",
-      "Author": "Catullus",
-      "JValue": 0.6622260221586067,
-      "Freq": 8
     },
     {
       "Text": "\"earth was stained with unspeakable crime\"",
@@ -16652,12 +15374,6 @@ var poetsData={
       "Author": "Catullus",
       "JValue": 0.6286043829296425,
       "Freq": 4
-    },
-    {
-      "Text": "\"Hail and farewell\"",
-      "Author": "Catullus",
-      "JValue": 0.9538638985005767,
-      "Freq": 4
     }
   ],
   "Percy Bysshe Shelley": [
@@ -16676,8 +15392,8 @@ var poetsData={
     {
       "Text": "\"Ye are many--they are few.\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.3973740681755309,
-      "Freq": 36
+      "JValue": 0.4325712451340233,
+      "Freq": 54
     },
     {
       "Text": "\"The breath whose might I have invoked in song\"",
@@ -16700,14 +15416,14 @@ var poetsData={
     {
       "Text": "\"Beacons from the abode where the Eternal are\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.6953363914373086,
-      "Freq": 36
+      "JValue": 0.6686580758723442,
+      "Freq": 109
     },
     {
       "Text": "\"Look on my works ye mighty, and despair!\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.9058458339696229,
-      "Freq": 36
+      "JValue": 0.8706278192053393,
+      "Freq": 163
     },
     {
       "Text": "\"old, mad, blind, despised, and dying king.\"",
@@ -16718,14 +15434,14 @@ var poetsData={
     {
       "Text": "\"thou breath of Autumn's being.\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.6272727272727271,
-      "Freq": 18
+      "JValue": 0.6097737026921577,
+      "Freq": 36
     },
     {
       "Text": "\"wrinkled sneer of cold command.\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.8539776804949156,
-      "Freq": 54
+      "JValue": 0.8357622303282684,
+      "Freq": 72
     },
     {
       "Text": "\"I sought for ghosts, and sped through many a listening chamber, cave and ruin.\"",
@@ -16746,16 +15462,10 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"beacons from the abode where the Eternal are.\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.6754579276232932,
-      "Freq": 55
-    },
-    {
       "Text": "\"hand that mocked them and the heart that fed,\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.5769148526707437,
-      "Freq": 36
+      "JValue": 0.6398382415158779,
+      "Freq": 54
     },
     {
       "Text": "\"of the colossal wreck,\"",
@@ -16788,22 +15498,10 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"breath of Autumn's being\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.6476298763692269,
-      "Freq": 36
-    },
-    {
       "Text": "\"If Winter comes, can Spring be far behind\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.7381713133666097,
-      "Freq": 90
-    },
-    {
-      "Text": "\"sneer of cold command\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.781115879828326,
-      "Freq": 18
+      "JValue": 0.7012044927067714,
+      "Freq": 144
     },
     {
       "Text": "\"'Look on my works, ye mighty, and despair!'\"",
@@ -16836,28 +15534,16 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"Look on my Works, ye Mighty, and despair!\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.8732881932899347,
-      "Freq": 91
-    },
-    {
       "Text": "\"the unacknowledged legislators of the world\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.17884615384615377,
       "Freq": 18
     },
     {
-      "Text": "\"If Winter Comes, can Spring be far behind?\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.3480769230769231,
-      "Freq": 18
-    },
-    {
       "Text": "\"hail to thee, blithe spirit.\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.5250000000000002,
-      "Freq": 18
+      "JValue": 0.6508984867591422,
+      "Freq": 36
     },
     {
       "Text": "\"two vast and trunkless legs of stone\"",
@@ -16868,31 +15554,13 @@ var poetsData={
     {
       "Text": "\"when thou art gone, love itself shall slumber on\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.0873533246414602,
-      "Freq": 18
+      "JValue": 0.13321007972300003,
+      "Freq": 36
     },
     {
       "Text": "\"Music, when Soft Voices Die\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.4018423921174685,
-      "Freq": 36
-    },
-    {
-      "Text": "\"soul  beacons from the abode where the eternal are\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.5945241199478487,
-      "Freq": 18
-    },
-    {
-      "Text": "\"If winter comes, can spring be far behind?\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.7853512258721027,
-      "Freq": 36
-    },
-    {
-      "Text": "\"Look upon my works, ye mighty, and despair!\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.8286849699494389,
       "Freq": 36
     },
     {
@@ -16908,13 +15576,13 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"thy thoughts, when thou art gone,\"",
+      "Text": "\"the breath of Autumn's being\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.17906683480453978,
+      "JValue": 0.702985074626866,
       "Freq": 18
     },
     {
-      "Text": "\"Love itself shall slumber on.\"",
+      "Text": "\"thy thoughts, when thou art gone,\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.17906683480453978,
       "Freq": 18
@@ -16950,12 +15618,6 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"Hail to thee, blithe spirit!\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.7767969735182851,
-      "Freq": 18
-    },
-    {
       "Text": "\"When will return the glory of your prime?\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.07490144546649143,
@@ -16964,8 +15626,8 @@ var poetsData={
     {
       "Text": "\"The everlasting universe of things\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.3087130031904911,
-      "Freq": 19
+      "JValue": 0.28138998415028393,
+      "Freq": 37
     },
     {
       "Text": "\"Flows through the mind, and rolls its rapid waves\"",
@@ -17064,12 +15726,6 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"shake your  chains to earth, like dew… ye are many – they are few.\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.5029655990510082,
-      "Freq": 18
-    },
-    {
       "Text": "\"fate and fame shall be\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.6370106761565834,
@@ -17090,8 +15746,8 @@ var poetsData={
     {
       "Text": "\"Life, like a dome of many-coloured glass\"",
       "Author": "Percy Bysshe Shelley",
-      "JValue": 0.1430317848410758,
-      "Freq": 18
+      "JValue": 0.15288284986007286,
+      "Freq": 19
     },
     {
       "Text": "\"Stains the white radiance of Eternity\"",
@@ -17169,12 +15825,6 @@ var poetsData={
       "Text": "\"visit thesoul in sleep\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.18483660130718957,
-      "Freq": 18
-    },
-    {
-      "Text": "\"the everlasting universe of things.\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.25254901960784315,
       "Freq": 18
     },
     {
@@ -17268,12 +15918,6 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"the heart that fed\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.7656850192061457,
-      "Freq": 18
-    },
-    {
       "Text": "\"through the unheeding many,\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.05473501303214596,
@@ -17352,12 +15996,6 @@ var poetsData={
       "Freq": 1
     },
     {
-      "Text": "\"dome of many-colour'd glass\"",
-      "Author": "Percy Bysshe Shelley",
-      "JValue": 0.33020202020202016,
-      "Freq": 1
-    },
-    {
       "Text": "\"till the  Future dares Forget the Past.\"",
       "Author": "Percy Bysshe Shelley",
       "JValue": 0.39949494949494946,
@@ -17380,8 +16018,8 @@ var poetsData={
     {
       "Text": "\"a poplar of water\"",
       "Author": "Octavio Paz",
-      "JValue": 0.5457666619456503,
-      "Freq": 44
+      "JValue": 0.5589715527929023,
+      "Freq": 48
     },
     {
       "Text": "\"a willow of crystal\"",
@@ -17519,13 +16157,7 @@ var poetsData={
       "Text": "\"I travel your length like a river\"",
       "Author": "Octavio Paz",
       "JValue": 0.5180722891566266,
-      "Freq": 8
-    },
-    {
-      "Text": "\"I travel your body like a forest.\"",
-      "Author": "Octavio Paz",
-      "JValue": 0.5180722891566266,
-      "Freq": 8
+      "Freq": 16
     },
     {
       "Text": "\"Man is the only being who knows he is alone\"",
@@ -17622,12 +16254,6 @@ var poetsData={
       "Author": "Octavio Paz",
       "JValue": 0.6232394366197183,
       "Freq": 4
-    },
-    {
-      "Text": "\"a crystal willow, a poplar of water.\"",
-      "Author": "Octavio Paz",
-      "JValue": 0.704225352112676,
-      "Freq": 4
     }
   ],
   "Rudyard Kipling": [
@@ -17700,8 +16326,8 @@ var poetsData={
     {
       "Text": "\"Lest we forget – lest we forget!\"",
       "Author": "Rudyard Kipling",
-      "JValue": 0.8279069767441861,
-      "Freq": 6
+      "JValue": 0.5932521309060297,
+      "Freq": 12
     },
     {
       "Text": "\"He has gone South for the week\"",
@@ -17730,8 +16356,8 @@ var poetsData={
     {
       "Text": "\"By the old Moulmein pagoda\"",
       "Author": "Rudyard Kipling",
-      "JValue": 0.3898809523809524,
-      "Freq": 6
+      "JValue": 0.45625269338504637,
+      "Freq": 12
     },
     {
       "Text": "\"Ship me somewheres east of Suez\"",
@@ -17794,12 +16420,6 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"Lest we forget -- Lest we forget.\"",
-      "Author": "Rudyard Kipling",
-      "JValue": 0.3585972850678733,
-      "Freq": 6
-    },
-    {
       "Text": "\"dawn comes up like thunder outer China\"",
       "Author": "Rudyard Kipling",
       "JValue": 0.44230769230769235,
@@ -17809,12 +16429,6 @@ var poetsData={
       "Text": "\"'crost the Bay\"",
       "Author": "Rudyard Kipling",
       "JValue": 0.44230769230769235,
-      "Freq": 6
-    },
-    {
-      "Text": "\"by the old  Moulmein pagoda.\"",
-      "Author": "Rudyard Kipling",
-      "JValue": 0.5226244343891403,
       "Freq": 6
     },
     {
@@ -17846,8 +16460,8 @@ var poetsData={
     {
       "Text": "\"Dulce et decorum est pro patria mori\"",
       "Author": "Horace",
-      "JValue": 0.9577858143309191,
-      "Freq": 40
+      "JValue": 0.9245352250264521,
+      "Freq": 60
     },
     {
       "Text": "\"Now it is time to drink,\"",
@@ -17878,12 +16492,6 @@ var poetsData={
       "Author": "Horace",
       "JValue": 0.4735152487961477,
       "Freq": 10
-    },
-    {
-      "Text": "\"dulce et decorum est pro patria mori.\"",
-      "Author": "Horace",
-      "JValue": 0.8580340464175187,
-      "Freq": 20
     },
     {
       "Text": "\"neither, Torquatus, your race, nor your eloquence, nor your piety will restore you,\"",
@@ -18088,14 +16696,14 @@ var poetsData={
     {
       "Text": "\"death shall be no more; death, thou shalt die\"",
       "Author": "John Donne",
-      "JValue": 0.8972503617945009,
-      "Freq": 11
+      "JValue": 0.877978720675929,
+      "Freq": 33
     },
     {
       "Text": "\"Death, be not proud.\"",
       "Author": "John Donne",
-      "JValue": 0.9970471374333623,
-      "Freq": 33
+      "JValue": 0.9036387447599236,
+      "Freq": 44
     },
     {
       "Text": "\"every dead thing\"",
@@ -18214,8 +16822,8 @@ var poetsData={
     {
       "Text": "\"sucked me first, and now sucks thee,\"",
       "Author": "John Donne",
-      "JValue": 0.7573529411764707,
-      "Freq": 11
+      "JValue": 0.7564237233354881,
+      "Freq": 22
     },
     {
       "Text": "\"mingled blood.\"",
@@ -18280,14 +16888,14 @@ var poetsData={
     {
       "Text": "\"Mighty and dreadful\"",
       "Author": "John Donne",
-      "JValue": 0.7373974208675264,
-      "Freq": 11
+      "JValue": 0.599467941202994,
+      "Freq": 22
     },
     {
       "Text": "\"slave to Fate, Chance, kings, and desperate men\"",
       "Author": "John Donne",
-      "JValue": 0.7327179131163754,
-      "Freq": 22
+      "JValue": 0.6675079127735545,
+      "Freq": 33
     },
     {
       "Text": "\"my bleeding is under control\"",
@@ -18356,33 +16964,9 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"mighty and dreadful\"",
-      "Author": "John Donne",
-      "JValue": 0.4615384615384616,
-      "Freq": 11
-    },
-    {
-      "Text": "\"slave to fate, chance, kings, and desperate men.\"",
-      "Author": "John Donne",
-      "JValue": 0.5370879120879123,
-      "Freq": 11
-    },
-    {
       "Text": "\"you and I and this our marriage bed\"",
       "Author": "John Donne",
       "JValue": 0.6854395604395603,
-      "Freq": 11
-    },
-    {
-      "Text": "\"it suck'd me first, and now sucks thee.\"",
-      "Author": "John Donne",
-      "JValue": 0.7554945054945055,
-      "Freq": 11
-    },
-    {
-      "Text": "\"Death, thou shalt die\"",
-      "Author": "John Donne",
-      "JValue": 0.8777472527472528,
       "Freq": 11
     },
     {
@@ -18401,12 +16985,6 @@ var poetsData={
       "Text": "\"stiff twin compasses.\"",
       "Author": "John Donne",
       "JValue": 0.5713347921225383,
-      "Freq": 11
-    },
-    {
-      "Text": "\"Death, be not proud,\"",
-      "Author": "John Donne",
-      "JValue": 0.623413566739606,
       "Freq": 11
     },
     {
@@ -18462,12 +17040,6 @@ var poetsData={
       "Author": "John Donne",
       "JValue": 0.7402234636871511,
       "Freq": 11
-    },
-    {
-      "Text": "\"death, thou shalt die.\"",
-      "Author": "John Donne",
-      "JValue": 0.8589385474860335,
-      "Freq": 11
     }
   ],
   "John Berryman": [
@@ -18492,8 +17064,8 @@ var poetsData={
     {
       "Text": "\"Life, friends, is boring.\"",
       "Author": "John Berryman",
-      "JValue": 0.5289770431588614,
-      "Freq": 6
+      "JValue": 0.5240573652654652,
+      "Freq": 9
     },
     {
       "Text": "\"Death is a German expert\"",
@@ -18523,12 +17095,6 @@ var poetsData={
       "Text": "\"no inner resources\"",
       "Author": "John Berryman",
       "JValue": 0.466824644549763,
-      "Freq": 3
-    },
-    {
-      "Text": "\"Life, friends, is boring\"",
-      "Author": "John Berryman",
-      "JValue": 0.514218009478673,
       "Freq": 3
     },
     {
@@ -18608,8 +17174,8 @@ var poetsData={
     {
       "Text": "\"Heard melodies are sweet, but those unheard\"",
       "Author": "John Keats",
-      "JValue": 0.53722170627449,
-      "Freq": 28
+      "JValue": 0.6380391085308192,
+      "Freq": 42
     },
     {
       "Text": "\"tender is the night,\"",
@@ -18626,14 +17192,14 @@ var poetsData={
     {
       "Text": "\"unravish'd bride of quietness\"",
       "Author": "John Keats",
-      "JValue": 0.8125,
-      "Freq": 14
+      "JValue": 0.8336124257981711,
+      "Freq": 42
     },
     {
       "Text": "\"beauty is truth, truth beauty.\"",
       "Author": "John Keats",
-      "JValue": 0.8656257855405465,
-      "Freq": 98
+      "JValue": 0.8506621267762903,
+      "Freq": 112
     },
     {
       "Text": "\"some watcher of the skies\"",
@@ -18657,12 +17223,6 @@ var poetsData={
       "Text": "\"La Belle Dame sans Merci\"",
       "Author": "John Keats",
       "JValue": 0.6014760147601476,
-      "Freq": 14
-    },
-    {
-      "Text": "\"unravish'd bride of quietness,\"",
-      "Author": "John Keats",
-      "JValue": 0.7712177121771219,
       "Freq": 14
     },
     {
@@ -18704,14 +17264,14 @@ var poetsData={
     {
       "Text": "\"Of the wide world\"",
       "Author": "John Keats",
-      "JValue": 0.47836538461538475,
-      "Freq": 14
+      "JValue": 0.4547257006559332,
+      "Freq": 29
     },
     {
       "Text": "\"Till love and fame to nothingness do sink.\"",
       "Author": "John Keats",
-      "JValue": 0.5444127714437798,
-      "Freq": 16
+      "JValue": 0.3651912024256096,
+      "Freq": 30
     },
     {
       "Text": "\"Adieu! Adieu! thy plaintive anthem fades\"",
@@ -18728,8 +17288,8 @@ var poetsData={
     {
       "Text": "\"When I have Fears That I May Cease to Be.\"",
       "Author": "John Keats",
-      "JValue": 0.8798076923076922,
-      "Freq": 14
+      "JValue": 0.6317830614428014,
+      "Freq": 29
     },
     {
       "Text": "\"Do I wake or sleep?\"",
@@ -18774,22 +17334,10 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"I sit alone and think 'til love and fame and nothingness do sink.\"",
-      "Author": "John Keats",
-      "JValue": 0.16036655211912948,
-      "Freq": 14
-    },
-    {
-      "Text": "\"When I have fears that I may cease to be\"",
-      "Author": "John Keats",
-      "JValue": 0.40029340596890356,
-      "Freq": 15
-    },
-    {
       "Text": "\"Bright star! would I were steadfast as thou art.\"",
       "Author": "John Keats",
-      "JValue": 0.3618942803117996,
-      "Freq": 29
+      "JValue": 0.4388848927935957,
+      "Freq": 44
     },
     {
       "Text": "\"think not of them, thou hast thy music too\"",
@@ -18806,8 +17354,8 @@ var poetsData={
     {
       "Text": "\"the sedge is withered from the lake\"",
       "Author": "John Keats",
-      "JValue": 0.7296678121420388,
-      "Freq": 14
+      "JValue": 0.5558960822368226,
+      "Freq": 28
     },
     {
       "Text": "\"haunt thy days andchill thy dreaming nights,\"",
@@ -18822,12 +17370,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"on the shore of the wide world I stand alone, and think till love and fame to nothingness dosink.\"",
-      "Author": "John Keats",
-      "JValue": 0.43266199562711194,
-      "Freq": 15
-    },
-    {
       "Text": "\"eagle eyes...stared at the Pacific\"",
       "Author": "John Keats",
       "JValue": 0.5480769230769232,
@@ -18836,8 +17378,8 @@ var poetsData={
     {
       "Text": "\"Much have I travelled in the realms of gold.\"",
       "Author": "John Keats",
-      "JValue": 0.632988848639818,
-      "Freq": 15
+      "JValue": 0.48239895074836303,
+      "Freq": 29
     },
     {
       "Text": "\"Was it a vision, or a waking dream?\"",
@@ -18879,18 +17421,6 @@ var poetsData={
       "Text": "\"thing of  beauty is a joy forever.\"",
       "Author": "John Keats",
       "JValue": 0.6616847826086955,
-      "Freq": 14
-    },
-    {
-      "Text": "\"heard melodies are sweet, while unheard ones are sweeter\"",
-      "Author": "John Keats",
-      "JValue": 0.8396739130434784,
-      "Freq": 14
-    },
-    {
-      "Text": "\"still unravish'd bride of quietness.\"",
-      "Author": "John Keats",
-      "JValue": 0.9171195652173912,
       "Freq": 14
     },
     {
@@ -18992,14 +17522,8 @@ var poetsData={
     {
       "Text": "\"My heart aches, and a drowsy numbness pains.\"",
       "Author": "John Keats",
-      "JValue": 0.590288315629742,
-      "Freq": 14
-    },
-    {
-      "Text": "\"much have I travell'd in the realms of gold,\"",
-      "Author": "John Keats",
-      "JValue": 0.3210526315789473,
-      "Freq": 14
+      "JValue": 0.6865665248072707,
+      "Freq": 28
     },
     {
       "Text": "\"with eagle eyes,\"",
@@ -19028,8 +17552,8 @@ var poetsData={
     {
       "Text": "\"Of pure ablution round earth's human shores\"",
       "Author": "John Keats",
-      "JValue": 0.13680781758957658,
-      "Freq": 14
+      "JValue": 0.19146090361344115,
+      "Freq": 28
     },
     {
       "Text": "\"thoughtless chamber\"",
@@ -19062,12 +17586,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"my heart aches, and a drowsy numbness pains\"",
-      "Author": "John Keats",
-      "JValue": 0.7828447339847991,
-      "Freq": 14
-    },
-    {
       "Text": "\"stout Cortez, when with eagle eyes he stared into the Pacific\"",
       "Author": "John Keats",
       "JValue": 0.16696914700544466,
@@ -19077,12 +17595,6 @@ var poetsData={
       "Text": "\"When old age shall this generation waste, Thou shalt remain.\"",
       "Author": "John Keats",
       "JValue": 0.47731397459165154,
-      "Freq": 14
-    },
-    {
-      "Text": "\"Beauty is truth, truth beauty—that is all Ye know on earth, and all ye need to know\"",
-      "Author": "John Keats",
-      "JValue": 0.7459165154264973,
       "Freq": 14
     },
     {
@@ -19098,18 +17610,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"of pure ablution\"",
-      "Author": "John Keats",
-      "JValue": 0.24611398963730569,
-      "Freq": 14
-    },
-    {
-      "Text": "\"the sedge has wither’d from the lake\"",
-      "Author": "John Keats",
-      "JValue": 0.3821243523316063,
-      "Freq": 14
-    },
-    {
       "Text": "\"and no birds sing\"",
       "Author": "John Keats",
       "JValue": 0.3821243523316063,
@@ -19119,12 +17619,6 @@ var poetsData={
       "Text": "\"alone and palely loitering\"",
       "Author": "John Keats",
       "JValue": 0.4481865284974092,
-      "Freq": 14
-    },
-    {
-      "Text": "\"would I were  steadfast as thou art\"",
-      "Author": "John Keats",
-      "JValue": 0.5803108808290157,
       "Freq": 14
     },
     {
@@ -19228,12 +17722,6 @@ var poetsData={
       "Author": "John Keats",
       "JValue": 0.5792291220556746,
       "Freq": 1
-    },
-    {
-      "Text": "\"stedfast as thou art.\"",
-      "Author": "John Keats",
-      "JValue": 0.6916488222698073,
-      "Freq": 1
     }
   ],
   "William Wordsworth": [
@@ -19258,14 +17746,14 @@ var poetsData={
     {
       "Text": "\"the touch of earthly years\"",
       "Author": "William Wordsworth",
-      "JValue": 0.4856461072631357,
-      "Freq": 18
+      "JValue": 0.438482686227372,
+      "Freq": 27
     },
     {
       "Text": "\"getting and spending we lay waste to our powers.\"",
       "Author": "William Wordsworth",
-      "JValue": 0.4937413073713491,
-      "Freq": 9
+      "JValue": 0.5656206536856745,
+      "Freq": 18
     },
     {
       "Text": "\"Composed upon Westminster Bridge\"",
@@ -19282,8 +17770,8 @@ var poetsData={
     {
       "Text": "\"The World is Too Much With Us.\"",
       "Author": "William Wordsworth",
-      "JValue": 0.7935335532750327,
-      "Freq": 27
+      "JValue": 0.8092986924850835,
+      "Freq": 36
     },
     {
       "Text": "\"shall be a mansion for all lovely forms\"",
@@ -19330,14 +17818,14 @@ var poetsData={
     {
       "Text": "\"we have given our hearts away, a sordid boon!\"",
       "Author": "William Wordsworth",
-      "JValue": 0.7441424554826616,
-      "Freq": 9
+      "JValue": 0.5396612554421618,
+      "Freq": 18
     },
     {
       "Text": "\"I'd rather be a Pagan suckled in a creed outworn\"",
       "Author": "William Wordsworth",
-      "JValue": 0.6785262417994375,
-      "Freq": 18
+      "JValue": 0.6538019588948877,
+      "Freq": 27
     },
     {
       "Text": "\"the spontaneous overflow of powerful feeling\"",
@@ -19355,12 +17843,6 @@ var poetsData={
       "Text": "\"in the church-yard lie.\"",
       "Author": "William Wordsworth",
       "JValue": 0.23545706371191136,
-      "Freq": 9
-    },
-    {
-      "Text": "\"We have given our hearts away\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.3351800554016621,
       "Freq": 9
     },
     {
@@ -19478,28 +17960,16 @@ var poetsData={
       "Freq": 18
     },
     {
-      "Text": "\"getting and spending, we lay waste our powers\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.6375000000000001,
-      "Freq": 9
-    },
-    {
       "Text": "\"a host of dancing Daffodils\"",
       "Author": "William Wordsworth",
-      "JValue": 0.8727272727272728,
-      "Freq": 9
+      "JValue": 0.896670934699104,
+      "Freq": 18
     },
     {
       "Text": "\"dwelt among the untrodden ways,\"",
       "Author": "William Wordsworth",
       "JValue": 0.4083020852387049,
       "Freq": 18
-    },
-    {
-      "Text": "\"The touch of earthly years.\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.34415584415584416,
-      "Freq": 9
     },
     {
       "Text": "\"the worst pang that sorrow ever bore\"",
@@ -19558,8 +18028,8 @@ var poetsData={
     {
       "Text": "\"Which is the bliss of solitude,\"",
       "Author": "William Wordsworth",
-      "JValue": 0.8167082294264338,
-      "Freq": 9
+      "JValue": 0.6554731928182105,
+      "Freq": 18
     },
     {
       "Text": "\"had no human fears\"",
@@ -19589,30 +18059,6 @@ var poetsData={
       "Text": "\"flash upon that inward eye\"",
       "Author": "William Wordsworth",
       "JValue": 0.4468629961587708,
-      "Freq": 9
-    },
-    {
-      "Text": "\"the bliss of solitude.\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.49423815620998723,
-      "Freq": 9
-    },
-    {
-      "Text": "\"A Pagan suckled in a creed outworn.\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.6043533930857875,
-      "Freq": 9
-    },
-    {
-      "Text": "\"The World is Too Much with Us,\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.856594110115237,
-      "Freq": 9
-    },
-    {
-      "Text": "\"a host of golden daffodils\"",
-      "Author": "William Wordsworth",
-      "JValue": 0.9206145966709346,
       "Freq": 9
     }
   ],
@@ -19656,14 +18102,14 @@ var poetsData={
     {
       "Text": "\"What passing-bells for those who die as cattle?\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.711064183186555,
-      "Freq": 26
+      "JValue": 0.7147237287443853,
+      "Freq": 33
     },
     {
       "Text": "\"Dulce et Decorum Est\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.9831237092308397,
-      "Freq": 12
+      "JValue": 0.9921814778787473,
+      "Freq": 33
     },
     {
       "Text": "\"seem for laughing round an apple\"",
@@ -19720,12 +18166,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"Dulce et Decorum est.\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.9947437582128779,
-      "Freq": 7
-    },
-    {
       "Text": "\"And half the seed of Europe, one by one.\"",
       "Author": "Wilfred Owen",
       "JValue": 0.1985714285714286,
@@ -19770,14 +18210,14 @@ var poetsData={
     {
       "Text": "\"the shrill, demented choirs\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.5700808625336927,
-      "Freq": 7
+      "JValue": 0.4340497385125349,
+      "Freq": 16
     },
     {
       "Text": "\"shine the holy glimmers of good-byes\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.5024235846973589,
-      "Freq": 14
+      "JValue": 0.48462063661018917,
+      "Freq": 16
     },
     {
       "Text": "\"An ecstasy of fumbling\"",
@@ -19804,22 +18244,10 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"The shrill, demented choirs of wailing shells\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.32824775316274546,
-      "Freq": 9
-    },
-    {
       "Text": "\"guttering, choking, drowning\"",
       "Author": "Wilfred Owen",
       "JValue": 0.7668717135462735,
       "Freq": 16
-    },
-    {
-      "Text": "\"Dulce et Decorum Est.\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.9986641394098893,
-      "Freq": 14
     },
     {
       "Text": "\"Neither should I go fooling over clouds\"",
@@ -19836,8 +18264,8 @@ var poetsData={
     {
       "Text": "\"Whatever shares\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.33671171171171166,
-      "Freq": 7
+      "JValue": 0.29896806818737687,
+      "Freq": 9
     },
     {
       "Text": "\"The eternal reciprocity of tears\"",
@@ -19878,8 +18306,8 @@ var poetsData={
     {
       "Text": "\"To break earth's sleep at all?\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.19715291514925784,
-      "Freq": 16
+      "JValue": 0.21365254489230812,
+      "Freq": 18
     },
     {
       "Text": "\"the wildest beauty in the world\"",
@@ -19932,43 +18360,13 @@ var poetsData={
     {
       "Text": "\"a drawing down of blinds\"",
       "Author": "Wilfred Owen",
-      "JValue": 0.642857142857143,
-      "Freq": 7
-    },
-    {
-      "Text": "\"What passing bells for these who die as cattle?\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.7283163265306124,
-      "Freq": 7
+      "JValue": 0.5924380876705073,
+      "Freq": 9
     },
     {
       "Text": "\"made themselves immune to pity\"",
       "Author": "Wilfred Owen",
       "JValue": 0.09535160905840286,
-      "Freq": 2
-    },
-    {
-      "Text": "\"whatever shares\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.16686531585220502,
-      "Freq": 2
-    },
-    {
-      "Text": "\"to break Earth's sleep at all?\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.3456495828367104,
-      "Freq": 2
-    },
-    {
-      "Text": "\"a drawing-down of blinds\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.4159713945172825,
-      "Freq": 2
-    },
-    {
-      "Text": "\"holy glimmers of goodbyes\"",
-      "Author": "Wilfred Owen",
-      "JValue": 0.36,
       "Freq": 2
     },
     {
@@ -20000,26 +18398,26 @@ var poetsData={
     {
       "Text": "\"'Hope' is the thing with feathers\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.6673865925632547,
-      "Freq": 57
+      "JValue": 0.6869998536508829,
+      "Freq": 76
     },
     {
       "Text": "\"I felt a funeral in my brain\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.590156027178928,
-      "Freq": 38
+      "JValue": 0.6283617278211906,
+      "Freq": 95
     },
     {
       "Text": "\"first surmised the horses' heads were toward eternity\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.7052882683808759,
-      "Freq": 38
+      "JValue": 0.7108573293444618,
+      "Freq": 171
     },
     {
       "Text": "\"passed school, where children strove at recess.\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.7671755725190842,
-      "Freq": 19
+      "JValue": 0.733855165938686,
+      "Freq": 38
     },
     {
       "Text": "\"carriage [that] held just ourselves and Immortality.\"",
@@ -20054,19 +18452,13 @@ var poetsData={
     {
       "Text": "\"Of Cathedral Tunes.\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.38040712468193394,
-      "Freq": 19
+      "JValue": 0.4870072153090035,
+      "Freq": 38
     },
     {
       "Text": "\"There's a certain Slant of light\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.6916363463413474,
-      "Freq": 38
-    },
-    {
-      "Text": "\"I felt a Funeral, in my Brain.\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.6538321949160321,
+      "JValue": 0.7584019072006751,
       "Freq": 57
     },
     {
@@ -20084,8 +18476,8 @@ var poetsData={
     {
       "Text": "\"I heard a fly buzz when I died.\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.9142718690199597,
-      "Freq": 114
+      "JValue": 0.9232094735092309,
+      "Freq": 153
     },
     {
       "Text": "\"Orpheus' Sermon captivated\"",
@@ -20096,8 +18488,8 @@ var poetsData={
     {
       "Text": "\"It did not condemn\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.15302491103202845,
-      "Freq": 19
+      "JValue": 0.22682398199576506,
+      "Freq": 38
     },
     {
       "Text": "\"an antique volume\"",
@@ -20122,18 +18514,6 @@ var poetsData={
       "Author": "Emily Dickinson",
       "JValue": 0.49466192170818496,
       "Freq": 19
-    },
-    {
-      "Text": "\"surmised the Horses Heads\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.6067615658362991,
-      "Freq": 19
-    },
-    {
-      "Text": "\"Were toward Eternity\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.6858719697571624,
-      "Freq": 38
     },
     {
       "Text": "\"that perches in the soul.\"",
@@ -20174,8 +18554,8 @@ var poetsData={
     {
       "Text": "\"Much madness is divinest sense,\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.40242057488653576,
-      "Freq": 19
+      "JValue": 0.4044066344752313,
+      "Freq": 38
     },
     {
       "Text": "\"Not one of all the purple host\"",
@@ -20187,12 +18567,6 @@ var poetsData={
       "Text": "\"Success is counted sweetest.\"",
       "Author": "Emily Dickinson",
       "JValue": 0.6384266263237522,
-      "Freq": 19
-    },
-    {
-      "Text": "\"the thing with feathers,\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.7458396369137666,
       "Freq": 19
     },
     {
@@ -20220,12 +18594,6 @@ var poetsData={
       "Freq": 19
     },
     {
-      "Text": "\"Much Madness is Divinest Sense,\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.4063926940639268,
-      "Freq": 19
-    },
-    {
       "Text": "\"Heavenly hurt it gives us\"",
       "Author": "Emily Dickinson",
       "JValue": 0.5235920852359206,
@@ -20238,22 +18606,10 @@ var poetsData={
       "Freq": 19
     },
     {
-      "Text": "\"the weight of cathedral tunes.\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.5936073059360732,
-      "Freq": 19
-    },
-    {
-      "Text": "\"There's a certain slant of light,\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.8919330289193304,
-      "Freq": 19
-    },
-    {
       "Text": "\"A Narrow fellow in the grass,\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.9406392694063929,
-      "Freq": 19
+      "JValue": 0.9691500440599211,
+      "Freq": 38
     },
     {
       "Text": "\"debauchee of dew.\"",
@@ -20306,20 +18662,14 @@ var poetsData={
     {
       "Text": "\"What portion of me be\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.5026902920125426,
-      "Freq": 38
+      "JValue": 0.5025512527189604,
+      "Freq": 39
     },
     {
       "Text": "\"Blue - uncertain - stumbling Buzz.\"",
       "Author": "Emily Dickinson",
       "JValue": 0.6556991774383079,
       "Freq": 19
-    },
-    {
-      "Text": "\"first surmised the Horses' Heads\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.7521584804969468,
-      "Freq": 76
     },
     {
       "Text": "\"kindly stopped for me.\"",
@@ -20366,8 +18716,8 @@ var poetsData={
     {
       "Text": "\"debauchee of dew\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.5736766809728183,
-      "Freq": 19
+      "JValue": 0.6856566565868524,
+      "Freq": 38
     },
     {
       "Text": "\"I am traveling at the speed of time\"",
@@ -20444,14 +18794,8 @@ var poetsData={
     {
       "Text": "\"The stillness in the room\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.7311198557140518,
-      "Freq": 38
-    },
-    {
-      "Text": "\"Was like the stillness in the air\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.6771929824561408,
-      "Freq": 19
+      "JValue": 0.6194169970004729,
+      "Freq": 76
     },
     {
       "Text": "\"Between the heaves of storm\"",
@@ -20481,18 +18825,6 @@ var poetsData={
       "Text": "\"notice sudden is\"",
       "Author": "Emily Dickinson",
       "JValue": 0.8573099415204678,
-      "Freq": 19
-    },
-    {
-      "Text": "\"I heard a Fly buzz - when I died -\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.9493347789394077,
-      "Freq": 39
-    },
-    {
-      "Text": "\"A narrow fellow in the grass\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.9976608187134502,
       "Freq": 19
     },
     {
@@ -20544,12 +18876,6 @@ var poetsData={
       "Freq": 19
     },
     {
-      "Text": "\"Debauchee of dew\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.7976366322008862,
-      "Freq": 19
-    },
-    {
       "Text": "\"riding a swan into the night\"",
       "Author": "Emily Dickinson",
       "JValue": 0.10220673635307785,
@@ -20558,8 +18884,8 @@ var poetsData={
     {
       "Text": "\"reason is a plank.\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.14982578397212537,
-      "Freq": 19
+      "JValue": 0.3315224391096859,
+      "Freq": 38
     },
     {
       "Text": "\"the joy of earth,\"",
@@ -20628,12 +18954,6 @@ var poetsData={
       "Freq": 19
     },
     {
-      "Text": "\"reason is a plank,\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.513219094247246,
-      "Freq": 19
-    },
-    {
       "Text": "\"hope has feathers,\"",
       "Author": "Emily Dickinson",
       "JValue": 0.5312117503059975,
@@ -20649,12 +18969,6 @@ var poetsData={
       "Text": "\"This is the hour of lead, remembered, if outlived, as freezing persons,recollect the snow.\"",
       "Author": "Emily Dickinson",
       "JValue": 0.18847352024922118,
-      "Freq": 19
-    },
-    {
-      "Text": "\"Orpheus' sermon captivated, it did not condemn,\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.30062305295950154,
       "Freq": 19
     },
     {
@@ -20676,12 +18990,6 @@ var poetsData={
       "Freq": 19
     },
     {
-      "Text": "\"King be witnessed - in the Room\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.3382352941176469,
-      "Freq": 19
-    },
-    {
       "Text": "\"then the Windows failed\"",
       "Author": "Emily Dickinson",
       "JValue": 0.5013368983957218,
@@ -20691,12 +18999,6 @@ var poetsData={
       "Text": "\"a House that seemed a swelling in the Ground\"",
       "Author": "Emily Dickinson",
       "JValue": 0.6350267379679143,
-      "Freq": 19
-    },
-    {
-      "Text": "\"School, where Children strove at recess.\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.700534759358289,
       "Freq": 19
     },
     {
@@ -20720,8 +19022,8 @@ var poetsData={
     {
       "Text": "\"How dreary – to be – Somebody!\"",
       "Author": "Emily Dickinson",
-      "JValue": 0.4302631578947367,
-      "Freq": 19
+      "JValue": 0.43563391038696525,
+      "Freq": 20
     },
     {
       "Text": "\"Were toward eternity,\"",
@@ -20739,12 +19041,6 @@ var poetsData={
       "Text": "\"but the power to kill without the power to die\"",
       "Author": "Emily Dickinson",
       "JValue": 0.3797814207650273,
-      "Freq": 1
-    },
-    {
-      "Text": "\"what portions of me be Assignable\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.4972677595628415,
       "Freq": 1
     },
     {
@@ -20769,12 +19065,6 @@ var poetsData={
       "Text": "\"never spoke with God\"",
       "Author": "Emily Dickinson",
       "JValue": 0.2606924643584521,
-      "Freq": 1
-    },
-    {
-      "Text": "\"How dreary -- to be -- Somebody!\"",
-      "Author": "Emily Dickinson",
-      "JValue": 0.5376782077393075,
       "Freq": 1
     },
     {
@@ -20824,8 +19114,8 @@ var poetsData={
     {
       "Text": "\"Build thee more stately mansions, O my soul!\"",
       "Author": "Oliver Wendell Holmes Sr.",
-      "JValue": 0.791114562130825,
-      "Freq": 43
+      "JValue": 0.7945595543603445,
+      "Freq": 50
     },
     {
       "Text": "\"Ay, tear her tattered ensign down!\"",
@@ -20909,12 +19199,6 @@ var poetsData={
       "Text": "\"heavenly message\"",
       "Author": "Oliver Wendell Holmes Sr.",
       "JValue": 0.7654639175257731,
-      "Freq": 7
-    },
-    {
-      "Text": "\"build thee more stately mansions.\"",
-      "Author": "Oliver Wendell Holmes Sr.",
-      "JValue": 0.8157216494845362,
       "Freq": 7
     },
     {
@@ -21048,8 +19332,8 @@ var poetsData={
     {
       "Text": "\"Better by faryou should forget and smile than that you should remember and be sad\"",
       "Author": "Christina Rossetti",
-      "JValue": 0.32134918013071023,
-      "Freq": 5
+      "JValue": 0.47502327916815434,
+      "Freq": 9
     },
     {
       "Text": "\"there is no friend like a sister in calm or stormy weather.\"",
@@ -21103,12 +19387,6 @@ var poetsData={
       "Text": "\"One maylead a horse to water, twenty cannot make him drink,\"",
       "Author": "Christina Rossetti",
       "JValue": 0.5067385444743935,
-      "Freq": 4
-    },
-    {
-      "Text": "\"Better by far you should forget and smile,\"",
-      "Author": "Christina Rossetti",
-      "JValue": 0.6671159029649596,
       "Freq": 4
     },
     {
@@ -21296,8 +19574,8 @@ var poetsData={
     {
       "Text": "\"My pensive Sara.\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.6215880893300251,
-      "Freq": 11
+      "JValue": 0.41354368287051185,
+      "Freq": 22
     },
     {
       "Text": "\"they are gone, and here must I remain\"",
@@ -21374,8 +19652,8 @@ var poetsData={
     {
       "Text": "\"Quietly shining to the quiet Moon\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.4942983623299938,
-      "Freq": 22
+      "JValue": 0.4734034734607008,
+      "Freq": 44
     },
     {
       "Text": "\"viper thoughts\"",
@@ -21386,14 +19664,14 @@ var poetsData={
     {
       "Text": "\"grief without a pang\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.5429447852760737,
-      "Freq": 11
+      "JValue": 0.3581147753926372,
+      "Freq": 44
     },
     {
       "Text": "\"stately pleasure-dome\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.8721694475794131,
-      "Freq": 33
+      "JValue": 0.895219722264132,
+      "Freq": 44
     },
     {
       "Text": "\"the one Life within us and abroad, which meets all motion and becomes its soul,\"",
@@ -21410,13 +19688,7 @@ var poetsData={
     {
       "Text": "\"Conversation poems\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.45223700120918975,
-      "Freq": 11
-    },
-    {
-      "Text": "\"A grief without a pang, void, dark, and drear,\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.2965047720981582,
+      "JValue": 0.4535103010023504,
       "Freq": 33
     },
     {
@@ -21434,26 +19706,20 @@ var poetsData={
     {
       "Text": "\"my genial spirits fail\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.13419081411393652,
-      "Freq": 22
-    },
-    {
-      "Text": "\"conversation poems\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.45414695089893053,
-      "Freq": 22
+      "JValue": 0.15489264150805643,
+      "Freq": 33
     },
     {
       "Text": "\"drunk the milk of Paradise\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.4812734082397005,
-      "Freq": 11
+      "JValue": 0.5641283600890415,
+      "Freq": 22
     },
     {
       "Text": "\"a damsel with a dulcimer\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.5561797752808991,
-      "Freq": 11
+      "JValue": 0.7187074648375993,
+      "Freq": 22
     },
     {
       "Text": "\"a stately pleasure-dome.\"",
@@ -21466,12 +19732,6 @@ var poetsData={
       "Author": "Samuel Taylor Coleridge",
       "JValue": 0.3786982248520711,
       "Freq": 11
-    },
-    {
-      "Text": "\"silent icicles, quietly shining to the quiet moon\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.4525085845914076,
-      "Freq": 22
     },
     {
       "Text": "\"slimy things did crawl upon my legs\"",
@@ -21492,12 +19752,6 @@ var poetsData={
       "Freq": 11
     },
     {
-      "Text": "\"drunk the milk ofParadise\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.6469833119383824,
-      "Freq": 11
-    },
-    {
       "Text": "\"Water, water, everywhere, nor any drop to drink\"",
       "Author": "Samuel Taylor Coleridge",
       "JValue": 0.7896859376723356,
@@ -21513,12 +19767,6 @@ var poetsData={
       "Text": "\"long sequacious notes\"",
       "Author": "Samuel Taylor Coleridge",
       "JValue": 0.1447178002894356,
-      "Freq": 11
-    },
-    {
-      "Text": "\"my pensive Sara.\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.2054992764109986,
       "Freq": 11
     },
     {
@@ -21566,14 +19814,8 @@ var poetsData={
     {
       "Text": "\"caverns measureless to man\"",
       "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.8640093786635407,
-      "Freq": 11
-    },
-    {
-      "Text": "\"My genial spirits fall\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.19629629629629627,
-      "Freq": 11
+      "JValue": 0.8435248793555231,
+      "Freq": 22
     },
     {
       "Text": "\"spirits of power\"",
@@ -21610,24 +19852,6 @@ var poetsData={
       "Author": "Samuel Taylor Coleridge",
       "JValue": 0.7220902612826602,
       "Freq": 11
-    },
-    {
-      "Text": "\"caverns measureless to man,\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.8230403800475059,
-      "Freq": 11
-    },
-    {
-      "Text": "\"damsel with a dulcimer.\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.8812351543942992,
-      "Freq": 11
-    },
-    {
-      "Text": "\"stately Pleasure-Dome\"",
-      "Author": "Samuel Taylor Coleridge",
-      "JValue": 0.9643705463182897,
-      "Freq": 11
     }
   ],
   "Arthur Rimbaud": [
@@ -21646,8 +19870,8 @@ var poetsData={
     {
       "Text": "\"gaudy redskins\"",
       "Author": "Arthur Rimbaud",
-      "JValue": 0.5517693315858454,
-      "Freq": 2
+      "JValue": 0.6236013947109208,
+      "Freq": 6
     },
     {
       "Text": "\"floating down calm Rivers.\"",
@@ -21688,8 +19912,8 @@ var poetsData={
     {
       "Text": "\"the peace of the furrows which alchemy prints on broad studious foreheads\"",
       "Author": "Arthur Rimbaud",
-      "JValue": 0.3086734693877551,
-      "Freq": 4
+      "JValue": 0.5045938041026179,
+      "Freq": 8
     },
     {
       "Text": "\"silences crossed by Worlds and by Angels.\"",
@@ -21719,12 +19943,6 @@ var poetsData={
       "Text": "\"I invented color for the vowels\"",
       "Author": "Arthur Rimbaud",
       "JValue": 0.6413881748071979,
-      "Freq": 4
-    },
-    {
-      "Text": "\"alchemy of the word.\"",
-      "Author": "Arthur Rimbaud",
-      "JValue": 0.7005141388174807,
       "Freq": 4
     },
     {
@@ -21773,12 +19991,6 @@ var poetsData={
       "Text": "\"Once, if my memory serves me well\"",
       "Author": "Arthur Rimbaud",
       "JValue": 0.5080428954423593,
-      "Freq": 4
-    },
-    {
-      "Text": "\"gaudy Redskins\"",
-      "Author": "Arthur Rimbaud",
-      "JValue": 0.6595174262734584,
       "Freq": 4
     }
   ],
@@ -21872,8 +20084,8 @@ var poetsData={
     {
       "Text": "\"unless you bring them along inside your soul.\"",
       "Author": "Constantine P. Cavafy",
-      "JValue": 0.7105263157894737,
-      "Freq": 1
+      "JValue": 0.6330343843098312,
+      "Freq": 2
     },
     {
       "Text": "\"say goodbye to her, to the Alexandria you are losing.\"",
@@ -21919,12 +20131,6 @@ var poetsData={
     },
     {
       "Text": "\"You won't encounter Laistrygonians and Cyclops\"",
-      "Author": "Constantine P. Cavafy",
-      "JValue": 0.5555424528301887,
-      "Freq": 1
-    },
-    {
-      "Text": "\"wild Poseidon…unless you bring them along inside your soul,\"",
       "Author": "Constantine P. Cavafy",
       "JValue": 0.5555424528301887,
       "Freq": 1
@@ -22284,8 +20490,8 @@ var poetsData={
     {
       "Text": "\"childless, lonely old grubber, poking among the meats.\"",
       "Author": "Allen Ginsberg",
-      "JValue": 0.3294573643410853,
-      "Freq": 9
+      "JValue": 0.5670275327452552,
+      "Freq": 18
     },
     {
       "Text": "\"Robot apartments! invisible suburbs!\"",
@@ -22333,12 +20539,6 @@ var poetsData={
       "Text": "\"a swarm of baggage sitting by the counter as the transcontinental bus pulls in.\"",
       "Author": "Allen Ginsberg",
       "JValue": 0.2850574712643678,
-      "Freq": 9
-    },
-    {
-      "Text": "\"childless, lonely old grubber.\"",
-      "Author": "Allen Ginsberg",
-      "JValue": 0.8045977011494252,
       "Freq": 9
     },
     {
@@ -22436,14 +20636,14 @@ var poetsData={
     {
       "Text": "\"this same flower that smiles today, tomorrow will be dying.\"",
       "Author": "Robert Herrick (poet)",
-      "JValue": 0.7277227722772277,
-      "Freq": 4
+      "JValue": 0.7703945739137467,
+      "Freq": 12
     },
     {
       "Text": "\"old time is still a-flying,\"",
       "Author": "Robert Herrick (poet)",
-      "JValue": 0.8861386138613861,
-      "Freq": 4
+      "JValue": 0.8389345442966961,
+      "Freq": 8
     },
     {
       "Text": "\"gather ye rosebuds while ye may\"",
@@ -22473,24 +20673,6 @@ var poetsData={
       "Text": "\"Upon her wings presents the god unshorn.\"",
       "Author": "Robert Herrick (poet)",
       "JValue": 0.445635528330781,
-      "Freq": 4
-    },
-    {
-      "Text": "\"Old time is still a-flying\"",
-      "Author": "Robert Herrick (poet)",
-      "JValue": 0.7917304747320061,
-      "Freq": 4
-    },
-    {
-      "Text": "\"And this same flower that smiles to-day\"",
-      "Author": "Robert Herrick (poet)",
-      "JValue": 0.7917304747320061,
-      "Freq": 4
-    },
-    {
-      "Text": "\"To-morrow will be dying.\"",
-      "Author": "Robert Herrick (poet)",
-      "JValue": 0.7917304747320061,
       "Freq": 4
     },
     {
@@ -22594,14 +20776,14 @@ var poetsData={
     {
       "Text": "\"a most incarnadine and carnal ghost.\"",
       "Author": "Theodore Roethke",
-      "JValue": 0.1934640522875817,
-      "Freq": 6
+      "JValue": 0.16320929887106359,
+      "Freq": 12
     },
     {
       "Text": "\"I measure time by how a body sways\"",
       "Author": "Theodore Roethke",
-      "JValue": 0.3480564968261532,
-      "Freq": 18
+      "JValue": 0.36300366969074455,
+      "Freq": 24
     },
     {
       "Text": "\"lovely in her bones.\"",
@@ -22618,8 +20800,8 @@ var poetsData={
     {
       "Text": "\"Could make a small boy dizzy.\"",
       "Author": "Theodore Roethke",
-      "JValue": 0.7520005547768055,
-      "Freq": 18
+      "JValue": 0.7484063566766636,
+      "Freq": 24
     },
     {
       "Text": "\"I feel my fate in what I cannot fear\"",
@@ -22630,8 +20812,8 @@ var poetsData={
     {
       "Text": "\"I learn by going where I have to go\"",
       "Author": "Theodore Roethke",
-      "JValue": 0.7349742176233555,
-      "Freq": 24
+      "JValue": 0.7599265688181563,
+      "Freq": 30
     },
     {
       "Text": "\"I wake to sleep, and take my waking slow.\"",
@@ -22654,8 +20836,8 @@ var poetsData={
     {
       "Text": "\"nobility of soul at odds with circumstance\"",
       "Author": "Theodore Roethke",
-      "JValue": 0.18984423546957208,
-      "Freq": 12
+      "JValue": 0.19296353286623955,
+      "Freq": 18
     },
     {
       "Text": "\"the shapes a bright container can contain\"",
@@ -22668,12 +20850,6 @@ var poetsData={
       "Author": "Theodore Roethke",
       "JValue": 0.4244950031003682,
       "Freq": 12
-    },
-    {
-      "Text": "\"(I measure time by how a body sways)\"",
-      "Author": "Theodore Roethke",
-      "JValue": 0.4078451882845188,
-      "Freq": 6
     },
     {
       "Text": "\"head with a palm caked hard by dirt\"",
@@ -22694,18 +20870,6 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"Thewhiskey on your breath could make a small boy dizzy,\"",
-      "Author": "Theodore Roethke",
-      "JValue": 0.7376237623762377,
-      "Freq": 6
-    },
-    {
-      "Text": "\"I learn by goingwhere I have to go.\"",
-      "Author": "Theodore Roethke",
-      "JValue": 0.8597359735973598,
-      "Freq": 6
-    },
-    {
       "Text": "\"English poets who grew up on Greek,\"",
       "Author": "Theodore Roethke",
       "JValue": 0.18850612873902792,
@@ -22719,12 +20883,6 @@ var poetsData={
     },
     {
       "Text": "\"What's madness but nobility of soul\"",
-      "Author": "Theodore Roethke",
-      "JValue": 0.19920212765957446,
-      "Freq": 6
-    },
-    {
-      "Text": "\"At odds with circumstance\"",
       "Author": "Theodore Roethke",
       "JValue": 0.19920212765957446,
       "Freq": 6
@@ -22749,12 +20907,6 @@ var poetsData={
     },
     {
       "Text": "\"sleep immodestly, a most\"",
-      "Author": "Theodore Roethke",
-      "JValue": 0.13295454545454546,
-      "Freq": 6
-    },
-    {
-      "Text": "\"Incarnadine and carnal ghost\"",
       "Author": "Theodore Roethke",
       "JValue": 0.13295454545454546,
       "Freq": 6
@@ -22836,8 +20988,8 @@ var poetsData={
     {
       "Text": "\"houses are haunted by white night-gowns.\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.20369801552154682,
-      "Freq": 45
+      "JValue": 0.24787392187535043,
+      "Freq": 75
     },
     {
       "Text": "\"sang beyond the genius of the sea.\"",
@@ -22860,31 +21012,25 @@ var poetsData={
     {
       "Text": "\"Let be be finale of seem\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.7418609706676673,
-      "Freq": 60
+      "JValue": 0.6964345129682422,
+      "Freq": 75
     },
     {
       "Text": "\"the roller of big cigars.\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.8601454963131512,
-      "Freq": 135
+      "JValue": 0.860487535829123,
+      "Freq": 150
     },
     {
       "Text": "\"Catches Tigers\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.10363391655450876,
-      "Freq": 15
-    },
-    {
-      "Text": "\"in red weather\"",
       "Author": "Wallace Stevens",
       "JValue": 0.31411204024446765,
       "Freq": 30
     },
     {
-      "Text": "\"the houses are haunted\"",
+      "Text": "\"in red weather\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.19111709286675638,
+      "JValue": 0.10363391655450876,
       "Freq": 15
     },
     {
@@ -22896,14 +21042,14 @@ var poetsData={
     {
       "Text": "\"Complacencies of the peignoir\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.48183041722745634,
-      "Freq": 15
+      "JValue": 0.49736855147777,
+      "Freq": 45
     },
     {
       "Text": "\"Like nothing else in Tennessee.\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.6783310901749663,
-      "Freq": 15
+      "JValue": 0.553072829855695,
+      "Freq": 30
     },
     {
       "Text": "\"a feeling, a man seen\"",
@@ -22938,19 +21084,7 @@ var poetsData={
     {
       "Text": "\"the beauty of inflections\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.5313283208020049,
-      "Freq": 15
-    },
-    {
-      "Text": "\"the beauty of innuendoes\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.568922305764411,
-      "Freq": 15
-    },
-    {
-      "Text": "\"Death is the mother of beauty\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.5546648890137894,
+      "JValue": 0.5885547201336675,
       "Freq": 45
     },
     {
@@ -23023,18 +21157,6 @@ var poetsData={
       "Text": "\"Dominion of the blood and sepulchre\"",
       "Author": "Wallace Stevens",
       "JValue": 0.21589403973509927,
-      "Freq": 15
-    },
-    {
-      "Text": "\"complacencies of the peignoir.\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.3019867549668875,
-      "Freq": 15
-    },
-    {
-      "Text": "\"did not give of bird orbush, like nothing else in Tennessee\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.4278145695364239,
       "Freq": 15
     },
     {
@@ -23124,8 +21246,8 @@ var poetsData={
     {
       "Text": "\"O thin men of Haddam,\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.43123938879456697,
-      "Freq": 15
+      "JValue": 0.6051462367215305,
+      "Freq": 30
     },
     {
       "Text": "\"why do you imagine golden birds?\"",
@@ -23152,12 +21274,6 @@ var poetsData={
       "Freq": 15
     },
     {
-      "Text": "\"haunted by white night-gowns\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.437158469945355,
-      "Freq": 15
-    },
-    {
       "Text": "\"Poetry is the supreme fiction\"",
       "Author": "Wallace Stevens",
       "JValue": 0.6693989071038253,
@@ -23170,10 +21286,10 @@ var poetsData={
       "Freq": 15
     },
     {
-      "Text": "\"complacencies of the peignoir, and late\"",
+      "Text": "\"Death is the mother of beauty.\"",
       "Author": "Wallace Stevens",
-      "JValue": 0.7082884822389667,
-      "Freq": 15
+      "JValue": 0.49929056660339044,
+      "Freq": 30
     },
     {
       "Text": "\"What were the hymns that buzzed beside my ears?\"",
@@ -23224,21 +21340,9 @@ var poetsData={
       "Freq": 15
     },
     {
-      "Text": "\"let be be finale of seem.\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.5147286821705429,
-      "Freq": 15
-    },
-    {
       "Text": "\"A man and a woman are one. A man and a woman and\"",
       "Author": "Wallace Stevens",
       "JValue": 0.6093023255813954,
-      "Freq": 15
-    },
-    {
-      "Text": "\"roller of big cigars\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.8635658914728682,
       "Freq": 15
     },
     {
@@ -23257,12 +21361,6 @@ var poetsData={
       "Text": "\"mother of heaven, regina of the clouds.\"",
       "Author": "Wallace Stevens",
       "JValue": 0.39598278335724546,
-      "Freq": 15
-    },
-    {
-      "Text": "\"thin men of Haddam.\"",
-      "Author": "Wallace Stevens",
-      "JValue": 0.7790530846484937,
       "Freq": 15
     }
   ],
@@ -23306,8 +21404,8 @@ var poetsData={
     {
       "Text": "\"The Eagle That is Forgotten.\"",
       "Author": "Vachel Lindsay",
-      "JValue": 0.19316688567674112,
-      "Freq": 3
+      "JValue": 0.3087547629197632,
+      "Freq": 4
     },
     {
       "Text": "\"Mumbo-jumbo will  hoo-dooyou\"",
@@ -23404,12 +21502,6 @@ var poetsData={
       "Author": "Vachel Lindsay",
       "JValue": 0.6040133779264214,
       "Freq": 1
-    },
-    {
-      "Text": "\"The Eagle that is Forgotten,\"",
-      "Author": "Vachel Lindsay",
-      "JValue": 0.6555183946488294,
-      "Freq": 1
     }
   ],
   "Thomas Hardy": [
@@ -23422,14 +21514,14 @@ var poetsData={
     {
       "Text": "\"And I was unaware.\"",
       "Author": "Thomas Hardy",
-      "JValue": 0.38622754491017963,
-      "Freq": 14
+      "JValue": 0.5872394555151991,
+      "Freq": 28
     },
     {
       "Text": "\"I leant upon a coppice gate.\"",
       "Author": "Thomas Hardy",
-      "JValue": 0.6162973372537882,
-      "Freq": 84
+      "JValue": 0.6234929557413422,
+      "Freq": 98
     },
     {
       "Text": "\"life to me had less of that fell look it wore\"",
@@ -23492,16 +21584,10 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"upon a coppice gate\"",
-      "Author": "Thomas Hardy",
-      "JValue": 0.6666666666666667,
-      "Freq": 14
-    },
-    {
       "Text": "\"fling his soul upon the growing gloom\"",
       "Author": "Thomas Hardy",
-      "JValue": 0.5585957848543227,
-      "Freq": 42
+      "JValue": 0.5403590085603744,
+      "Freq": 56
     },
     {
       "Text": "\"death will not appal one who, past doubtings all, waits in unhope\"",
@@ -23530,14 +21616,8 @@ var poetsData={
     {
       "Text": "\"every spirit upon earth seemed fervourless as I\"",
       "Author": "Thomas Hardy",
-      "JValue": 0.6311475409836066,
-      "Freq": 14
-    },
-    {
-      "Text": "\"some blessed Hope, whereof he knew and I was unaware\"",
-      "Author": "Thomas Hardy",
-      "JValue": 0.7882513661202186,
-      "Freq": 14
+      "JValue": 0.4635189759712554,
+      "Freq": 28
     },
     {
       "Text": "\"love deceives, and wrings with wrong\"",
@@ -23572,14 +21652,8 @@ var poetsData={
     {
       "Text": "\"frail, gaunt, and small,\"",
       "Author": "Thomas Hardy",
-      "JValue": 0.41791044776119407,
-      "Freq": 14
-    },
-    {
-      "Text": "\"Upon the growing gloom.\"",
-      "Author": "Thomas Hardy",
-      "JValue": 0.4856486796785306,
-      "Freq": 14
+      "JValue": 0.3650158299412033,
+      "Freq": 28
     },
     {
       "Text": "\"lines on the loss of the Titanic\"",
@@ -23596,14 +21670,8 @@ var poetsData={
     {
       "Text": "\"Shook all our coffins as we lay,\"",
       "Author": "Thomas Hardy",
-      "JValue": 0.16575342465753423,
-      "Freq": 14
-    },
-    {
-      "Text": "\"every spirit upon earth Seemed fervourless as I.\"",
-      "Author": "Thomas Hardy",
-      "JValue": 0.29589041095890417,
-      "Freq": 14
+      "JValue": 0.3057540708193332,
+      "Freq": 28
     },
     {
       "Text": "\"gay bracelets and bright feathers\"",
@@ -23615,12 +21683,6 @@ var poetsData={
       "Text": "\"digging potatoes and spudding up docks.\"",
       "Author": "Thomas Hardy",
       "JValue": 0.2106060606060606,
-      "Freq": 14
-    },
-    {
-      "Text": "\"frail, gaunt, and small\"",
-      "Author": "Thomas Hardy",
-      "JValue": 0.31212121212121213,
       "Freq": 14
     },
     {
@@ -23730,12 +21792,6 @@ var poetsData={
       "Author": "Thomas Hardy",
       "JValue": 0.38136792452830187,
       "Freq": 14
-    },
-    {
-      "Text": "\"thatnight your great guns, unawares, shook all our coffins as we lay.\"",
-      "Author": "Thomas Hardy",
-      "JValue": 0.44575471698113217,
-      "Freq": 14
     }
   ],
   "Henry Wadsworth Longfellow": [
@@ -23814,8 +21870,8 @@ var poetsData={
     {
       "Text": "\"This is the forest primeval\"",
       "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.6245075610965237,
-      "Freq": 48
+      "JValue": 0.6382342140135395,
+      "Freq": 72
     },
     {
       "Text": "\"changeless since the day she died.\"",
@@ -23834,12 +21890,6 @@ var poetsData={
       "Author": "Henry Wadsworth Longfellow",
       "JValue": 0.7665706051873199,
       "Freq": 12
-    },
-    {
-      "Text": "\"this is the forest primeval.\"",
-      "Author": "Henry Wadsworth Longfellow",
-      "JValue": 0.665687519847571,
-      "Freq": 24
     },
     {
       "Text": "\"Grave Alice, and laughing Allegra, And Edith with golden hair.\"",
@@ -24156,8 +22206,8 @@ var poetsData={
     {
       "Text": "\"[pace] in cramped circles, over and over.\"",
       "Author": "Rainer Maria Rilke",
-      "JValue": 0.27503974562798106,
-      "Freq": 14
+      "JValue": 0.3206675051259683,
+      "Freq": 28
     },
     {
       "Text": "\"still suffused with brilliance\"",
@@ -24168,14 +22218,14 @@ var poetsData={
     {
       "Text": "\"You must change your life.\"",
       "Author": "Rainer Maria Rilke",
-      "JValue": 0.5522743007845794,
-      "Freq": 100
+      "JValue": 0.5584326770856061,
+      "Freq": 128
     },
     {
       "Text": "\"Who, if I cried out, would hear me among the angelic orders?\"",
       "Author": "Rainer Maria Rilke",
-      "JValue": 0.8439651751151888,
-      "Freq": 142
+      "JValue": 0.8237767344156163,
+      "Freq": 156
     },
     {
       "Text": "\"startled rattlesnakes\"",
@@ -24186,14 +22236,8 @@ var poetsData={
     {
       "Text": "\"kitchen match... and suddenly, it is completely fire.\"",
       "Author": "Rainer Maria Rilke",
-      "JValue": 0.2409470752089136,
-      "Freq": 14
-    },
-    {
-      "Text": "\"paces in cramped circles,\"",
-      "Author": "Rainer Maria Rilke",
-      "JValue": 0.36629526462395556,
-      "Freq": 14
+      "JValue": 0.24000255366905116,
+      "Freq": 15
     },
     {
       "Text": "\"dark center where procreation flared\"",
@@ -24222,8 +22266,8 @@ var poetsData={
     {
       "Text": "\"legendary  head with eyes like ripening fruit,\"",
       "Author": "Rainer Maria Rilke",
-      "JValue": 0.509729032792315,
-      "Freq": 43
+      "JValue": 0.5489740200311726,
+      "Freq": 57
     },
     {
       "Text": "\"to go into yourself and to explore the depths whereyour life wells forth.\"",
@@ -24254,12 +22298,6 @@ var poetsData={
       "Author": "Rainer Maria Rilke",
       "JValue": 0.43948126801152737,
       "Freq": 14
-    },
-    {
-      "Text": "\"you must change your life\"",
-      "Author": "Rainer Maria Rilke",
-      "JValue": 0.5804268781607008,
-      "Freq": 28
     },
     {
       "Text": "\"quickly disappearing photograph in my more slowly disappearing hand\"",
@@ -24307,12 +22345,6 @@ var poetsData={
       "Text": "\"But who are they, tell me, these Travellers?\"",
       "Author": "Rainer Maria Rilke",
       "JValue": 0.4682926829268294,
-      "Freq": 14
-    },
-    {
-      "Text": "\"eyes like ripening fruit\"",
-      "Author": "Rainer Maria Rilke",
-      "JValue": 0.6695121951219515,
       "Freq": 14
     },
     {
@@ -24394,12 +22426,6 @@ var poetsData={
       "Freq": 14
     },
     {
-      "Text": "\"who, if I criedout, would hear me among the Angelic Orders?\"",
-      "Author": "Rainer Maria Rilke",
-      "JValue": 0.6190082644628099,
-      "Freq": 14
-    },
-    {
       "Text": "\"creatures of silence emerged\"",
       "Author": "Rainer Maria Rilke",
       "JValue": 0.0875912408759124,
@@ -24448,12 +22474,6 @@ var poetsData={
       "Freq": 1
     },
     {
-      "Text": "\"And suddenly, everything is completely fire.\"",
-      "Author": "Rainer Maria Rilke",
-      "JValue": 0.22677925211097708,
-      "Freq": 1
-    },
-    {
       "Text": "\"this difficult living, heavy and as if all tied up\"",
       "Author": "Rainer Maria Rilke",
       "JValue": 0.3353437876960193,
@@ -24470,14 +22490,14 @@ var poetsData={
     {
       "Text": "\"Into that heaven of freedom, my Father, let my country awake\"",
       "Author": "Rabindranath Tagore",
-      "JValue": 0.3128342245989305,
-      "Freq": 9
+      "JValue": 0.4217096654909547,
+      "Freq": 18
     },
     {
       "Text": "\"where the mind is without fear\"",
       "Author": "Rabindranath Tagore",
-      "JValue": 0.5535760682082678,
-      "Freq": 27
+      "JValue": 0.5650715491209125,
+      "Freq": 18
     },
     {
       "Text": "\"because I love this life, I know I shall love death as well\"",
@@ -24494,14 +22514,14 @@ var poetsData={
     {
       "Text": "\"victory, victory, victory to thee\"",
       "Author": "Rabindranath Tagore",
-      "JValue": 0.6050531914893618,
-      "Freq": 9
+      "JValue": 0.3967073001857222,
+      "Freq": 18
     },
     {
       "Text": "\"thou has made me endless, such is thy pleasure\"",
       "Author": "Rabindranath Tagore",
-      "JValue": 0.7685945097635648,
-      "Freq": 18
+      "JValue": 0.7875778428933518,
+      "Freq": 36
     },
     {
       "Text": "\"song-offerings.\"",
@@ -24546,12 +22566,6 @@ var poetsData={
       "Freq": 9
     },
     {
-      "Text": "\"thou hast made me endless, such is thy pleasure,\"",
-      "Author": "Rabindranath Tagore",
-      "JValue": 0.8130489661396895,
-      "Freq": 18
-    },
-    {
       "Text": "\"Stand back! All is false!\"",
       "Author": "Rabindranath Tagore",
       "JValue": 0.37747440273037547,
@@ -24570,27 +22584,21 @@ var poetsData={
       "Freq": 9
     },
     {
-      "Text": "\"Thou hast made me endless, such is thy pleasure.\"",
-      "Author": "Rabindranath Tagore",
-      "JValue": 0.8982035928143713,
-      "Freq": 9
-    },
-    {
       "Text": "\"ruler of the minds of all people,\"",
       "Author": "Rabindranath Tagore",
       "JValue": 0.11485451761102602,
       "Freq": 9
     },
     {
-      "Text": "\"Victory, victory, victory to thee!\"",
-      "Author": "Rabindranath Tagore",
-      "JValue": 0.18836140888208266,
-      "Freq": 9
-    },
-    {
       "Text": "\"All is false! All is false!!\"",
       "Author": "Rabindranath Tagore",
       "JValue": 0.3124042879019908,
+      "Freq": 9
+    },
+    {
+      "Text": "\"thou hast made me endless.\"",
+      "Author": "Rabindranath Tagore",
+      "JValue": 0.9111791730474731,
       "Freq": 9
     }
   ],
@@ -24610,8 +22618,8 @@ var poetsData={
     {
       "Text": "\"Pressed down upon the finite Me!\"",
       "Author": "Edna St. Vincent Millay",
-      "JValue": 0.3294565217391304,
-      "Freq": 1
+      "JValue": 0.6241306140300563,
+      "Freq": 8
     },
     {
       "Text": "\"in one big torrent, set me free, washing my grave away from me!\"",
@@ -24622,8 +22630,8 @@ var poetsData={
     {
       "Text": "\"All  I could see from where I stood\"",
       "Author": "Edna St. Vincent Millay",
-      "JValue": 0.7318174866286674,
-      "Freq": 29
+      "JValue": 0.7444595423289126,
+      "Freq": 36
     },
     {
       "Text": "\"Was three long mountains and a wood\"",
@@ -24634,8 +22642,8 @@ var poetsData={
     {
       "Text": "\"my candle burns at both ends; it will not last the night\"",
       "Author": "Edna St. Vincent Millay",
-      "JValue": 0.8367798056790794,
-      "Freq": 22
+      "JValue": 0.8817576906467429,
+      "Freq": 57
     },
     {
       "Text": "\"heroes seek release\"",
@@ -24674,12 +22682,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"My candle burns at both ends\"",
-      "Author": "Edna St. Vincent Millay",
-      "JValue": 0.9036243961562522,
-      "Freq": 28
-    },
-    {
       "Text": "\"there are a hundred places where I fear to go\"",
       "Author": "Edna St. Vincent Millay",
       "JValue": 0.10817941952506595,
@@ -24701,18 +22703,6 @@ var poetsData={
       "Text": "\"six feet under ground did lie.\"",
       "Author": "Edna St. Vincent Millay",
       "JValue": 0.5699208443271768,
-      "Freq": 7
-    },
-    {
-      "Text": "\"infinity pressed down upon the finite Me\"",
-      "Author": "Edna St. Vincent Millay",
-      "JValue": 0.66622691292876,
-      "Freq": 7
-    },
-    {
-      "Text": "\"all I could see from where I stood was three long mountains and a wood.\"",
-      "Author": "Edna St. Vincent Millay",
-      "JValue": 0.7968337730870713,
       "Freq": 7
     },
     {
@@ -24803,12 +22793,6 @@ var poetsData={
       "Text": "\"Time does not bring relief; you all have lied.\"",
       "Author": "Edna St. Vincent Millay",
       "JValue": 0.640926640926641,
-      "Freq": 7
-    },
-    {
-      "Text": "\"It will not last the night.\"",
-      "Author": "Edna St. Vincent Millay",
-      "JValue": 0.9356499356499358,
       "Freq": 7
     },
     {
@@ -24960,20 +22944,20 @@ var poetsData={
     {
       "Text": "\"where ignorance is bliss\"",
       "Author": "Thomas Gray",
-      "JValue": 0.5250704372851385,
-      "Freq": 14
-    },
-    {
-      "Text": "\"tis folly to be wise\"",
-      "Author": "Thomas Gray",
       "JValue": 0.6230274595828502,
       "Freq": 21
     },
     {
+      "Text": "\"tis folly to be wise\"",
+      "Author": "Thomas Gray",
+      "JValue": 0.5250704372851385,
+      "Freq": 14
+    },
+    {
       "Text": "\"The curfew tolls the knell of parting day.\"",
       "Author": "Thomas Gray",
-      "JValue": 0.7865659427301757,
-      "Freq": 21
+      "JValue": 0.7675010587189411,
+      "Freq": 28
     },
     {
       "Text": "\"Hurry, hurry to the field\"",
@@ -24996,14 +22980,8 @@ var poetsData={
     {
       "Text": "\"Here rests his head upon the lap of earth, a youth to fortune and to fame unknown.\"",
       "Author": "Thomas Gray",
-      "JValue": 0.6617694600761599,
-      "Freq": 14
-    },
-    {
-      "Text": "\"The curfew tolls theknell of parting day\"",
-      "Author": "Thomas Gray",
-      "JValue": 0.7103064066852368,
-      "Freq": 7
+      "JValue": 0.683194934697647,
+      "Freq": 21
     },
     {
       "Text": "\"rat catcher to his Majesty,\"",
@@ -25032,8 +23010,8 @@ var poetsData={
     {
       "Text": "\"Some mute inglorious Milton here may rest\"",
       "Author": "Thomas Gray",
-      "JValue": 0.9255319148936171,
-      "Freq": 7
+      "JValue": 0.808168256297383,
+      "Freq": 14
     },
     {
       "Text": "\"the hues of bliss more brightly glow\"",
@@ -25132,12 +23110,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"some mute inglorious Milton\"",
-      "Author": "Thomas Gray",
-      "JValue": 0.6908045977011495,
-      "Freq": 7
-    },
-    {
       "Text": "\"sweet fragrance\"",
       "Author": "Thomas Gray",
       "JValue": 0.023612750885478154,
@@ -25213,12 +23185,6 @@ var poetsData={
       "Text": "\"nor all that glisters gold.\"",
       "Author": "Thomas Gray",
       "JValue": 0.5587044534412956,
-      "Freq": 7
-    },
-    {
-      "Text": "\"A youth to fortune and to fame unknown\"",
-      "Author": "Thomas Gray",
-      "JValue": 0.7260458839406206,
       "Freq": 7
     },
     {
@@ -25312,8 +23278,8 @@ var poetsData={
     {
       "Text": "\"Bury my heart at Wounded Knee\"",
       "Author": "Stephen Vincent Benét",
-      "JValue": 0.541910775077191,
-      "Freq": 8
+      "JValue": 0.5472775332927131,
+      "Freq": 12
     },
     {
       "Text": "\"the place of the Gods\"",
@@ -25325,12 +23291,6 @@ var poetsData={
       "Text": "\"I have fallen in love with American names\"",
       "Author": "Stephen Vincent Benét",
       "JValue": 0.42173112338858193,
-      "Freq": 4
-    },
-    {
-      "Text": "\"bury my heart at wounded knee.\"",
-      "Author": "Stephen Vincent Benét",
-      "JValue": 0.5580110497237569,
       "Freq": 4
     },
     {
@@ -25386,8 +23346,8 @@ var poetsData={
     {
       "Text": "\"motionless in time as the moon climbs\"",
       "Author": "Archibald MacLeish",
-      "JValue": 0.5659458707216777,
-      "Freq": 12
+      "JValue": 0.6048315519008022,
+      "Freq": 16
     },
     {
       "Text": "\"wordless as the flight of birds\"",
@@ -25489,12 +23449,6 @@ var poetsData={
       "Text": "\"Of casement ledges,\"",
       "Author": "Archibald MacLeish",
       "JValue": 0.6254501800720288,
-      "Freq": 4
-    },
-    {
-      "Text": "\"As the moon climbs.\"",
-      "Author": "Archibald MacLeish",
-      "JValue": 0.7214885954381752,
       "Freq": 4
     },
     {
@@ -25682,8 +23636,8 @@ var poetsData={
     {
       "Text": "\"a heart whose love is innocent.\"",
       "Author": "Lord Byron",
-      "JValue": 0.6548712508259118,
-      "Freq": 7
+      "JValue": 0.5155904485292458,
+      "Freq": 13
     },
     {
       "Text": "\"right hand be withered for ever\"",
@@ -25748,14 +23702,14 @@ var poetsData={
     {
       "Text": "\"a mind at peace with all below.\"",
       "Author": "Lord Byron",
-      "JValue": 0.41815856777493604,
-      "Freq": 6
+      "JValue": 0.36125319693094626,
+      "Freq": 12
     },
     {
       "Text": "\"stars on the sea\"",
       "Author": "Lord Byron",
-      "JValue": 0.59846547314578,
-      "Freq": 6
+      "JValue": 0.54923273657289,
+      "Freq": 12
     },
     {
       "Text": "\"the Angel of Death spread his wings…and breathed in the face of the foe.\"",
@@ -25766,8 +23720,8 @@ var poetsData={
     {
       "Text": "\"came down like the wolf on the fold\"",
       "Author": "Lord Byron",
-      "JValue": 0.8618925831202046,
-      "Freq": 6
+      "JValue": 0.8196862379407991,
+      "Freq": 12
     },
     {
       "Text": "\"like the night\"",
@@ -25806,12 +23760,6 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"stars on the sea, when the blue wave rolls nightly on deep Galilee.\"",
-      "Author": "Lord Byron",
-      "JValue": 0.5,
-      "Freq": 6
-    },
-    {
       "Text": "\"wild as the Gazelle's\"",
       "Author": "Lord Byron",
       "JValue": 0.08847184986595175,
@@ -25836,12 +23784,6 @@ var poetsData={
       "Freq": 6
     },
     {
-      "Text": "\"The Assyrian came down likea wolf on the fold.\"",
-      "Author": "Lord Byron",
-      "JValue": 0.7774798927613941,
-      "Freq": 6
-    },
-    {
       "Text": "\"If I should meet thee\"",
       "Author": "Lord Byron",
       "JValue": 0.18050065876152832,
@@ -25862,20 +23804,8 @@ var poetsData={
     {
       "Text": "\"With silence and tears\"",
       "Author": "Lord Byron",
-      "JValue": 0.18050065876152832,
-      "Freq": 6
-    },
-    {
-      "Text": "\"A mind at peace with all below\"",
-      "Author": "Lord Byron",
-      "JValue": 0.30434782608695654,
-      "Freq": 6
-    },
-    {
-      "Text": "\"A heart whose love is innocent\"",
-      "Author": "Lord Byron",
-      "JValue": 0.3530961791831357,
-      "Freq": 6
+      "JValue": 0.2062786711616143,
+      "Freq": 7
     },
     {
       "Text": "\"Meet in her aspect and her eyes\"",
@@ -25899,12 +23829,6 @@ var poetsData={
       "Text": "\"And light is thy fame\"",
       "Author": "Lord Byron",
       "JValue": 0.2733727810650888,
-      "Freq": 1
-    },
-    {
-      "Text": "\"with silence and tears\"",
-      "Author": "Lord Byron",
-      "JValue": 0.3609467455621302,
       "Freq": 1
     },
     {
@@ -26214,14 +24138,14 @@ var poetsData={
     {
       "Text": "\"out of the ash\"",
       "Author": "Sylvia Plath",
-      "JValue": 0.507041345872716,
-      "Freq": 30
+      "JValue": 0.49986434273787034,
+      "Freq": 40
     },
     {
       "Text": "\"Every woman adores a Fascist\"",
       "Author": "Sylvia Plath",
-      "JValue": 0.839319796320346,
-      "Freq": 40
+      "JValue": 0.8189631684345762,
+      "Freq": 50
     },
     {
       "Text": "\"In me she has drowned a young girl, and in me an old woman\"",
@@ -26304,8 +24228,8 @@ var poetsData={
     {
       "Text": "\"the arrow, the dew that flies\"",
       "Author": "Sylvia Plath",
-      "JValue": 0.15900131406044676,
-      "Freq": 10
+      "JValue": 0.40261128134566704,
+      "Freq": 20
     },
     {
       "Text": "\"pure gold baby that melts to a shriek\"",
@@ -26329,12 +24253,6 @@ var poetsData={
       "Text": "\"I'm a riddle in nine syllables\"",
       "Author": "Sylvia Plath",
       "JValue": 0.1866666666666667,
-      "Freq": 10
-    },
-    {
-      "Text": "\"Out of the ash\"",
-      "Author": "Sylvia Plath",
-      "JValue": 0.4783333333333334,
       "Freq": 10
     },
     {
@@ -26392,12 +24310,6 @@ var poetsData={
       "Freq": 10
     },
     {
-      "Text": "\"every woman adores a Fascist.\"",
-      "Author": "Sylvia Plath",
-      "JValue": 0.7375366568914955,
-      "Freq": 10
-    },
-    {
       "Text": "\"the domesticity of these windows\"",
       "Author": "Sylvia Plath",
       "JValue": 0.0715258855585831,
@@ -26430,8 +24342,8 @@ var poetsData={
     {
       "Text": "\"the cauldron of morning\"",
       "Author": "Sylvia Plath",
-      "JValue": 0.46634877384196194,
-      "Freq": 10
+      "JValue": 0.5809290419045514,
+      "Freq": 20
     },
     {
       "Text": "\"Stasis in darkness.\"",
@@ -26461,18 +24373,6 @@ var poetsData={
       "Text": "\"fired in sanguine clay.\"",
       "Author": "Sylvia Plath",
       "JValue": 0.3296823658269442,
-      "Freq": 10
-    },
-    {
-      "Text": "\"the dew that flies,\"",
-      "Author": "Sylvia Plath",
-      "JValue": 0.6462212486308871,
-      "Freq": 10
-    },
-    {
-      "Text": "\"red eye, the cauldron of morning.\"",
-      "Author": "Sylvia Plath",
-      "JValue": 0.6955093099671413,
       "Freq": 10
     },
     {
@@ -26566,8 +24466,8 @@ var poetsData={
     {
       "Text": "\"which was real - the butterfly or the man?\"",
       "Author": "Li Bai",
-      "JValue": 0.21571428571428572,
-      "Freq": 3
+      "JValue": 0.4539543446244478,
+      "Freq": 6
     },
     {
       "Text": "\"tangles and breaks\"",
@@ -26652,12 +24552,6 @@ var poetsData={
       "Author": "Li Bai",
       "JValue": 0.5902990331049498,
       "Freq": 4
-    },
-    {
-      "Text": "\"Which was the real-the butterfly or the man?\"",
-      "Author": "Li Bai",
-      "JValue": 0.6921944035346096,
-      "Freq": 3
     },
     {
       "Text": "\"when will the horde be beaten back and my husband be back home?\"",
@@ -26778,14 +24672,14 @@ var poetsData={
     {
       "Text": "\"Asphodel, that Greeny Flower.\"",
       "Author": "William Carlos Williams",
-      "JValue": 0.2879746835443039,
-      "Freq": 13
+      "JValue": 0.6003716654131129,
+      "Freq": 26
     },
     {
       "Text": "\"on the road to the contagious hospital,\"",
       "Author": "William Carlos Williams",
-      "JValue": 0.3924388636325229,
-      "Freq": 26
+      "JValue": 0.40247972367752227,
+      "Freq": 91
     },
     {
       "Text": "\"they were delicious, so sweet and so cold\"",
@@ -26826,14 +24720,14 @@ var poetsData={
     {
       "Text": "\"glazed with rain water\"",
       "Author": "William Carlos Williams",
-      "JValue": 0.8769080914079065,
-      "Freq": 91
+      "JValue": 0.8706447696152932,
+      "Freq": 104
     },
     {
       "Text": "\"This is Just to Say\"",
       "Author": "William Carlos Williams",
-      "JValue": 0.8617812198780738,
-      "Freq": 52
+      "JValue": 0.88234532988476,
+      "Freq": 65
     },
     {
       "Text": "\"dancers go round, they go round\"",
@@ -26852,12 +24746,6 @@ var poetsData={
       "Author": "William Carlos Williams",
       "JValue": 0.2220216606498195,
       "Freq": 13
-    },
-    {
-      "Text": "\"by the road to the contagious hospital\"",
-      "Author": "William Carlos Williams",
-      "JValue": 0.43610456590405505,
-      "Freq": 91
     },
     {
       "Text": "\"probably saving for breakfast.\"",
@@ -27004,6 +24892,12 @@ var poetsData={
       "Freq": 13
     },
     {
+      "Text": "\"by the road to the contagioushospital.\"",
+      "Author": "William Carlos Williams",
+      "JValue": 0.4538799414348463,
+      "Freq": 13
+    },
+    {
       "Text": "\"Is this what you call making me comfortable?\"",
       "Author": "William Carlos Williams",
       "JValue": 0.13333333333333333,
@@ -27028,27 +24922,15 @@ var poetsData={
       "Freq": 13
     },
     {
+      "Text": "\"contagious hospital\"",
+      "Author": "William Carlos Williams",
+      "JValue": 0.5663716814159292,
+      "Freq": 13
+    },
+    {
       "Text": "\"gripping down and beginning to awaken\"",
       "Author": "William Carlos Williams",
       "JValue": 0.6409608091024019,
-      "Freq": 13
-    },
-    {
-      "Text": "\"glazed with rain water.\"",
-      "Author": "William Carlos Williams",
-      "JValue": 0.8268015170670039,
-      "Freq": 13
-    },
-    {
-      "Text": "\"To Asphodel, that Greeny Flower,\"",
-      "Author": "William Carlos Williams",
-      "JValue": 0.912768647281922,
-      "Freq": 13
-    },
-    {
-      "Text": "\"This is just to Say,\"",
-      "Author": "William Carlos Williams",
-      "JValue": 0.964601769911504,
       "Freq": 13
     }
   ],
@@ -27080,8 +24962,8 @@ var poetsData={
     {
       "Text": "\"Who breaks a butterfly upon the wheel?\"",
       "Author": "Alexander Pope",
-      "JValue": 0.34178265409723135,
-      "Freq": 21
+      "JValue": 0.38737788276623214,
+      "Freq": 28
     },
     {
       "Text": "\"Hope springs eternal from the human breast\"",
@@ -27092,8 +24974,8 @@ var poetsData={
     {
       "Text": "\"the proper study of Mankind is Man\"",
       "Author": "Alexander Pope",
-      "JValue": 0.6826029216467464,
-      "Freq": 7
+      "JValue": 0.7559840005059127,
+      "Freq": 14
     },
     {
       "Text": "\"gagg'd and bound\"",
@@ -27150,12 +25032,6 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"proper study of mankind\"",
-      "Author": "Alexander Pope",
-      "JValue": 0.8293650793650793,
-      "Freq": 7
-    },
-    {
       "Text": "\"vindicate the ways of god to man.\"",
       "Author": "Alexander Pope",
       "JValue": 0.8918650793650793,
@@ -27198,16 +25074,10 @@ var poetsData={
       "Freq": 7
     },
     {
-      "Text": "\"Who breaks a Butterfly upon a Wheel?\"",
-      "Author": "Alexander Pope",
-      "JValue": 0.5241635687732343,
-      "Freq": 7
-    },
-    {
       "Text": "\"Whatever is, is right.\"",
       "Author": "Alexander Pope",
-      "JValue": 0.7273853779429987,
-      "Freq": 7
+      "JValue": 0.5775481106582463,
+      "Freq": 14
     },
     {
       "Text": "\"Pray tell me, sir, whose dog are you?\"",
@@ -27219,12 +25089,6 @@ var poetsData={
       "Text": "\" and all was light.\"",
       "Author": "Alexander Pope",
       "JValue": 0.3042168674698796,
-      "Freq": 7
-    },
-    {
-      "Text": "\"One truth is clear, whatever is, is right.\"",
-      "Author": "Alexander Pope",
-      "JValue": 0.42771084337349397,
       "Freq": 7
     },
     {
@@ -27322,8 +25186,8 @@ var poetsData={
     {
       "Text": "\"fearful sound of 'fire'\"",
       "Author": "Anne Bradstreet",
-      "JValue": 0.5013731935633088,
-      "Freq": 18
+      "JValue": 0.47827639381150294,
+      "Freq": 27
     },
     {
       "Text": "\"must my self dissect my tatter'd state,\"",
@@ -27352,8 +25216,8 @@ var poetsData={
     {
       "Text": "\"My pleasant things in ashes lie,\"",
       "Author": "Anne Bradstreet",
-      "JValue": 0.5993975903614458,
-      "Freq": 9
+      "JValue": 0.6362230956225491,
+      "Freq": 18
     },
     {
       "Text": "\"no pleasant talk shall e'er be told, nor things recounted done of old\"",
@@ -27370,31 +25234,19 @@ var poetsData={
     {
       "Text": "\"The world no longer let me love, my hope and treasure lie above\"",
       "Author": "Anne Bradstreet",
-      "JValue": 0.3741483490014177,
-      "Freq": 18
+      "JValue": 0.44483453151818647,
+      "Freq": 27
     },
     {
       "Text": "\"more than whole mines of gold, or all the riches that the East doth hold\"",
       "Author": "Anne Bradstreet",
-      "JValue": 0.5255667350281475,
-      "Freq": 18
+      "JValue": 0.48734395000894665,
+      "Freq": 27
     },
     {
       "Text": "\"visage [that] was so irksome in my sight.\"",
       "Author": "Anne Bradstreet",
       "JValue": 0.15463917525773196,
-      "Freq": 9
-    },
-    {
-      "Text": "\"whole mines of gold\"",
-      "Author": "Anne Bradstreet",
-      "JValue": 0.41089837997054485,
-      "Freq": 9
-    },
-    {
-      "Text": "\"my pleasant things in ashes lie\"",
-      "Author": "Anne Bradstreet",
-      "JValue": 0.6730486008836526,
       "Freq": 9
     },
     {
@@ -27422,12 +25274,6 @@ var poetsData={
       "Freq": 9
     },
     {
-      "Text": "\"my hope and Treasure lie above.\"",
-      "Author": "Anne Bradstreet",
-      "JValue": 0.5862068965517241,
-      "Freq": 9
-    },
-    {
       "Text": "\"the fatal wrack of mortal things\"",
       "Author": "Anne Bradstreet",
       "JValue": 0.07373868046571798,
@@ -27443,12 +25289,6 @@ var poetsData={
       "Text": "\"My love is such that Rivers cannot quench\"",
       "Author": "Anne Bradstreet",
       "JValue": 0.2949547218628719,
-      "Freq": 9
-    },
-    {
-      "Text": "\"that fearful cry of 'fire' and 'fire,' let no man know was my desire\"",
-      "Author": "Anne Bradstreet",
-      "JValue": 0.4320827943078913,
       "Freq": 9
     },
     {
@@ -27486,8 +25326,8 @@ var poetsData={
     {
       "Text": "\"ye who enter here\"",
       "Author": "Dante Alighieri",
-      "JValue": 0.7585266030013642,
-      "Freq": 5
+      "JValue": 0.7475066550625021,
+      "Freq": 15
     },
     {
       "Text": "\"Abandon all hope.\"",
@@ -27532,21 +25372,9 @@ var poetsData={
       "Freq": 5
     },
     {
-      "Text": "\"Abandon all hope, ye who enter here.\"",
-      "Author": "Dante Alighieri",
-      "JValue": 0.8356807511737088,
-      "Freq": 5
-    },
-    {
       "Text": "\"To every captive soul and gentle heart\"",
       "Author": "Dante Alighieri",
       "JValue": 0.11545293072824156,
-      "Freq": 5
-    },
-    {
-      "Text": "\"All hope abandon ye who enter here.\"",
-      "Author": "Dante Alighieri",
-      "JValue": 0.6483126110124334,
       "Freq": 5
     },
     {
@@ -27584,8 +25412,8 @@ var poetsData={
     {
       "Text": "\"the right  hand, bigger than the head, thrust at the viewer.\"",
       "Author": "John Ashbery",
-      "JValue": 0.47788461538461535,
-      "Freq": 2
+      "JValue": 0.5388901156255018,
+      "Freq": 4
     },
     {
       "Text": "\"They must hold against\"",
@@ -27637,12 +25465,6 @@ var poetsData={
     },
     {
       "Text": "\"the right hand\"",
-      "Author": "John Ashbery",
-      "JValue": 0.5998956158663883,
-      "Freq": 2
-    },
-    {
-      "Text": "\"Bigger than the head, thrust at the viewer,\"",
       "Author": "John Ashbery",
       "JValue": 0.5998956158663883,
       "Freq": 2
@@ -27756,8 +25578,8 @@ var poetsData={
     {
       "Text": "\"This is the way the world ends, not with a bang but a whimper.\"",
       "Author": "T. S. Eliot",
-      "JValue": 0.681726189710286,
-      "Freq": 10
+      "JValue": 0.7177627462066057,
+      "Freq": 14
     },
     {
       "Text": "\"in the room where the women come and go, talking of Michelangelo.\"",
@@ -27804,14 +25626,8 @@ var poetsData={
     {
       "Text": "\"Unreal City Under the brown fog of a winter dawn,\"",
       "Author": "T. S. Eliot",
-      "JValue": 0.4194711538461538,
-      "Freq": 6
-    },
-    {
-      "Text": "\"of a winter noon.\"",
-      "Author": "T. S. Eliot",
-      "JValue": 0.4495192307692308,
-      "Freq": 6
+      "JValue": 0.4344951923076923,
+      "Freq": 12
     },
     {
       "Text": "\"Gentile or Jew\"",
@@ -28072,12 +25888,6 @@ var poetsData={
       "Freq": 8
     },
     {
-      "Text": "\"this is the way the world ends\"",
-      "Author": "T. S. Eliot",
-      "JValue": 0.8078541374474053,
-      "Freq": 4
-    },
-    {
       "Text": "\"across the hills and broke them\"",
       "Author": "T. S. Eliot",
       "JValue": 0.07238805970149254,
@@ -28282,8 +26092,8 @@ var poetsData={
     {
       "Text": "\"sitting careless on a  granary floor.\"",
       "Author": "To Autumn",
-      "JValue": 0.4819121447028423,
-      "Freq": 3
+      "JValue": 0.43572841636491194,
+      "Freq": 6
     },
     {
       "Text": "\"think not of them.\"",
@@ -28307,12 +26117,6 @@ var poetsData={
       "Text": "\"barred clouds bloom the soft-dying day, and touch the stubble plains withrosy hue.\"",
       "Author": "To Autumn",
       "JValue": 0.18043844856661048,
-      "Freq": 3
-    },
-    {
-      "Text": "\"Sometimes whoever seeks abroad may find theesitting careless on a granary floor.\"",
-      "Author": "To Autumn",
-      "JValue": 0.38954468802698144,
       "Freq": 3
     },
     {
@@ -28369,12 +26173,6 @@ var poetsData={
       "Text": "\"orcus-pregnant space bursting with grotesque animal-life,\"",
       "Author": "Virgil",
       "JValue": 0.12038140643623362,
-      "Freq": 7
-    },
-    {
-      "Text": "\"midway through life's journey\"",
-      "Author": "Virgil",
-      "JValue": 0.8855780691299165,
       "Freq": 7
     },
     {
@@ -29900,8 +27698,8 @@ var poetsData={
     {
       "Text": "\"to the true friend... And to the cruel one whose blows\"",
       "Author": "José Martí",
-      "JValue": 0.34951456310679613,
-      "Freq": 3
+      "JValue": 0.22050068682917745,
+      "Freq": 6
     },
     {
       "Text": "\"Break the heart by which I live\"",
@@ -29918,8 +27716,8 @@ var poetsData={
     {
       "Text": "\"From where the Palm tree grows\"",
       "Author": "José Martí",
-      "JValue": 0.5839112343966713,
-      "Freq": 3
+      "JValue": 0.5557186606968323,
+      "Freq": 4
     },
     {
       "Text": "\"And before dying I want\"",
@@ -29952,12 +27750,6 @@ var poetsData={
       "Freq": 3
     },
     {
-      "Text": "\"to the true friend\"",
-      "Author": "José Martí",
-      "JValue": 0.09148681055155876,
-      "Freq": 3
-    },
-    {
       "Text": "\"who offers his frank hand\"",
       "Author": "José Martí",
       "JValue": 0.09148681055155876,
@@ -29979,12 +27771,6 @@ var poetsData={
       "Text": "\"a dry tree in which worms have nested\"",
       "Author": "José Martí",
       "JValue": 0.1342281879194631,
-      "Freq": 1
-    },
-    {
-      "Text": "\"a sincere man from where the palm grows\"",
-      "Author": "José Martí",
-      "JValue": 0.47114093959731546,
       "Freq": 1
     },
     {
@@ -30759,13 +28545,7 @@ var poetsData={
       "Text": "\"How can I rest?\"",
       "Author": "Louise Glück",
       "JValue": 0.5351724137931034,
-      "Freq": 1
-    },
-    {
-      "Text": "\"how can I be content\"",
-      "Author": "Louise Glück",
-      "JValue": 0.5351724137931034,
-      "Freq": 1
+      "Freq": 2
     },
     {
       "Text": "\"when there is still\"",

@@ -1,7 +1,15 @@
-
-function getRandomInt(min,max) {
-  return min+Math.floor(Math.random() * (max-min));
+function getCurrentDate() {
+  const t = new Date();
+  const date = ('0' + t.getUTCDate()).slice(-2);
+  const month = ('0' + (t.getUTCMonth() + 1)).slice(-2);
+  const year = t.getUTCFullYear();
+  return date+"/"+month+"/"+year;
 }
+var rngGen=new Math.seedrandom(getCurrentDate());
+function getRandomInt(min,max) {
+  return min+Math.floor(rngGen() * (max-min));
+}
+
 var keyNow=keys[getRandomInt(0,keys.length)];
 
 var dt=poetsData[keyNow];
