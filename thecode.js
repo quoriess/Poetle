@@ -11,8 +11,8 @@ function getRandomInt(min,max) {
 }
 
 var keyNow=keys[getRandomInt(0,keys.length)];
-
 var dt=poetsData[keyNow];
+
 dt.sort(function(a, b) {
     return a.JValue-b.JValue;
 });

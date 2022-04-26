@@ -1,3 +1,4 @@
+var uiKeys=[];
 $(function() {
     $("#txtbox").keyup(function(event) {
             if (event.keyCode === 13) {
@@ -6,8 +7,10 @@ $(function() {
         }
     );
     $("#txtbox").focus();
+	uiKeys=keys.map((x)=>x);
+	uiKeys.push("");
     $("#txtbox").autocomplete({
-        source: keys
+        source: uiKeys
     });
 	$( function() {
 		$( "#dialog" ).dialog({autoOpen:false});
@@ -21,7 +24,9 @@ function showFaqs(){
 var gs = 1;
 var tries=0;
 function copyToCB(){
-	  navigator.clipboard.writeText("Poetle #???: \n"+"\uD83D\uDFE5".repeat(tries-1)+"\uD83D\uDFE9");
+	var t1=new Date(2022,3,26);
+	  var s= Math.floor((new Date()-t1)/(24*3600*1000))+1;
+	  navigator.clipboard.writeText("Poetle #"+s+": \n"+"\uD83D\uDFE5".repeat(tries-1)+"\uD83D\uDFE9");
 
 }
 function valueEntered() {
@@ -29,7 +34,7 @@ function valueEntered() {
 
     var ne = document.getElementById('g' + gs);
     var txtbox = document.getElementById('txtbox');
-    if (!keys.includes(txtbox.value)) {
+    if (!uiKeys.includes(txtbox.value)) {
         alert("not a valid poet");
         return;
     }
