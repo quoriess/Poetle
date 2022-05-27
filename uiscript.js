@@ -16,6 +16,7 @@ $(function() {
 		$( "#dialog" ).dialog({autoOpen:false});
 	} );
 	nextClue();
+	load();
 });
 function showFaqs(){
 	$("#dialog").dialog('open');
@@ -31,7 +32,7 @@ function copyToCB(){
 }
 function valueEntered() {
     if (gs == 6) return;
-
+	console.log(gs)
     var ne = document.getElementById('g' + gs);
     var txtbox = document.getElementById('txtbox');
     if (!uiKeys.includes(txtbox.value)) {
@@ -39,11 +40,11 @@ function valueEntered() {
         return;
     }
     ne.textContent = txtbox.value;
+	setCookie("g"+clueNo,txtbox.value==""?"___":txtbox.value);
     if(txtbox.value==keyNow){
 		tries=gs;
 		$("#g"+gs).css("background-color","green");
 		while(clueNo<5)nextClue();
-		
 		$(".hiddenBox").html("Well done! <button style='float:right' onclick='copyToCB()'>Share</button>");
 		$(".hiddenBox").css("display","block");
 	}
@@ -52,7 +53,7 @@ function valueEntered() {
 		nextClue();
 		if (gs == 5) {
 			document.getElementById("enter").disabled = true;
-			$(".hiddenBox").html("Someone did a fucky yucky uwu ~murr~ The answer was: <b>"+ keyNow+"</b>");
+			$(".hiddenBox").html("The answer was: <b>"+ keyNow+"</b>");
 			$(".hiddenBox").css("display","block");
 		}
 	}
