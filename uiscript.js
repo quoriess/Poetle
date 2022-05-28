@@ -16,7 +16,7 @@ $(function() {
 		$( "#dialog" ).dialog({autoOpen:false});
 	} );
 	nextClue();
-	load();
+	//load();
 });
 function showFaqs(){
 	$("#dialog").dialog('open');
